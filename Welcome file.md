@@ -5,7 +5,7 @@
 ## Part 1: the axolotl genome
 ### A long-read assembler for large genomes
 d/d axolotl strain (mutant)
-It is easy to acquire live imaging so . So we sequence the genome of axolotl.
+It is easy to acquire live imaging so it is used in laboratory regeneration studies. So we sequence the genome of axolotl.
 The genome is large and complex (32 Gb).
 We sequence the genome: 32x coverage, N50 read length 14.2kb, PacBio.
 
@@ -150,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzgwNzg5MjksMjA2Njc5MTM0MSw4Mz
+eyJoaXN0b3J5IjpbLTE2ODQ1MTMxMDMsMjA2Njc5MTM0MSw4Mz
 kzMDQwMDBdfQ==
 -->
