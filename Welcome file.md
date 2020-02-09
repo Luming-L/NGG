@@ -4,6 +4,7 @@
 
 ## Part 1: the axolotl genome
 ### A long-read assembler for large genomes
+
 ### Expansion of long terminal repeat retroelement
 a kind of element located in the terminal of chromosome. it is expanded.
 ### HoxA cluster and intron size constraints
@@ -145,5 +146,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Njc5MTM0MSw4MzkzMDQwMDBdfQ==
+eyJoaXN0b3J5IjpbLTIyMjk1MDQwMSwyMDY2NzkxMzQxLDgzOT
+MwNDAwMF19
 -->
