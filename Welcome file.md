@@ -8,6 +8,7 @@
 a kind of element located in the terminal of chromosome. it is expanded.
 ### HoxA cluster and intron size constraints
 ### A reduced Pax-family complement
+Pax3 is lost
 ### Axolotl Pax7 has similar functions to Pax3
 ### Species-restricted genes in regeneration
 
@@ -144,5 +145,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDE0OTcwMSw4MzkzMDQwMDBdfQ==
+eyJoaXN0b3J5IjpbMjA2Njc5MTM0MSw4MzkzMDQwMDBdfQ==
 -->
