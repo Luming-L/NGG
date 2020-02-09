@@ -3,10 +3,11 @@
 # The axolotl genome and the evolution of key tissue formation regulators
 
 ## Part 1: the axolotl genome
+### A long-read assembler 
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
-## Part 2: the evolution of key ti
+## Part 2: the evolution of key tissue formation and regulators
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
@@ -137,5 +138,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4Nzk4MDE0XX0=
+eyJoaXN0b3J5IjpbMTc0MjgxODA1MV19
 -->
