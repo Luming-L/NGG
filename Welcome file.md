@@ -20,7 +20,7 @@ The assembly of axolotl genome is good, because 98.5% UCEs (non-exonic ultracons
 to further assess the completeness of the assembly, generate a gene catalogue by sequencing mRNA from 22 tissues.
 All 180649 transcript contigs contained 99% conserved core eukaryotic genes.
 ### Expansion of long terminal repeat retroelement
-similar 
+similar number of 
 ### HoxA cluster and intron size constraints
 ### A reduced Pax-family complement
 Pax3 is lost
@@ -160,7 +160,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMDM1MDczLDE2MzA3OTI2ODQsLTQzMz
+eyJoaXN0b3J5IjpbMTE4NTAzNDQzLDE2MzA3OTI2ODQsLTQzMz
 YzOTQwMywtMTM4MTg2MzE1MSwxNDczODU2NDEyLC04ODI5ODM2
 MzgsLTcwODkyOTQ5NCwtNTg1Mzk0NTYwLC0xMTQ1NTYzMzI4LD
 E5OTA2NjA5NDEsLTExNjEzMzEyMjAsLTE1MTYzNjA1MDQsNTEz
