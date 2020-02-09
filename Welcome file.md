@@ -4,7 +4,7 @@
 
 ## Part 1: the axolotl genome
 ### A long-read assembler for large genomes
-
+The axolotl has great ability in regeneration and it is eas
 ### Expansion of long terminal repeat retroelement
 a kind of element located in the terminal of chromosome. it is expanded.
 ### HoxA cluster and intron size constraints
@@ -146,6 +146,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjk1MDQwMSwyMDY2NzkxMzQxLDgzOT
+eyJoaXN0b3J5IjpbMTY0OTQzMzY4OSwyMDY2NzkxMzQxLDgzOT
 MwNDAwMF19
 -->
