@@ -26,7 +26,7 @@ most repetitive sequences are **LTR (long terminal repeat) **
 Most LTR are **endogenous retroviruses**
 Some elements are more than 10kb in length.
 97% of contigs ended in LTR elements 
-The number of 
+The number of substitution to the repeat consensus - 
 ### HoxA cluster and intron size constraints
 ### A reduced Pax-family complement
 Pax3 is lost
@@ -166,7 +166,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg0MTY1MDYsMTYzNDc5NzI1Myw1Nz
+eyJoaXN0b3J5IjpbLTE2OTQ4ODM2MDAsMTYzNDc5NzI1Myw1Nz
 k0OTAxNTAsMTYzMjc1NTU5Myw5MzEwMDc4NjEsMTE4NTAzNDQz
 LDE2MzA3OTI2ODQsLTQzMzYzOTQwMywtMTM4MTg2MzE1MSwxND
 czODU2NDEyLC04ODI5ODM2MzgsLTcwODkyOTQ5NCwtNTg1Mzk0
