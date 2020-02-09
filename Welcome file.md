@@ -16,7 +16,7 @@ MARVEL produced a **contig assembly** with an N50 of 218kb.
 **heterozygosity**
 genome sequencing strategy:
 pacbio sequencing to get long reads - contig assembly with MARVEL - 7x illumina sequencing to get short reads for correction with **Pilon** - **optical map** to **scaffold** and correct **chimeric contigs** (**slightly reduce N50 contig length to 216kb**, final **hybrid assembly** **N50 scaffold** length 3Mb)
-The assembly of axolotl genome is good, because 98.5% UCEs (non-exonic ultraconserved elements) across the verbrate genome align to axolotl assembly.
+The assembly of axolotl genome is good, because 98.5% UCEs (non-exonic ultraconserved elements) across vertebrates align to axolotl assembly.
 ### Expansion of long terminal repeat retroelement
 a kind of element located in the terminal of chromosome. it is expanded.
 ### HoxA cluster and intron size constraints
@@ -158,8 +158,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5NzA5OTEyLC04ODI5ODM2MzgsLTcwOD
-kyOTQ5NCwtNTg1Mzk0NTYwLC0xMTQ1NTYzMzI4LDE5OTA2NjA5
-NDEsLTExNjEzMzEyMjAsLTE1MTYzNjA1MDQsNTEzMDg0OTM5LD
-MzODg1ODYxNiwyMDY2NzkxMzQxLDgzOTMwNDAwMF19
+eyJoaXN0b3J5IjpbMTQ3Mzg1NjQxMiwtODgyOTgzNjM4LC03MD
+g5Mjk0OTQsLTU4NTM5NDU2MCwtMTE0NTU2MzMyOCwxOTkwNjYw
+OTQxLC0xMTYxMzMxMjIwLC0xNTE2MzYwNTA0LDUxMzA4NDkzOS
+wzMzg4NTg2MTYsMjA2Njc5MTM0MSw4MzkzMDQwMDBdfQ==
 -->
