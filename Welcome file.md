@@ -11,6 +11,7 @@ We sequence the genome: 110 million long reads, 32x **coverage**, **N50** read l
 avoid sample bias, span long repeat region (double check: one long read spanning, some smaller reads truly overlapping the long read)
 An assembly algorithm: MARVEL
 MARVEL has two-phase read-correction to keep PacBio reads intact for assembly.
+MARVEL produced a **contig assembly** with an N50 of 218kb.
 
 
 ### Expansion of long terminal repeat retroelement
@@ -154,7 +155,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjEzMzEyMjAsLTE1MTYzNjA1MDQsNT
-EzMDg0OTM5LDMzODg1ODYxNiwyMDY2NzkxMzQxLDgzOTMwNDAw
-MF19
+eyJoaXN0b3J5IjpbMTk5MDY2MDk0MSwtMTE2MTMzMTIyMCwtMT
+UxNjM2MDUwNCw1MTMwODQ5MzksMzM4ODU4NjE2LDIwNjY3OTEz
+NDEsODM5MzA0MDAwXX0=
 -->
