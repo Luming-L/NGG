@@ -26,7 +26,7 @@ most repetitive sequences are **LTR (long terminal repeat) **
 Most LTR are **endogenous retroviruses**
 Some elements are more than 10kb in length.
 97% of contigs ended in LTR elements 
-The number of substitution to the repeat consensus - 
+The number of substitution to the repeat consensus - an estimate of the relative age 
 ### HoxA cluster and intron size constraints
 ### A reduced Pax-family complement
 Pax3 is lost
@@ -166,11 +166,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ4ODM2MDAsMTYzNDc5NzI1Myw1Nz
-k0OTAxNTAsMTYzMjc1NTU5Myw5MzEwMDc4NjEsMTE4NTAzNDQz
-LDE2MzA3OTI2ODQsLTQzMzYzOTQwMywtMTM4MTg2MzE1MSwxND
-czODU2NDEyLC04ODI5ODM2MzgsLTcwODkyOTQ5NCwtNTg1Mzk0
-NTYwLC0xMTQ1NTYzMzI4LDE5OTA2NjA5NDEsLTExNjEzMzEyMj
-AsLTE1MTYzNjA1MDQsNTEzMDg0OTM5LDMzODg1ODYxNiwyMDY2
-NzkxMzQxXX0=
+eyJoaXN0b3J5IjpbLTE2MzUyMjcxMTgsLTE2OTQ4ODM2MDAsMT
+YzNDc5NzI1Myw1Nzk0OTAxNTAsMTYzMjc1NTU5Myw5MzEwMDc4
+NjEsMTE4NTAzNDQzLDE2MzA3OTI2ODQsLTQzMzYzOTQwMywtMT
+M4MTg2MzE1MSwxNDczODU2NDEyLC04ODI5ODM2MzgsLTcwODky
+OTQ5NCwtNTg1Mzk0NTYwLC0xMTQ1NTYzMzI4LDE5OTA2NjA5ND
+EsLTExNjEzMzEyMjAsLTE1MTYzNjA1MDQsNTEzMDg0OTM5LDMz
+ODg1ODYxNl19
 -->
