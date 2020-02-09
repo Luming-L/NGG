@@ -15,7 +15,7 @@ MARVEL produced a **contig assembly** with an N50 of 218kb.
 7x illumina-based sequencing to correct sequence errors in 1% of contig base
 **heterozygosity**
 genome sequencing strategy:
-pacbio sequencing to get long reads - contig assembly with MARVEL - 7x illumina sequencing to get short  for correction with Pilon - optical map to scaffold and correct chimeric contigs
+pacbio sequencing to get long reads - contig assembly with MARVEL - 7x illumina sequencing to get short reads for correction with **Pilon** - **optical map** to scaffold and correct chimeric contigs
 ### Expansion of long terminal repeat retroelement
 a kind of element located in the terminal of chromosome. it is expanded.
 ### HoxA cluster and intron size constraints
@@ -157,7 +157,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTg0NjExOSwxOTkwNjYwOTQxLC0xMT
-YxMzMxMjIwLC0xNTE2MzYwNTA0LDUxMzA4NDkzOSwzMzg4NTg2
-MTYsMjA2Njc5MTM0MSw4MzkzMDQwMDBdfQ==
+eyJoaXN0b3J5IjpbLTExNDU1NjMzMjgsMTk5MDY2MDk0MSwtMT
+E2MTMzMTIyMCwtMTUxNjM2MDUwNCw1MTMwODQ5MzksMzM4ODU4
+NjE2LDIwNjY3OTEzNDEsODM5MzA0MDAwXX0=
 -->
