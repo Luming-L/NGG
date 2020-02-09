@@ -5,7 +5,8 @@
 ## Part 1: the axolotl genome
 ### A long-read assembler for large genomes
 ### Expansion of long terminal repeat retroelement
-### 
+### HoxA cluster and intron size constraints
+### A reduced Pax-family complement
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
@@ -140,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5MzA0MDAwXX0=
+eyJoaXN0b3J5IjpbLTIwODE0NzE2NzQsODM5MzA0MDAwXX0=
 -->
