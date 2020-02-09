@@ -7,8 +7,8 @@
 d/d axolotl strain (mutant)
 It is easy to acquire live imaging so it is used in laboratory regeneration studies. We sequence the genome of axolotl.
 The genome is large and complex (32 Gb).
-We sequence the genome: 110 million long reads, 32x **coverage*, N50 read length 14.2kb, PacBio.
-
+We sequence the genome: 110 million long reads, 32x **coverage**, **N50** read length 14.2kb, **PacBio**.
+avoid sample bias, span long repeat region
 ### Expansion of long terminal repeat retroelement
 a kind of element located in the terminal of chromosome. it is expanded.
 ### HoxA cluster and intron size constraints
@@ -150,6 +150,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDQxMjc2MCwzMzg4NTg2MTYsMjA2Nj
-c5MTM0MSw4MzkzMDQwMDBdfQ==
+eyJoaXN0b3J5IjpbNTEzMDg0OTM5LDMzODg1ODYxNiwyMDY2Nz
+kxMzQxLDgzOTMwNDAwMF19
 -->
