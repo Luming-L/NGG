@@ -12,7 +12,7 @@ avoid sample bias, span long repeat region (double check: one long read spanning
 An assembly algorithm: MARVEL
 MARVEL has two-phase read-correction to keep PacBio reads intact for assembly.
 MARVEL produced a **contig assembly** with an N50 of 218kb.
-
+7x illumina-based sequencing to correct sequence errors in 1% of contig bases
 
 ### Expansion of long terminal repeat retroelement
 a kind of element located in the terminal of chromosome. it is expanded.
@@ -155,7 +155,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDY2MDk0MSwtMTE2MTMzMTIyMCwtMT
-UxNjM2MDUwNCw1MTMwODQ5MzksMzM4ODU4NjE2LDIwNjY3OTEz
-NDEsODM5MzA0MDAwXX0=
+eyJoaXN0b3J5IjpbMzQyMjIwOTMwLDE5OTA2NjA5NDEsLTExNj
+EzMzEyMjAsLTE1MTYzNjA1MDQsNTEzMDg0OTM5LDMzODg1ODYx
+NiwyMDY2NzkxMzQxLDgzOTMwNDAwMF19
 -->
