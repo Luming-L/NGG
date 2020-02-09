@@ -9,6 +9,9 @@ It is easy to acquire live imaging so it is used in laboratory regeneration stud
 The genome is large and complex (32 Gb).
 We sequence the genome: 110 million long reads, 32x **coverage**, **N50** read length 14.2kb, **PacBio**.
 avoid sample bias, span long repeat region (double check: one long read spanning, some smaller reads truly overlapping the long read)
+An assembly algorithm: MARVEL
+MARVEL has two-phase read correction to keep PacBio reads intact for assembly.
+
 ### Expansion of long terminal repeat retroelement
 a kind of element located in the terminal of chromosome. it is expanded.
 ### HoxA cluster and intron size constraints
@@ -150,6 +153,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYzNjA1MDQsNTEzMDg0OTM5LDMzOD
-g1ODYxNiwyMDY2NzkxMzQxLDgzOTMwNDAwMF19
+eyJoaXN0b3J5IjpbLTEzODA3MTIwNTEsLTE1MTYzNjA1MDQsNT
+EzMDg0OTM5LDMzODg1ODYxNiwyMDY2NzkxMzQxLDgzOTMwNDAw
+MF19
 -->
