@@ -5,6 +5,7 @@
 ## Part 1: the axolotl genome
 ### A long-read assembler for large genomes
 ### Expansion of long terminal repeat retroelement
+a kind of element located in the terminal of chromosome. it is expanded.
 ### HoxA cluster and intron size constraints
 ### A reduced Pax-family complement
 ### Axolotl Pax7 has similar functions to Pax3
@@ -143,5 +144,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDUwMTAwMiw4MzkzMDQwMDBdfQ==
+eyJoaXN0b3J5IjpbMTIxMDE0OTcwMSw4MzkzMDQwMDBdfQ==
 -->
