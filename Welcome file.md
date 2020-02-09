@@ -23,7 +23,7 @@ All 180649 transcript contigs contained 99% conserved core eukaryotic genes.
 similar number of genes in other smaller vertebrate genomes
 repetitive sequences made up 65.6% of the contig assembly
 most repetitive sequences are LTR (long terminal repeat) 
-Most LTR are endogenous retroviruses
+Most LTR are **endogenous retroviruses
 Some elements are more than 10kb in length.
 97% of contigs ended in LTR elements 
 
@@ -166,11 +166,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDc5NzI1Myw1Nzk0OTAxNTAsMTYzMj
-c1NTU5Myw5MzEwMDc4NjEsMTE4NTAzNDQzLDE2MzA3OTI2ODQs
-LTQzMzYzOTQwMywtMTM4MTg2MzE1MSwxNDczODU2NDEyLC04OD
-I5ODM2MzgsLTcwODkyOTQ5NCwtNTg1Mzk0NTYwLC0xMTQ1NTYz
-MzI4LDE5OTA2NjA5NDEsLTExNjEzMzEyMjAsLTE1MTYzNjA1MD
-QsNTEzMDg0OTM5LDMzODg1ODYxNiwyMDY2NzkxMzQxLDgzOTMw
-NDAwMF19
+eyJoaXN0b3J5IjpbLTE4NDE5MzAwNDMsMTYzNDc5NzI1Myw1Nz
+k0OTAxNTAsMTYzMjc1NTU5Myw5MzEwMDc4NjEsMTE4NTAzNDQz
+LDE2MzA3OTI2ODQsLTQzMzYzOTQwMywtMTM4MTg2MzE1MSwxND
+czODU2NDEyLC04ODI5ODM2MzgsLTcwODkyOTQ5NCwtNTg1Mzk0
+NTYwLC0xMTQ1NTYzMzI4LDE5OTA2NjA5NDEsLTExNjEzMzEyMj
+AsLTE1MTYzNjA1MDQsNTEzMDg0OTM5LDMzODg1ODYxNiwyMDY2
+NzkxMzQxXX0=
 -->
