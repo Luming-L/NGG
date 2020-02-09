@@ -18,7 +18,7 @@ genome sequencing strategy:
 pacbio sequencing to get long reads - contig assembly with MARVEL - 7x illumina sequencing to get short reads for correction with **Pilon** - **optical map** to **scaffold** and correct **chimeric contigs** (**slightly reduce N50 contig length to 216kb**, final **hybrid assembly** **N50 scaffold** length 3Mb)
 The assembly of axolotl genome is good, because 98.5% UCEs (non-exonic ultraconserved elements) across vertebrates align to axolotl assembly.
 to further assess the completeness of the assembly, generate a gene catalogue by sequencing mRNA from 22 tissues.
-All 180649 transcript contigs contained 99% 
+All 180649 transcript contigs contained 99% conserved core eukaryotic genes.
 ### Expansion of long terminal repeat retroelement
 a kind of element located in the terminal of chromosome. it is expanded.
 ### HoxA cluster and intron size constraints
@@ -160,7 +160,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjYwNzU2MSwtMTM4MTg2MzE1MSwxND
+eyJoaXN0b3J5IjpbLTQzMzYzOTQwMywtMTM4MTg2MzE1MSwxND
 czODU2NDEyLC04ODI5ODM2MzgsLTcwODkyOTQ5NCwtNTg1Mzk0
 NTYwLC0xMTQ1NTYzMzI4LDE5OTA2NjA5NDEsLTExNjEzMzEyMj
 AsLTE1MTYzNjA1MDQsNTEzMDg0OTM5LDMzODg1ODYxNiwyMDY2
