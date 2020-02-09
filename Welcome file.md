@@ -24,7 +24,7 @@ similar number of genes in other smaller vertebrate genomes
 repetitive sequences made up 65.6% of the contig assembly
 most repetitive sequences are LTR (long terminal repeat) 
 Most LTR are endogenous retroviruses
-
+Some elements are more than 10kb in length.
 
 ### HoxA cluster and intron size constraints
 ### A reduced Pax-family complement
@@ -165,7 +165,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk1MjEwMTgsNTc5NDkwMTUwLDE2Mz
+eyJoaXN0b3J5IjpbLTIxMjcwMDczOTQsNTc5NDkwMTUwLDE2Mz
 I3NTU1OTMsOTMxMDA3ODYxLDExODUwMzQ0MywxNjMwNzkyNjg0
 LC00MzM2Mzk0MDMsLTEzODE4NjMxNTEsMTQ3Mzg1NjQxMiwtOD
 gyOTgzNjM4LC03MDg5Mjk0OTQsLTU4NTM5NDU2MCwtMTE0NTU2
