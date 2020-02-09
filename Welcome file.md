@@ -21,7 +21,7 @@ to further assess the completeness of the assembly, generate a gene catalogue by
 All 180649 transcript contigs contained 99% conserved core eukaryotic genes.
 ### Expansion of long terminal repeat retroelement
 similar number of genes in other smaller vertebrate genomes
-repetitive se
+repetitive sequences made up 65.6% of the contig assembly
 ### HoxA cluster and intron size constraints
 ### A reduced Pax-family complement
 Pax3 is lost
@@ -161,7 +161,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTE3ODM0OSw5MzEwMDc4NjEsMTE4NT
+eyJoaXN0b3J5IjpbMTYzMjc1NTU5Myw5MzEwMDc4NjEsMTE4NT
 AzNDQzLDE2MzA3OTI2ODQsLTQzMzYzOTQwMywtMTM4MTg2MzE1
 MSwxNDczODU2NDEyLC04ODI5ODM2MzgsLTcwODkyOTQ5NCwtNT
 g1Mzk0NTYwLC0xMTQ1NTYzMzI4LDE5OTA2NjA5NDEsLTExNjEz
