@@ -14,8 +14,8 @@ MARVEL has two-phase read-correction to keep PacBio reads intact for assembly.
 MARVEL produced a **contig assembly** with an N50 of 218kb.
 7x illumina-based sequencing to correct sequence errors in 1% of contig base
 **heterozygosity**
-genome sequenci
-pacbio sequencing reads - contigs - 7x illumina sequncing correction - optical map scaffold 
+genome sequencing strategy:
+pacbio sequencing to get reads - contig assembly with MARVEL - 7x illumina sequencing for correction - optical map scaffold 
 ### Expansion of long terminal repeat retroelement
 a kind of element located in the terminal of chromosome. it is expanded.
 ### HoxA cluster and intron size constraints
@@ -157,7 +157,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwOTQyNTMwLDE5OTA2NjA5NDEsLTExNj
-EzMzEyMjAsLTE1MTYzNjA1MDQsNTEzMDg0OTM5LDMzODg1ODYx
-NiwyMDY2NzkxMzQxLDgzOTMwNDAwMF19
+eyJoaXN0b3J5IjpbLTE5MjA1NzgzMTMsMTk5MDY2MDk0MSwtMT
+E2MTMzMTIyMCwtMTUxNjM2MDUwNCw1MTMwODQ5MzksMzM4ODU4
+NjE2LDIwNjY3OTEzNDEsODM5MzA0MDAwXX0=
 -->
