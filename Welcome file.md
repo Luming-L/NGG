@@ -22,7 +22,8 @@ All 180649 transcript contigs contained 99% conserved core eukaryotic genes.
 ### Expansion of long terminal repeat retroelement
 similar number of genes in other smaller vertebrate genomes
 repetitive sequences made up 65.6% of the contig assembly
-most repetitive sequences are LTR (long terminal repeat) and endogenous retroviruses
+most repetitive sequences are LTR (long terminal repeat) 
+Most LTR are endogenous retroviruses
 ### HoxA cluster and intron size constraints
 ### A reduced Pax-family complement
 Pax3 is lost
@@ -162,10 +163,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5NDkwMTUwLDE2MzI3NTU1OTMsOTMxMD
-A3ODYxLDExODUwMzQ0MywxNjMwNzkyNjg0LC00MzM2Mzk0MDMs
-LTEzODE4NjMxNTEsMTQ3Mzg1NjQxMiwtODgyOTgzNjM4LC03MD
-g5Mjk0OTQsLTU4NTM5NDU2MCwtMTE0NTU2MzMyOCwxOTkwNjYw
-OTQxLC0xMTYxMzMxMjIwLC0xNTE2MzYwNTA0LDUxMzA4NDkzOS
-wzMzg4NTg2MTYsMjA2Njc5MTM0MSw4MzkzMDQwMDBdfQ==
+eyJoaXN0b3J5IjpbMTg0Mjk4ODI1OCw1Nzk0OTAxNTAsMTYzMj
+c1NTU5Myw5MzEwMDc4NjEsMTE4NTAzNDQzLDE2MzA3OTI2ODQs
+LTQzMzYzOTQwMywtMTM4MTg2MzE1MSwxNDczODU2NDEyLC04OD
+I5ODM2MzgsLTcwODkyOTQ5NCwtNTg1Mzk0NTYwLC0xMTQ1NTYz
+MzI4LDE5OTA2NjA5NDEsLTExNjEzMzEyMjAsLTE1MTYzNjA1MD
+QsNTEzMDg0OTM5LDMzODg1ODYxNiwyMDY2NzkxMzQxLDgzOTMw
+NDAwMF19
 -->
