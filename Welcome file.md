@@ -26,7 +26,7 @@ most repetitive sequences are **LTR (long terminal repeat) **
 Most LTR are **endogenous retroviruses**
 Some elements are more than 10kb in length.
 97% of contigs ended in LTR elements 
-The number of substitution to the repeat consensus - an estimate of the relative age of the LTR retroelement **no. subs per site** - the axolo
+The number of substitution to the repeat consensus - an estimate of the relative age of the LTR retroelement **no. subs per site** - the axolotl genome has undergone a long period of transposon activity
 ### HoxA cluster and intron size constraints
 ### A reduced Pax-family complement
 Pax3 is lost
@@ -166,7 +166,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NDc4OTA5LC0xNjk0ODgzNjAwLDE2Mz
+eyJoaXN0b3J5IjpbMzU0ODg2MzcwLC0xNjk0ODgzNjAwLDE2Mz
 Q3OTcyNTMsNTc5NDkwMTUwLDE2MzI3NTU1OTMsOTMxMDA3ODYx
 LDExODUwMzQ0MywxNjMwNzkyNjg0LC00MzM2Mzk0MDMsLTEzOD
 E4NjMxNTEsMTQ3Mzg1NjQxMiwtODgyOTgzNjM4LC03MDg5Mjk0
