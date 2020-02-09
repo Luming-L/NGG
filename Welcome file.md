@@ -6,7 +6,8 @@
 ### A long-read assembler for large genomes
 The axolotl has great ability in regeneration and it is easy to acquire live imaging for it. So we sequence the genome of axolotl.
 The genome is large and complex (32 Gb).
-We sequence the genome: 32x coverage, N50 read length 14.2kb, PacBio
+We sequence the genome: 32x coverage, N50 read length 14.2kb, PacBio.
+
 ### Expansion of long terminal repeat retroelement
 a kind of element located in the terminal of chromosome. it is expanded.
 ### HoxA cluster and intron size constraints
@@ -148,6 +149,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTIzODg2MCwyMDY2NzkxMzQxLDgzOT
-MwNDAwMF19
+eyJoaXN0b3J5IjpbLTE3Mjk2OTkxNjQsMjA2Njc5MTM0MSw4Mz
+kzMDQwMDBdfQ==
 -->
