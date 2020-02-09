@@ -27,7 +27,7 @@ Most LTR are **endogenous retroviruses**
 Some elements are more than 10kb in length.
 97% of contigs ended in LTR elements 
 The number of substitution to the repeat consensus - an estimate of the relative age of the LTR retroelement **no. subs per site** - the axolotl genome has undergone a long period of transposon activity
-median i
+median intron size expands.
 ### HoxA cluster and intron size constraints
 ### A reduced Pax-family complement
 Pax3 is lost
@@ -167,7 +167,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTIyODg1NywzNTQ4ODYzNzAsLTE2OT
+eyJoaXN0b3J5IjpbMTUwMzUwNDQ0NiwzNTQ4ODYzNzAsLTE2OT
 Q4ODM2MDAsMTYzNDc5NzI1Myw1Nzk0OTAxNTAsMTYzMjc1NTU5
 Myw5MzEwMDc4NjEsMTE4NTAzNDQzLDE2MzA3OTI2ODQsLTQzMz
 YzOTQwMywtMTM4MTg2MzE1MSwxNDczODU2NDEyLC04ODI5ODM2
