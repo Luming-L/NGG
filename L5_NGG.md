@@ -2,7 +2,7 @@ overlap graph
 De Bruijn graph 
 split reads into k-mers
 build graph of k-mers
-
+deconvolute graph to derive assembly
 how de Bruijn graph are simplified
 
 
@@ -50,6 +50,6 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4Nzg3NzQsMjA5NjQxNzQyMiwyMDAwMT
-E4MjgzLDEyNDM1NzM0OTddfQ==
+eyJoaXN0b3J5IjpbLTE5Njc5MTEzNzgsMjA5NjQxNzQyMiwyMD
+AwMTE4MjgzLDEyNDM1NzM0OTddfQ==
 -->
