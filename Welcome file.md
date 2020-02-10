@@ -38,6 +38,7 @@ each gene has two exons and an intron.
 HoxA in axolotl has a increased repeat content and is 3.5 times larger.
 highly conserved non-exonic elements are not interspersed in the 170-kb repetitive region between HoxA3 and HoxA4
 the expansion of introns of developmental genes is significantly lower (6- to 11-fold, P<10-11)
+introns of developmental genes in axolotl are shorter than introns of non-developmental genes.
 ### Species-restricted genes in regeneration
 ## Part 2: the evolution of key tissue formation and regulators
 
@@ -170,11 +171,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzIwNTEyOSwtNDUyNzc4ODYwLC0zND
-c3MTkyNjEsMTQ2NTY1NTYyMywtNDAzNzU2MTM2LDE1MDM1MDQ0
-NDYsMzU0ODg2MzcwLC0xNjk0ODgzNjAwLDE2MzQ3OTcyNTMsNT
-c5NDkwMTUwLDE2MzI3NTU1OTMsOTMxMDA3ODYxLDExODUwMzQ0
-MywxNjMwNzkyNjg0LC00MzM2Mzk0MDMsLTEzODE4NjMxNTEsMT
-Q3Mzg1NjQxMiwtODgyOTgzNjM4LC03MDg5Mjk0OTQsLTU4NTM5
-NDU2MF19
+eyJoaXN0b3J5IjpbLTE0Njg1OTU1NjMsMTcyMzIwNTEyOSwtND
+UyNzc4ODYwLC0zNDc3MTkyNjEsMTQ2NTY1NTYyMywtNDAzNzU2
+MTM2LDE1MDM1MDQ0NDYsMzU0ODg2MzcwLC0xNjk0ODgzNjAwLD
+E2MzQ3OTcyNTMsNTc5NDkwMTUwLDE2MzI3NTU1OTMsOTMxMDA3
+ODYxLDExODUwMzQ0MywxNjMwNzkyNjg0LC00MzM2Mzk0MDMsLT
+EzODE4NjMxNTEsMTQ3Mzg1NjQxMiwtODgyOTgzNjM4LC03MDg5
+Mjk0OTRdfQ==
 -->
