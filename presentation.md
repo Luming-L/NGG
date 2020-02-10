@@ -36,13 +36,12 @@ HoxA in axolotl has a increased repeat content and is 3.5 times larger.
 highly conserved non-exonic elements are not interspersed in the 170-kb repetitive region between HoxA3 and HoxA4
 the expansion of introns of developmental genes is significantly lower (6- to 11-fold, P<10-11)
 introns of developmental genes in axolotl are shorter than introns of non-developmental genes
+
+## Part 2: the evolution of key tissue formation and regulators
 ### A reduced Pax-family complement
 the genome for families of canonical developmental signalling molecules
 ### Axolotl Pax7 has similar functions to Pax3
 ### Species-restricted genes in regeneration
-## Part 2: the evolution of key tissue formation and regulators
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
 
 # Synchronization
@@ -159,5 +158,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTM2MjkyMF19
+eyJoaXN0b3J5IjpbLTExMjI5NTcyMjQsMTU5MTM2MjkyMF19
 -->
