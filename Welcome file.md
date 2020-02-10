@@ -33,7 +33,7 @@ median intron size expands.
 Pax3 is lost
 ### Axolotl Pax7 has similar functions to Pax3
 ### Species-restricted genes in regeneration
-HoxA locus is important in proximal-to-distal limb development and
+HoxA locus is important in proximal-to-distal limb development and is reactivated during limb regeneration.
 ## Part 2: the evolution of key tissue formation and regulators
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
@@ -165,11 +165,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwNDY3MTI2LDE1MDM1MDQ0NDYsMzU0OD
-g2MzcwLC0xNjk0ODgzNjAwLDE2MzQ3OTcyNTMsNTc5NDkwMTUw
-LDE2MzI3NTU1OTMsOTMxMDA3ODYxLDExODUwMzQ0MywxNjMwNz
-kyNjg0LC00MzM2Mzk0MDMsLTEzODE4NjMxNTEsMTQ3Mzg1NjQx
-MiwtODgyOTgzNjM4LC03MDg5Mjk0OTQsLTU4NTM5NDU2MCwtMT
-E0NTU2MzMyOCwxOTkwNjYwOTQxLC0xMTYxMzMxMjIwLC0xNTE2
-MzYwNTA0XX0=
+eyJoaXN0b3J5IjpbLTQwMzc1NjEzNiwxNTAzNTA0NDQ2LDM1ND
+g4NjM3MCwtMTY5NDg4MzYwMCwxNjM0Nzk3MjUzLDU3OTQ5MDE1
+MCwxNjMyNzU1NTkzLDkzMTAwNzg2MSwxMTg1MDM0NDMsMTYzMD
+c5MjY4NCwtNDMzNjM5NDAzLC0xMzgxODYzMTUxLDE0NzM4NTY0
+MTIsLTg4Mjk4MzYzOCwtNzA4OTI5NDk0LC01ODUzOTQ1NjAsLT
+ExNDU1NjMzMjgsMTk5MDY2MDk0MSwtMTE2MTMzMTIyMCwtMTUx
+NjM2MDUwNF19
 -->
