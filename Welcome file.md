@@ -35,7 +35,7 @@ Pax3 is lost
 ### Species-restricted genes in regeneration
 HoxA locus is important in proximal-to-distal limb development and is reactivated during limb regeneration.
 HoxA in axolotl has a increased repeat content and is 3.5 times larger.
-highly conserved non-exonic elements are not 
+highly conserved non-exonic elements are not interspersed in the 170-kb repetitive region between HoxA3 and HoxA4
 ## Part 2: the evolution of key tissue formation and regulators
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
@@ -167,11 +167,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTUzMTQ4MywtMzQ3NzE5MjYxLDE0Nj
-U2NTU2MjMsLTQwMzc1NjEzNiwxNTAzNTA0NDQ2LDM1NDg4NjM3
-MCwtMTY5NDg4MzYwMCwxNjM0Nzk3MjUzLDU3OTQ5MDE1MCwxNj
-MyNzU1NTkzLDkzMTAwNzg2MSwxMTg1MDM0NDMsMTYzMDc5MjY4
-NCwtNDMzNjM5NDAzLC0xMzgxODYzMTUxLDE0NzM4NTY0MTIsLT
-g4Mjk4MzYzOCwtNzA4OTI5NDk0LC01ODUzOTQ1NjAsLTExNDU1
-NjMzMjhdfQ==
+eyJoaXN0b3J5IjpbLTEwMzQxMzQ2NDIsLTM0NzcxOTI2MSwxND
+Y1NjU1NjIzLC00MDM3NTYxMzYsMTUwMzUwNDQ0NiwzNTQ4ODYz
+NzAsLTE2OTQ4ODM2MDAsMTYzNDc5NzI1Myw1Nzk0OTAxNTAsMT
+YzMjc1NTU5Myw5MzEwMDc4NjEsMTE4NTAzNDQzLDE2MzA3OTI2
+ODQsLTQzMzYzOTQwMywtMTM4MTg2MzE1MSwxNDczODU2NDEyLC
+04ODI5ODM2MzgsLTcwODkyOTQ5NCwtNTg1Mzk0NTYwLC0xMTQ1
+NTYzMzI4XX0=
 -->
