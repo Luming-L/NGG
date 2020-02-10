@@ -44,13 +44,7 @@ Pax3 is lost
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
 
-## Rename a file
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
 
 ## Export a file
 
@@ -171,11 +165,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjMyODE5OSwtNzg2OTQ4MzU3LDE3Mj
-MyMDUxMjksLTQ1Mjc3ODg2MCwtMzQ3NzE5MjYxLDE0NjU2NTU2
-MjMsLTQwMzc1NjEzNiwxNTAzNTA0NDQ2LDM1NDg4NjM3MCwtMT
-Y5NDg4MzYwMCwxNjM0Nzk3MjUzLDU3OTQ5MDE1MCwxNjMyNzU1
-NTkzLDkzMTAwNzg2MSwxMTg1MDM0NDMsMTYzMDc5MjY4NCwtND
-MzNjM5NDAzLC0xMzgxODYzMTUxLDE0NzM4NTY0MTIsLTg4Mjk4
-MzYzOF19
+eyJoaXN0b3J5IjpbLTE3MzcwOTQ0MDIsMTk5MjMyODE5OSwtNz
+g2OTQ4MzU3LDE3MjMyMDUxMjksLTQ1Mjc3ODg2MCwtMzQ3NzE5
+MjYxLDE0NjU2NTU2MjMsLTQwMzc1NjEzNiwxNTAzNTA0NDQ2LD
+M1NDg4NjM3MCwtMTY5NDg4MzYwMCwxNjM0Nzk3MjUzLDU3OTQ5
+MDE1MCwxNjMyNzU1NTkzLDkzMTAwNzg2MSwxMTg1MDM0NDMsMT
+YzMDc5MjY4NCwtNDMzNjM5NDAzLC0xMzgxODYzMTUxLDE0NzM4
+NTY0MTJdfQ==
 -->
