@@ -1,5 +1,8 @@
 overlap graph
 De Bruijn graph 
+split reads into k-mers
+build graph of k-mers
+
 how de Bruijn graph are simplified
 
 
@@ -47,6 +50,6 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3NDU0MzkwLDIwOTY0MTc0MjIsMjAwMD
-ExODI4MywxMjQzNTczNDk3XX0=
+eyJoaXN0b3J5IjpbMjU4Nzg3NzQsMjA5NjQxNzQyMiwyMDAwMT
+E4MjgzLDEyNDM1NzM0OTddfQ==
 -->
