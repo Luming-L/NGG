@@ -5,7 +5,8 @@ build graph of k-mers
 deconvolute graph to derive assembly
 Eulerian cycle problem
 Error (Tips and bubbles) removal
-Velvet
+Velvet: twin node block arcs
+
 > 
 ## how de Bruijn graph are simplified
 
@@ -54,7 +55,7 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAyMjQ4MywtMjA0NjA5NDk4MSwtOT
-QwOTY2NDM2LC0xOTY3OTExMzc4LDIwOTY0MTc0MjIsMjAwMDEx
-ODI4MywxMjQzNTczNDk3XX0=
+eyJoaXN0b3J5IjpbLTIwNzA2NjQyNjEsLTE0MTAyMjQ4MywtMj
+A0NjA5NDk4MSwtOTQwOTY2NDM2LC0xOTY3OTExMzc4LDIwOTY0
+MTc0MjIsMjAwMDExODI4MywxMjQzNTczNDk3XX0=
 -->
