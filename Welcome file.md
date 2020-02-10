@@ -29,9 +29,6 @@ Some elements are more than 10kb in length.
 The number of substitution to the repeat consensus - an estimate of the relative age of the LTR retroelement **no. subs per site** - the axolotl genome has undergone a long period of transposon activity
 median intron size expands.
 ### HoxA cluster and intron size constraints
-### A reduced Pax-family complement
-Pax3 is lost
-### Axolotl Pax7 has similar functions to Pax3
 HoxA locus is important in proximal-to-distal limb development and is reactivated during limb regeneration.
 HoxA is a cluster having a bunch of genes?
 each gene has two exons and an intron.
@@ -39,7 +36,9 @@ HoxA in axolotl has a increased repeat content and is 3.5 times larger.
 highly conserved non-exonic elements are not interspersed in the 170-kb repetitive region between HoxA3 and HoxA4
 the expansion of introns of developmental genes is significantly lower (6- to 11-fold, P<10-11)
 introns of developmental genes in axolotl are shorter than introns of non-developmental genes
-
+### A reduced Pax-family complement
+Pax3 is lost
+### Axolotl Pax7 has similar functions to Pax3
 ### Species-restricted genes in regeneration
 ## Part 2: the evolution of key tissue formation and regulators
 
@@ -172,11 +171,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Njk0ODM1NywxNzIzMjA1MTI5LC00NT
-I3Nzg4NjAsLTM0NzcxOTI2MSwxNDY1NjU1NjIzLC00MDM3NTYx
-MzYsMTUwMzUwNDQ0NiwzNTQ4ODYzNzAsLTE2OTQ4ODM2MDAsMT
-YzNDc5NzI1Myw1Nzk0OTAxNTAsMTYzMjc1NTU5Myw5MzEwMDc4
-NjEsMTE4NTAzNDQzLDE2MzA3OTI2ODQsLTQzMzYzOTQwMywtMT
-M4MTg2MzE1MSwxNDczODU2NDEyLC04ODI5ODM2MzgsLTcwODky
-OTQ5NF19
+eyJoaXN0b3J5IjpbMTk5MjMyODE5OSwtNzg2OTQ4MzU3LDE3Mj
+MyMDUxMjksLTQ1Mjc3ODg2MCwtMzQ3NzE5MjYxLDE0NjU2NTU2
+MjMsLTQwMzc1NjEzNiwxNTAzNTA0NDQ2LDM1NDg4NjM3MCwtMT
+Y5NDg4MzYwMCwxNjM0Nzk3MjUzLDU3OTQ5MDE1MCwxNjMyNzU1
+NTkzLDkzMTAwNzg2MSwxMTg1MDM0NDMsMTYzMDc5MjY4NCwtND
+MzNjM5NDAzLC0xMzgxODYzMTUxLDE0NzM4NTY0MTIsLTg4Mjk4
+MzYzOF19
 -->
