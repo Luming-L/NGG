@@ -34,8 +34,6 @@ Pax3 is lost
 ### Axolotl Pax7 has similar functions to Pax3
 ### Species-restricted genes in regeneration
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
 ## Part 2: the evolution of key tissue formation and regulators
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
@@ -167,11 +165,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzUwNDQ0NiwzNTQ4ODYzNzAsLTE2OT
-Q4ODM2MDAsMTYzNDc5NzI1Myw1Nzk0OTAxNTAsMTYzMjc1NTU5
-Myw5MzEwMDc4NjEsMTE4NTAzNDQzLDE2MzA3OTI2ODQsLTQzMz
-YzOTQwMywtMTM4MTg2MzE1MSwxNDczODU2NDEyLC04ODI5ODM2
-MzgsLTcwODkyOTQ5NCwtNTg1Mzk0NTYwLC0xMTQ1NTYzMzI4LD
-E5OTA2NjA5NDEsLTExNjEzMzEyMjAsLTE1MTYzNjA1MDQsNTEz
-MDg0OTM5XX0=
+eyJoaXN0b3J5IjpbNjAzNDczOTc5LDE1MDM1MDQ0NDYsMzU0OD
+g2MzcwLC0xNjk0ODgzNjAwLDE2MzQ3OTcyNTMsNTc5NDkwMTUw
+LDE2MzI3NTU1OTMsOTMxMDA3ODYxLDExODUwMzQ0MywxNjMwNz
+kyNjg0LC00MzM2Mzk0MDMsLTEzODE4NjMxNTEsMTQ3Mzg1NjQx
+MiwtODgyOTgzNjM4LC03MDg5Mjk0OTQsLTU4NTM5NDU2MCwtMT
+E0NTU2MzMyOCwxOTkwNjYwOTQxLC0xMTYxMzMxMjIwLC0xNTE2
+MzYwNTA0XX0=
 -->
