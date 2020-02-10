@@ -1,4 +1,4 @@
-
+De Bruijn graph approaches 
 node - read
 hamoteneous problem
 
@@ -43,5 +43,6 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDExODI4MywxMjQzNTczNDk3XX0=
+eyJoaXN0b3J5IjpbMjA5NjQxNzQyMiwyMDAwMTE4MjgzLDEyND
+M1NzM0OTddfQ==
 -->
