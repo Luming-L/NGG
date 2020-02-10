@@ -34,7 +34,8 @@ Pax3 is lost
 ### Axolotl Pax7 has similar functions to Pax3
 ### Species-restricted genes in regeneration
 HoxA locus is important in proximal-to-distal limb development and is reactivated during limb regeneration.
-HoxA is a cluster havin
+HoxA is a cluster having a bunch of genes?
+each gene has two exons and an intron.
 HoxA in axolotl has a increased repeat content and is 3.5 times larger.
 highly conserved non-exonic elements are not interspersed in the 170-kb repetitive region between HoxA3 and HoxA4
 ## Part 2: the evolution of key tissue formation and regulators
@@ -168,7 +169,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTcxMzE2MywtMzQ3NzE5MjYxLDE0Nj
+eyJoaXN0b3J5IjpbLTQ1Mjc3ODg2MCwtMzQ3NzE5MjYxLDE0Nj
 U2NTU2MjMsLTQwMzc1NjEzNiwxNTAzNTA0NDQ2LDM1NDg4NjM3
 MCwtMTY5NDg4MzYwMCwxNjM0Nzk3MjUzLDU3OTQ5MDE1MCwxNj
 MyNzU1NTkzLDkzMTAwNzg2MSwxMTg1MDM0NDMsMTYzMDc5MjY4
