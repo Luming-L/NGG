@@ -37,7 +37,7 @@ HoxA is a cluster having a bunch of genes?
 each gene has two exons and an intron.
 HoxA in axolotl has a increased repeat content and is 3.5 times larger.
 highly conserved non-exonic elements are not interspersed in the 170-kb repetitive region between HoxA3 and HoxA4
-the expansion of introns of developmental genes is significantly lower (6- to 11-fold, P)
+the expansion of introns of developmental genes is significantly lower (6- to 11-fold, P<10-11)
 ### Species-restricted genes in regeneration
 ## Part 2: the evolution of key tissue formation and regulators
 
@@ -170,7 +170,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDg3MjY3NywtNDUyNzc4ODYwLC0zND
+eyJoaXN0b3J5IjpbMTcyMzIwNTEyOSwtNDUyNzc4ODYwLC0zND
 c3MTkyNjEsMTQ2NTY1NTYyMywtNDAzNzU2MTM2LDE1MDM1MDQ0
 NDYsMzU0ODg2MzcwLC0xNjk0ODgzNjAwLDE2MzQ3OTcyNTMsNT
 c5NDkwMTUwLDE2MzI3NTU1OTMsOTMxMDA3ODYxLDExODUwMzQ0
