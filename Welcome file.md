@@ -34,7 +34,7 @@ Pax3 is lost
 ### Axolotl Pax7 has similar functions to Pax3
 ### Species-restricted genes in regeneration
 HoxA locus is important in proximal-to-distal limb development and is reactivated during limb regeneration.
-HoxA in axolotl has a increased repeat content and 
+HoxA in axolotl has a increased repeat content and is 3.5 times larger.
 ## Part 2: the evolution of key tissue formation and regulators
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
@@ -166,7 +166,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDIyMzcxNCwxNDY1NjU1NjIzLC00MD
+eyJoaXN0b3J5IjpbLTM0NzcxOTI2MSwxNDY1NjU1NjIzLC00MD
 M3NTYxMzYsMTUwMzUwNDQ0NiwzNTQ4ODYzNzAsLTE2OTQ4ODM2
 MDAsMTYzNDc5NzI1Myw1Nzk0OTAxNTAsMTYzMjc1NTU5Myw5Mz
 EwMDc4NjEsMTE4NTAzNDQzLDE2MzA3OTI2ODQsLTQzMzYzOTQw
