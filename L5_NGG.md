@@ -1,6 +1,8 @@
 overlap graph
 De Bruijn graph 
 how de Bruijn graph are simplified
+
+
 node - read
 hamoteneous problem
 
@@ -45,6 +47,6 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDg5NDQ4MiwyMDk2NDE3NDIyLDIwMD
-AxMTgyODMsMTI0MzU3MzQ5N119
+eyJoaXN0b3J5IjpbNTk3NDU0MzkwLDIwOTY0MTc0MjIsMjAwMD
+ExODI4MywxMjQzNTczNDk3XX0=
 -->
