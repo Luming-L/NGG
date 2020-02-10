@@ -4,6 +4,7 @@ split reads into k-mers
 build graph of k-mers
 deconvolute graph to derive assembly
 Eulerian cycle problem
+Error (Tips and bubbles) removal
 ## how de Bruijn graph are simplified
 
 
@@ -51,6 +52,7 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDk2NjQzNiwtMTk2NzkxMTM3OCwyMD
-k2NDE3NDIyLDIwMDAxMTgyODMsMTI0MzU3MzQ5N119
+eyJoaXN0b3J5IjpbLTIwNDYwOTQ5ODEsLTk0MDk2NjQzNiwtMT
+k2NzkxMTM3OCwyMDk2NDE3NDIyLDIwMDAxMTgyODMsMTI0MzU3
+MzQ5N119
 -->
