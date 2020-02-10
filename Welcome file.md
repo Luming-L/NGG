@@ -32,12 +32,13 @@ median intron size expands.
 ### A reduced Pax-family complement
 Pax3 is lost
 ### Axolotl Pax7 has similar functions to Pax3
-### Species-restricted genes in regeneration
 HoxA locus is important in proximal-to-distal limb development and is reactivated during limb regeneration.
 HoxA is a cluster having a bunch of genes?
 each gene has two exons and an intron.
 HoxA in axolotl has a increased repeat content and is 3.5 times larger.
 highly conserved non-exonic elements are not interspersed in the 170-kb repetitive region between HoxA3 and HoxA4
+the expansion of introns of developmental genes is significantly lower (6- to 11-fold, P)
+### Species-restricted genes in regeneration
 ## Part 2: the evolution of key tissue formation and regulators
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
@@ -169,11 +170,11 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Mjc3ODg2MCwtMzQ3NzE5MjYxLDE0Nj
-U2NTU2MjMsLTQwMzc1NjEzNiwxNTAzNTA0NDQ2LDM1NDg4NjM3
-MCwtMTY5NDg4MzYwMCwxNjM0Nzk3MjUzLDU3OTQ5MDE1MCwxNj
-MyNzU1NTkzLDkzMTAwNzg2MSwxMTg1MDM0NDMsMTYzMDc5MjY4
-NCwtNDMzNjM5NDAzLC0xMzgxODYzMTUxLDE0NzM4NTY0MTIsLT
-g4Mjk4MzYzOCwtNzA4OTI5NDk0LC01ODUzOTQ1NjAsLTExNDU1
-NjMzMjhdfQ==
+eyJoaXN0b3J5IjpbLTQzMDg3MjY3NywtNDUyNzc4ODYwLC0zND
+c3MTkyNjEsMTQ2NTY1NTYyMywtNDAzNzU2MTM2LDE1MDM1MDQ0
+NDYsMzU0ODg2MzcwLC0xNjk0ODgzNjAwLDE2MzQ3OTcyNTMsNT
+c5NDkwMTUwLDE2MzI3NTU1OTMsOTMxMDA3ODYxLDExODUwMzQ0
+MywxNjMwNzkyNjg0LC00MzM2Mzk0MDMsLTEzODE4NjMxNTEsMT
+Q3Mzg1NjQxMiwtODgyOTgzNjM4LC03MDg5Mjk0OTQsLTU4NTM5
+NDU2MF19
 -->
