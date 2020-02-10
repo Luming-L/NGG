@@ -2,8 +2,7 @@
 ## De Bruijn graph 
 split reads into k-mers
 build graph of k-mers
-deconvolute graph to derive assembly
-Eulerian cycle problem
+deconvolute graph to derive assembly: Eulerian cycle problem
 Error (Tips and bubbles) removal
 Velvet: twin node block arcs
 
@@ -55,7 +54,7 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA2NjQyNjEsLTE0MTAyMjQ4MywtMj
-A0NjA5NDk4MSwtOTQwOTY2NDM2LC0xOTY3OTExMzc4LDIwOTY0
-MTc0MjIsMjAwMDExODI4MywxMjQzNTczNDk3XX0=
+eyJoaXN0b3J5IjpbMTY2ODM5MDA1NSwtMTQxMDIyNDgzLC0yMD
+Q2MDk0OTgxLC05NDA5NjY0MzYsLTE5Njc5MTEzNzgsMjA5NjQx
+NzQyMiwyMDAwMTE4MjgzLDEyNDM1NzM0OTddfQ==
 -->
