@@ -33,7 +33,7 @@ median intron size expands.
 Pax3 is lost
 ### Axolotl Pax7 has similar functions to Pax3
 ### Species-restricted genes in regeneration
-
+HoxA locus is 
 ## Part 2: the evolution of key tissue formation and regulators
 
 All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
@@ -165,7 +165,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNDczOTc5LDE1MDM1MDQ0NDYsMzU0OD
+eyJoaXN0b3J5IjpbMTk1NDEyNDE1LDE1MDM1MDQ0NDYsMzU0OD
 g2MzcwLC0xNjk0ODgzNjAwLDE2MzQ3OTcyNTMsNTc5NDkwMTUw
 LDE2MzI3NTU1OTMsOTMxMDA3ODYxLDExODUwMzQ0MywxNjMwNz
 kyNjg0LC00MzM2Mzk0MDMsLTEzODE4NjMxNTEsMTQ3Mzg1NjQx
