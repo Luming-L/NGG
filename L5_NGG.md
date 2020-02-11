@@ -1,4 +1,4 @@
-## overlap graph
+## overlap graph OLC
 Hamiltonian Path identified
 ## **De Bruijn graph** 
 split reads into k-mers
@@ -59,9 +59,9 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MTU0NDQ5LC0xMjQ1OTgxOTExLC01Nz
-g0MjY3MTEsNTM2ODUxOTA1LDQzODczMTIwOSwxNDQzMDAzOTQz
-LC0xNDEwMjI0ODMsLTIwNDYwOTQ5ODEsLTk0MDk2NjQzNiwtMT
-k2NzkxMTM3OCwyMDk2NDE3NDIyLDIwMDAxMTgyODMsMTI0MzU3
-MzQ5N119
+eyJoaXN0b3J5IjpbMjEyNDY4MzA2MywtMTI0NTk4MTkxMSwtNT
+c4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0MzAwMzk0
+MywtMTQxMDIyNDgzLC0yMDQ2MDk0OTgxLC05NDA5NjY0MzYsLT
+E5Njc5MTEzNzgsMjA5NjQxNzQyMiwyMDAwMTE4MjgzLDEyNDM1
+NzM0OTddfQ==
 -->
