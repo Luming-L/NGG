@@ -96,6 +96,7 @@ Repeats have many different families.
 	+ the transcript assembly spans the repetitive region
 	+ DNA - assembly, RNA - annotation
 - Proximity ligation
+	+ HiC: sequencing of chimaeric fragments derived from proximity ligation of 
 - Synthetic long reads
 - Optical mapping
 - Radiation hybrid mapping
@@ -104,11 +105,11 @@ Repeats have many different families.
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDkwMjYyMCwtMzQyOTI2MDk2LDI3OT
-c5NjA4NCwxODM5Njg2NjU2LC0xMDE4MTM5NjA2LC03MzgyNTE4
-Niw4MjY2NzY3NzYsNDcxNzc4NDUyLDE3OTIxOTkwMzEsLTE3Nj
-Q1NzQ1NjcsNjA5MzUzOTQsLTIyMjE2NzEwNCwxNzEwOTUzNDE4
-LDEzOTc5MDc1MTIsLTE1MzgyNTAxOTIsLTE0MTUzMjA1OTYsLT
-E4MDYyOTY2MjUsMjAxMjcyNzc3MSwtMTkxMDA1MjI5MSwtMTE5
-Nzc2MDA0XX0=
+eyJoaXN0b3J5IjpbLTE4ODkyNTI0NDYsMTM1NDkwMjYyMCwtMz
+QyOTI2MDk2LDI3OTc5NjA4NCwxODM5Njg2NjU2LC0xMDE4MTM5
+NjA2LC03MzgyNTE4Niw4MjY2NzY3NzYsNDcxNzc4NDUyLDE3OT
+IxOTkwMzEsLTE3NjQ1NzQ1NjcsNjA5MzUzOTQsLTIyMjE2NzEw
+NCwxNzEwOTUzNDE4LDEzOTc5MDc1MTIsLTE1MzgyNTAxOTIsLT
+E0MTUzMjA1OTYsLTE4MDYyOTY2MjUsMjAxMjcyNzc3MSwtMTkx
+MDA1MjI5MV19
 -->
