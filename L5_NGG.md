@@ -87,14 +87,19 @@ Busco and cegma higher percentage more complete
 > Snail plots https://github.com/rjchallis/assembly-stats
 ## long-range scaffolding approaches
 repeat
-* read pairs
-* mate pairs
-* RNA-seq
-* Proximity
+- read pairs
+- mate pairs
+- RNA-seq
+- Proximity ligation
+- Synthetic long reads
+- Optical mapping
+- Radiation hybrid mapping
+- Genetic mapping
+- Long reads
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjg3OTY5NCwxODM5Njg2NjU2LC0xMD
+eyJoaXN0b3J5IjpbMTkyNDc3NDIyNywxODM5Njg2NjU2LC0xMD
 E4MTM5NjA2LC03MzgyNTE4Niw4MjY2NzY3NzYsNDcxNzc4NDUy
 LDE3OTIxOTkwMzEsLTE3NjQ1NzQ1NjcsNjA5MzUzOTQsLTIyMj
 E2NzEwNCwxNzEwOTUzNDE4LDEzOTc5MDc1MTIsLTE1MzgyNTAx
