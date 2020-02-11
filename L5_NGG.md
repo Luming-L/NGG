@@ -50,7 +50,7 @@ graph to many actual sequences (contigs)
 
 
 ## Assessing genome assembly quality
-lots of contigs - many repeats
+
 2 contigs from two sides 
 hundread of contigs set to a chromosome
 Busco and cegma higher percentage more complete
@@ -78,13 +78,14 @@ Busco and cegma higher percentage more complete
 > unsequenced gaps
 > unresolved errors
 * Number of contigs/scaffolds
+> lots of contigs - many repeats
 > 
 * Mean length of contigs/scaffolds
 ## long-range scaffolding approaches
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjY2NDAxNywxNzkyMTk5MDMxLC0xNz
+eyJoaXN0b3J5IjpbMTgyNDAwNDc5MywxNzkyMTk5MDMxLC0xNz
 Y0NTc0NTY3LDYwOTM1Mzk0LC0yMjIxNjcxMDQsMTcxMDk1MzQx
 OCwxMzk3OTA3NTEyLC0xNTM4MjUwMTkyLC0xNDE1MzIwNTk2LC
 0xODA2Mjk2NjI1LDIwMTI3Mjc3NzEsLTE5MTAwNTIyOTEsLTEx
