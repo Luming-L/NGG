@@ -10,6 +10,8 @@ Hamiltonian Path identified
 3. deconvolute graph to derive assembly
 	* Eulerian cycle problem
 ## Velvet
+twin node?
+reverse complement k-mers
 ## Repeat
 ## Simplified de Bruijn graph
 split reads into k-mers
@@ -70,9 +72,10 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTAwNTIyOTEsLTExOTc3NjAwNCwtNT
-c1OTQzNDg3LC0xMjQ1OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUx
-OTA1LDQzODczMTIwOSwxNDQzMDAzOTQzLC0xNDEwMjI0ODMsLT
-IwNDYwOTQ5ODEsLTk0MDk2NjQzNiwtMTk2NzkxMTM3OCwyMDk2
-NDE3NDIyLDIwMDAxMTgyODMsMTI0MzU3MzQ5N119
+eyJoaXN0b3J5IjpbMjAxMjcyNzc3MSwtMTkxMDA1MjI5MSwtMT
+E5Nzc2MDA0LC01NzU5NDM0ODcsLTEyNDU5ODE5MTEsLTU3ODQy
+NjcxMSw1MzY4NTE5MDUsNDM4NzMxMjA5LDE0NDMwMDM5NDMsLT
+E0MTAyMjQ4MywtMjA0NjA5NDk4MSwtOTQwOTY2NDM2LC0xOTY3
+OTExMzc4LDIwOTY0MTc0MjIsMjAwMDExODI4MywxMjQzNTczND
+k3XX0=
 -->
