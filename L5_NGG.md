@@ -14,7 +14,7 @@ twin node?
 reverse complement k-mers
 ## Repeat
 ## Simplified de Bruijn graph
-When a node A has 
+When a node A has only one outgoing arc that points to another node B that has only one ingoing arc, merge these two nodes.
 
 
 split reads into k-mers
@@ -75,10 +75,10 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA0ODE0NSwyMDEyNzI3NzcxLC0xOT
-EwMDUyMjkxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4
-MTkxMSwtNTc4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMT
-Q0MzAwMzk0MywtMTQxMDIyNDgzLC0yMDQ2MDk0OTgxLC05NDA5
-NjY0MzYsLTE5Njc5MTEzNzgsMjA5NjQxNzQyMiwyMDAwMTE4Mj
-gzLDEyNDM1NzM0OTddfQ==
+eyJoaXN0b3J5IjpbLTE4MDYyOTY2MjUsMjAxMjcyNzc3MSwtMT
+kxMDA1MjI5MSwtMTE5Nzc2MDA0LC01NzU5NDM0ODcsLTEyNDU5
+ODE5MTEsLTU3ODQyNjcxMSw1MzY4NTE5MDUsNDM4NzMxMjA5LD
+E0NDMwMDM5NDMsLTE0MTAyMjQ4MywtMjA0NjA5NDk4MSwtOTQw
+OTY2NDM2LC0xOTY3OTExMzc4LDIwOTY0MTc0MjIsMjAwMDExOD
+I4MywxMjQzNTczNDk3XX0=
 -->
