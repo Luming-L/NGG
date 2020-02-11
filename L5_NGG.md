@@ -74,17 +74,21 @@ Busco and cegma higher percentage more complete
 
 ## assembly quality metrics
 * Number of uncalled bases
+> "N"s
+> unsequenced gaps
+> unresolved errors
 * Number of contigs/scaffolds
+> 
 * Mean length of contigs/scaffolds
 ## long-range scaffolding approaches
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzEyMzE0MDcsMTc5MjE5OTAzMSwtMT
-c2NDU3NDU2Nyw2MDkzNTM5NCwtMjIyMTY3MTA0LDE3MTA5NTM0
-MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5MiwtMTQxNTMyMDU5Ni
-wtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEwMDUyMjkxLC0x
-MTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MTkxMSwtNTc4ND
-I2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0MzAwMzk0Mywt
-MTQxMDIyNDgzXX0=
+eyJoaXN0b3J5IjpbMTQxNjY2NDAxNywxNzkyMTk5MDMxLC0xNz
+Y0NTc0NTY3LDYwOTM1Mzk0LC0yMjIxNjcxMDQsMTcxMDk1MzQx
+OCwxMzk3OTA3NTEyLC0xNTM4MjUwMTkyLC0xNDE1MzIwNTk2LC
+0xODA2Mjk2NjI1LDIwMTI3Mjc3NzEsLTE5MTAwNTIyOTEsLTEx
+OTc3NjAwNCwtNTc1OTQzNDg3LC0xMjQ1OTgxOTExLC01Nzg0Mj
+Y3MTEsNTM2ODUxOTA1LDQzODczMTIwOSwxNDQzMDAzOTQzLC0x
+NDEwMjI0ODNdfQ==
 -->
