@@ -55,10 +55,9 @@ graph to many actual sequences (contigs)
 
 
  
- long repeat impossible to assemble
- mate pairs - single paired read at each side
- DNA assembly
- RNA - annotation
+
+
+ 
  scaffolding DNA
  small trunck of DNA 
  contig
@@ -92,7 +91,10 @@ Repeats can only be resolved if the sequencing technology used to generate the r
 Many different family of repeats
 - read pairs
 - mate pairs
+	+ single paired read at each side
 - RNA-seq
+	+ DNA - assembly
+	+ RNA - annotation
 - Proximity ligation
 - Synthetic long reads
 - Optical mapping
@@ -102,11 +104,11 @@ Many different family of repeats
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjgzNDcyNzksMjc5Nzk2MDg0LDE4Mz
-k2ODY2NTYsLTEwMTgxMzk2MDYsLTczODI1MTg2LDgyNjY3Njc3
-Niw0NzE3Nzg0NTIsMTc5MjE5OTAzMSwtMTc2NDU3NDU2Nyw2MD
-kzNTM5NCwtMjIyMTY3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUx
-MiwtMTUzODI1MDE5MiwtMTQxNTMyMDU5NiwtMTgwNjI5NjYyNS
-wyMDEyNzI3NzcxLC0xOTEwMDUyMjkxLC0xMTk3NzYwMDQsLTU3
-NTk0MzQ4N119
+eyJoaXN0b3J5IjpbMjEyNDg0ODY2OSwyNzk3OTYwODQsMTgzOT
+Y4NjY1NiwtMTAxODEzOTYwNiwtNzM4MjUxODYsODI2Njc2Nzc2
+LDQ3MTc3ODQ1MiwxNzkyMTk5MDMxLC0xNzY0NTc0NTY3LDYwOT
+M1Mzk0LC0yMjIxNjcxMDQsMTcxMDk1MzQxOCwxMzk3OTA3NTEy
+LC0xNTM4MjUwMTkyLC0xNDE1MzIwNTk2LC0xODA2Mjk2NjI1LD
+IwMTI3Mjc3NzEsLTE5MTAwNTIyOTEsLTExOTc3NjAwNCwtNTc1
+OTQzNDg3XX0=
 -->
