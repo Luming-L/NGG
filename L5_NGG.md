@@ -15,6 +15,7 @@ reverse complement k-mers
 ## Repeat
 ## Simplified de Bruijn graph
 When a node A has only one outgoing arc that points to another node B that has only one ingoing arc, merge these two nodes.
+## Error removal
 
 
 split reads into k-mers
@@ -28,18 +29,7 @@ deconvolute graph to derive assembly: Eulerian cycle problem
 **Velvet**: twin node block arcs 
 
 
-
-node - read
-hamoteneous problem
-
 NP problem 
-
-de bruijn graph:
-node - k-mer
-deal with repeat
-software: Velvet
-error produce tips in graph
-
 deploid - nucleopholyphorism - two alleles
 deploid aware assembler
 
@@ -73,10 +63,11 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUzMjA1OTYsLTE4MDYyOTY2MjUsMj
-AxMjcyNzc3MSwtMTkxMDA1MjI5MSwtMTE5Nzc2MDA0LC01NzU5
-NDM0ODcsLTEyNDU5ODE5MTEsLTU3ODQyNjcxMSw1MzY4NTE5MD
-UsNDM4NzMxMjA5LDE0NDMwMDM5NDMsLTE0MTAyMjQ4MywtMjA0
-NjA5NDk4MSwtOTQwOTY2NDM2LC0xOTY3OTExMzc4LDIwOTY0MT
-c0MjIsMjAwMDExODI4MywxMjQzNTczNDk3XX0=
+eyJoaXN0b3J5IjpbMTQ4NDA2NDA2OSwtMTQxNTMyMDU5NiwtMT
+gwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEwMDUyMjkxLC0xMTk3
+NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MTkxMSwtNTc4NDI2Nz
+ExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0MzAwMzk0MywtMTQx
+MDIyNDgzLC0yMDQ2MDk0OTgxLC05NDA5NjY0MzYsLTE5Njc5MT
+EzNzgsMjA5NjQxNzQyMiwyMDAwMTE4MjgzLDEyNDM1NzM0OTdd
+fQ==
 -->
