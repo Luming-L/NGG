@@ -38,7 +38,7 @@ walk through **each** directed edge only **once** (Eulerian cycle problem)
 
 
 
-NP problem 
+
 deploid - nucleopholyphorism - two alleles
 deploid aware assembler
 
@@ -46,7 +46,7 @@ haplotic
 graph to many actual sequences (contigs)
 
 8 bridges able to cross once
-poping bubbles trimming tips
+
 
 ## Assessing genome assembly quality
 lots of contigs - many repeats
@@ -72,11 +72,11 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ1NzQ1NjcsNjA5MzUzOTQsLTIyMj
-E2NzEwNCwxNzEwOTUzNDE4LDEzOTc5MDc1MTIsLTE1MzgyNTAx
-OTIsLTE0MTUzMjA1OTYsLTE4MDYyOTY2MjUsMjAxMjcyNzc3MS
-wtMTkxMDA1MjI5MSwtMTE5Nzc2MDA0LC01NzU5NDM0ODcsLTEy
-NDU5ODE5MTEsLTU3ODQyNjcxMSw1MzY4NTE5MDUsNDM4NzMxMj
-A5LDE0NDMwMDM5NDMsLTE0MTAyMjQ4MywtMjA0NjA5NDk4MSwt
-OTQwOTY2NDM2XX0=
+eyJoaXN0b3J5IjpbMTgxMjUwNTUzMywtMTc2NDU3NDU2Nyw2MD
+kzNTM5NCwtMjIyMTY3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUx
+MiwtMTUzODI1MDE5MiwtMTQxNTMyMDU5NiwtMTgwNjI5NjYyNS
+wyMDEyNzI3NzcxLC0xOTEwMDUyMjkxLC0xMTk3NzYwMDQsLTU3
+NTk0MzQ4NywtMTI0NTk4MTkxMSwtNTc4NDI2NzExLDUzNjg1MT
+kwNSw0Mzg3MzEyMDksMTQ0MzAwMzk0MywtMTQxMDIyNDgzLC0y
+MDQ2MDk0OTgxXX0=
 -->
