@@ -4,7 +4,8 @@ split reads into k-mers
 for each k-mer, extract it from left and right to get two (k-1)-mers
 each unique (k-1)-mer is a node
 each k-mer is a directed edge 
-walk through each directed edge only once
+walk through each directed edge only once (Eulerian cycle problem)
+
 deconvolute graph to derive assembly: Eulerian cycle problem
 **Error (Tips and bubbles) removal**
 **Velvet**: twin node block arcs 
@@ -57,7 +58,7 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDI1MTQyMiw1MzY4NTE5MDUsNDM4Nz
+eyJoaXN0b3J5IjpbLTU3ODQyNjcxMSw1MzY4NTE5MDUsNDM4Nz
 MxMjA5LDE0NDMwMDM5NDMsLTE0MTAyMjQ4MywtMjA0NjA5NDk4
 MSwtOTQwOTY2NDM2LC0xOTY3OTExMzc4LDIwOTY0MTc0MjIsMj
 AwMDExODI4MywxMjQzNTczNDk3XX0=
