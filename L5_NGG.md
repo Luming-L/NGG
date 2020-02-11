@@ -83,16 +83,16 @@ Busco and cegma higher percentage more complete
 > good: 2 contigs from two sides (center is centromere and have many repeats)
 > bad: hundread of contigs set to a chromosome
 * Mean length of contigs/scaffolds (compared to the size of the genome)
-> **N50** :  the length of contig at which half the assembly is in co
+> **N50** :  the length of contig at which half the assembly is in contigs of that size or greater
 ## long-range scaffolding approaches
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MTkyNjUzLDQ3MTc3ODQ1MiwxNzkyMT
-k5MDMxLC0xNzY0NTc0NTY3LDYwOTM1Mzk0LC0yMjIxNjcxMDQs
-MTcxMDk1MzQxOCwxMzk3OTA3NTEyLC0xNTM4MjUwMTkyLC0xND
-E1MzIwNTk2LC0xODA2Mjk2NjI1LDIwMTI3Mjc3NzEsLTE5MTAw
-NTIyOTEsLTExOTc3NjAwNCwtNTc1OTQzNDg3LC0xMjQ1OTgxOT
-ExLC01Nzg0MjY3MTEsNTM2ODUxOTA1LDQzODczMTIwOSwxNDQz
-MDAzOTQzXX0=
+eyJoaXN0b3J5IjpbMTI3MTg2NDA1Miw0NzE3Nzg0NTIsMTc5Mj
+E5OTAzMSwtMTc2NDU3NDU2Nyw2MDkzNTM5NCwtMjIyMTY3MTA0
+LDE3MTA5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5MiwtMT
+QxNTMyMDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEw
+MDUyMjkxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MT
+kxMSwtNTc4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0
+MzAwMzk0M119
 -->
