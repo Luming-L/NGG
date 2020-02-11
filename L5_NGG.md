@@ -27,8 +27,6 @@ deconvolute graph to derive assembly: Eulerian cycle problem
 **Error (Tips and bubbles) removal**
 **Velvet**: twin node block arcs 
 
-> 
-## how de Bruijn graph are simplified
 
 
 node - read
@@ -75,10 +73,10 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYyOTY2MjUsMjAxMjcyNzc3MSwtMT
-kxMDA1MjI5MSwtMTE5Nzc2MDA0LC01NzU5NDM0ODcsLTEyNDU5
-ODE5MTEsLTU3ODQyNjcxMSw1MzY4NTE5MDUsNDM4NzMxMjA5LD
-E0NDMwMDM5NDMsLTE0MTAyMjQ4MywtMjA0NjA5NDk4MSwtOTQw
-OTY2NDM2LC0xOTY3OTExMzc4LDIwOTY0MTc0MjIsMjAwMDExOD
-I4MywxMjQzNTczNDk3XX0=
+eyJoaXN0b3J5IjpbLTE0MTUzMjA1OTYsLTE4MDYyOTY2MjUsMj
+AxMjcyNzc3MSwtMTkxMDA1MjI5MSwtMTE5Nzc2MDA0LC01NzU5
+NDM0ODcsLTEyNDU5ODE5MTEsLTU3ODQyNjcxMSw1MzY4NTE5MD
+UsNDM4NzMxMjA5LDE0NDMwMDM5NDMsLTE0MTAyMjQ4MywtMjA0
+NjA5NDk4MSwtOTQwOTY2NDM2LC0xOTY3OTExMzc4LDIwOTY0MT
+c0MjIsMjAwMDExODI4MywxMjQzNTczNDk3XX0=
 -->
