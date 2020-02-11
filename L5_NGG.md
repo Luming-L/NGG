@@ -1,4 +1,7 @@
 ## Overlap graph OLC
+1. identify overlaps of reads
+2. build graph of reads
+* 
 NP complete？
 Hamiltonian Path identified？
 ## De Bruijn graph
@@ -68,11 +71,11 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNzQ4NDk3LDYwOTM1Mzk0LC0yMjIxNj
-cxMDQsMTcxMDk1MzQxOCwxMzk3OTA3NTEyLC0xNTM4MjUwMTky
-LC0xNDE1MzIwNTk2LC0xODA2Mjk2NjI1LDIwMTI3Mjc3NzEsLT
-E5MTAwNTIyOTEsLTExOTc3NjAwNCwtNTc1OTQzNDg3LC0xMjQ1
-OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUxOTA1LDQzODczMTIwOS
-wxNDQzMDAzOTQzLC0xNDEwMjI0ODMsLTIwNDYwOTQ5ODEsLTk0
-MDk2NjQzNl19
+eyJoaXN0b3J5IjpbMTEyMDAwMTI3OCw2MDkzNTM5NCwtMjIyMT
+Y3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5
+MiwtMTQxNTMyMDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC
+0xOTEwMDUyMjkxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0
+NTk4MTkxMSwtNTc4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMD
+ksMTQ0MzAwMzk0MywtMTQxMDIyNDgzLC0yMDQ2MDk0OTgxLC05
+NDA5NjY0MzZdfQ==
 -->
