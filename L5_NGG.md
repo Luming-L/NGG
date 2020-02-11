@@ -19,6 +19,7 @@ When a node A has only one outgoing arc that points to another node B that has o
 ## Error removal
 * tips - errors at the edges of reads
 > A tip is a chain of nodes that is disconnected on one end
+> remove
 * bubbles - internal read errors or nearby tips connecting
 * erroneous connections - technical errors or distant tips merging
 
@@ -67,7 +68,7 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzc1NzI2MCwtMTUzODI1MDE5MiwtMT
+eyJoaXN0b3J5IjpbMTkxMTE2ODI2MCwtMTUzODI1MDE5MiwtMT
 QxNTMyMDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEw
 MDUyMjkxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MT
 kxMSwtNTc4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0
