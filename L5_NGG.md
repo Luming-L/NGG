@@ -75,7 +75,7 @@ Busco and cegma higher percentage more complete
 ## assembly numerical metrics
 * "N" 
  the number of uncertain bases
-> caused by uncalled bases/unsequenced gaps/unresolved errors
+- caused by uncalled bases/unsequenced gaps/unresolved errors
 * Number of contigs/scaffolds
 > lots of contigs - many repeats
 > compared to the number of chromosomes, the number of scaffolds should be close to that of chromosomes.
@@ -89,11 +89,11 @@ Busco and cegma higher percentage more complete
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc2Mzk0NTAsLTEwMTgxMzk2MDYsLT
-czODI1MTg2LDgyNjY3Njc3Niw0NzE3Nzg0NTIsMTc5MjE5OTAz
-MSwtMTc2NDU3NDU2Nyw2MDkzNTM5NCwtMjIyMTY3MTA0LDE3MT
-A5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5MiwtMTQxNTMy
-MDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEwMDUyMj
-kxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MTkxMSwt
-NTc4NDI2NzExXX0=
+eyJoaXN0b3J5IjpbMTE1NTMxOTg5NSwtMTAxODEzOTYwNiwtNz
+M4MjUxODYsODI2Njc2Nzc2LDQ3MTc3ODQ1MiwxNzkyMTk5MDMx
+LC0xNzY0NTc0NTY3LDYwOTM1Mzk0LC0yMjIxNjcxMDQsMTcxMD
+k1MzQxOCwxMzk3OTA3NTEyLC0xNTM4MjUwMTkyLC0xNDE1MzIw
+NTk2LC0xODA2Mjk2NjI1LDIwMTI3Mjc3NzEsLTE5MTAwNTIyOT
+EsLTExOTc3NjAwNCwtNTc1OTQzNDg3LC0xMjQ1OTgxOTExLC01
+Nzg0MjY3MTFdfQ==
 -->
