@@ -88,7 +88,7 @@ graph to many actual sequences (contigs)
 > Snail plots https://github.com/rjchallis/assembly-stats
 ## long-range scaffolding approaches
 Repeats can only be resolved if the sequencing technology used to generate the raw data for assembly has a working span longer than the repeat length.
-Many different family of repeats
+Repeats have many different families.
 - read pairs
 - mate pairs
 	+ single paired read at each side
@@ -104,7 +104,7 @@ Many different family of repeats
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDg0ODY2OSwyNzk3OTYwODQsMTgzOT
+eyJoaXN0b3J5IjpbLTM0MjkyNjA5NiwyNzk3OTYwODQsMTgzOT
 Y4NjY1NiwtMTAxODEzOTYwNiwtNzM4MjUxODYsODI2Njc2Nzc2
 LDQ3MTc3ODQ1MiwxNzkyMTk5MDMxLC0xNzY0NTc0NTY3LDYwOT
 M1Mzk0LC0yMjIxNjcxMDQsMTcxMDk1MzQxOCwxMzk3OTA3NTEy
