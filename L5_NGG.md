@@ -86,14 +86,15 @@ Busco and cegma higher percentage more complete
 	+ N50:  the length of contig at which half the assembly is in contigs of that size or greater
 > Snail plots https://github.com/rjchallis/assembly-stats
 ## long-range scaffolding approaches
+
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTY4NjY1NiwtMTAxODEzOTYwNiwtNz
-M4MjUxODYsODI2Njc2Nzc2LDQ3MTc3ODQ1MiwxNzkyMTk5MDMx
-LC0xNzY0NTc0NTY3LDYwOTM1Mzk0LC0yMjIxNjcxMDQsMTcxMD
-k1MzQxOCwxMzk3OTA3NTEyLC0xNTM4MjUwMTkyLC0xNDE1MzIw
-NTk2LC0xODA2Mjk2NjI1LDIwMTI3Mjc3NzEsLTE5MTAwNTIyOT
-EsLTExOTc3NjAwNCwtNTc1OTQzNDg3LC0xMjQ1OTgxOTExLC01
-Nzg0MjY3MTFdfQ==
+eyJoaXN0b3J5IjpbNTk5NjQxMDA2LDE4Mzk2ODY2NTYsLTEwMT
+gxMzk2MDYsLTczODI1MTg2LDgyNjY3Njc3Niw0NzE3Nzg0NTIs
+MTc5MjE5OTAzMSwtMTc2NDU3NDU2Nyw2MDkzNTM5NCwtMjIyMT
+Y3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5
+MiwtMTQxNTMyMDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC
+0xOTEwMDUyMjkxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0
+NTk4MTkxMV19
 -->
