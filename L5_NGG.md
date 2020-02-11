@@ -99,6 +99,8 @@ Repeats have many different families.
 	+ HiC: sequencing of chimaeric fragments derived from proximity ligation of nuclear DNA
 	+ Chicago: in vitro reconstituted chromatin
 - Synthetic long reads
+	+ 10x Genomics
+		1.  
 - Optical mapping
 - Radiation hybrid mapping
 - Genetic mapping
@@ -106,11 +108,11 @@ Repeats have many different families.
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTIyOTA3MzcsMTM1NDkwMjYyMCwtMz
-QyOTI2MDk2LDI3OTc5NjA4NCwxODM5Njg2NjU2LC0xMDE4MTM5
-NjA2LC03MzgyNTE4Niw4MjY2NzY3NzYsNDcxNzc4NDUyLDE3OT
-IxOTkwMzEsLTE3NjQ1NzQ1NjcsNjA5MzUzOTQsLTIyMjE2NzEw
-NCwxNzEwOTUzNDE4LDEzOTc5MDc1MTIsLTE1MzgyNTAxOTIsLT
-E0MTUzMjA1OTYsLTE4MDYyOTY2MjUsMjAxMjcyNzc3MSwtMTkx
-MDA1MjI5MV19
+eyJoaXN0b3J5IjpbNjE1NTY4MTU5LC0xNTUyMjkwNzM3LDEzNT
+Q5MDI2MjAsLTM0MjkyNjA5NiwyNzk3OTYwODQsMTgzOTY4NjY1
+NiwtMTAxODEzOTYwNiwtNzM4MjUxODYsODI2Njc2Nzc2LDQ3MT
+c3ODQ1MiwxNzkyMTk5MDMxLC0xNzY0NTc0NTY3LDYwOTM1Mzk0
+LC0yMjIxNjcxMDQsMTcxMDk1MzQxOCwxMzk3OTA3NTEyLC0xNT
+M4MjUwMTkyLC0xNDE1MzIwNTk2LC0xODA2Mjk2NjI1LDIwMTI3
+Mjc3NzFdfQ==
 -->
