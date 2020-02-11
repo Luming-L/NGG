@@ -72,9 +72,11 @@ Busco and cegma higher percentage more complete
  short reads can increase resolution 
  error correct 
 
-## assembly quality metrics
-* Number of uncalled bases
-> "N"s
+## assembly numerical metrics
+* "N" 
+> the number of unc
+> uncalled bases
+>
 > unsequenced gaps
 > unresolved errors
 * Number of contigs/scaffolds
@@ -90,11 +92,11 @@ Busco and cegma higher percentage more complete
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2Njc2Nzc2LDQ3MTc3ODQ1MiwxNzkyMT
-k5MDMxLC0xNzY0NTc0NTY3LDYwOTM1Mzk0LC0yMjIxNjcxMDQs
-MTcxMDk1MzQxOCwxMzk3OTA3NTEyLC0xNTM4MjUwMTkyLC0xND
-E1MzIwNTk2LC0xODA2Mjk2NjI1LDIwMTI3Mjc3NzEsLTE5MTAw
-NTIyOTEsLTExOTc3NjAwNCwtNTc1OTQzNDg3LC0xMjQ1OTgxOT
-ExLC01Nzg0MjY3MTEsNTM2ODUxOTA1LDQzODczMTIwOSwxNDQz
-MDAzOTQzXX0=
+eyJoaXN0b3J5IjpbLTEyMDMxNTA1MSw4MjY2NzY3NzYsNDcxNz
+c4NDUyLDE3OTIxOTkwMzEsLTE3NjQ1NzQ1NjcsNjA5MzUzOTQs
+LTIyMjE2NzEwNCwxNzEwOTUzNDE4LDEzOTc5MDc1MTIsLTE1Mz
+gyNTAxOTIsLTE0MTUzMjA1OTYsLTE4MDYyOTY2MjUsMjAxMjcy
+Nzc3MSwtMTkxMDA1MjI5MSwtMTE5Nzc2MDA0LC01NzU5NDM0OD
+csLTEyNDU5ODE5MTEsLTU3ODQyNjcxMSw1MzY4NTE5MDUsNDM4
+NzMxMjA5XX0=
 -->
