@@ -23,7 +23,7 @@ When a node A has only one outgoing arc that points to another node B that has o
 * bubbles - internal read errors or nearby tips connecting
 > two paths are redundant and contain similar sequence
 * erroneous connections - technical errors or distant tips merging
-> 
+> After the above corrections, genuine short nodes that cannot be simplified correspond to low-complexity sequence
 split reads into k-mers
 for each k-mer, extract it from left and right to get two (k-1)-mers
 each unique (k-1)-mer is a node
@@ -69,11 +69,11 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDk1MzQxOCwxMzk3OTA3NTEyLC0xNT
-M4MjUwMTkyLC0xNDE1MzIwNTk2LC0xODA2Mjk2NjI1LDIwMTI3
-Mjc3NzEsLTE5MTAwNTIyOTEsLTExOTc3NjAwNCwtNTc1OTQzND
-g3LC0xMjQ1OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUxOTA1LDQz
-ODczMTIwOSwxNDQzMDAzOTQzLC0xNDEwMjI0ODMsLTIwNDYwOT
-Q5ODEsLTk0MDk2NjQzNiwtMTk2NzkxMTM3OCwyMDk2NDE3NDIy
-LDIwMDAxMTgyODNdfQ==
+eyJoaXN0b3J5IjpbLTIzMzkxMjU3MCwxNzEwOTUzNDE4LDEzOT
+c5MDc1MTIsLTE1MzgyNTAxOTIsLTE0MTUzMjA1OTYsLTE4MDYy
+OTY2MjUsMjAxMjcyNzc3MSwtMTkxMDA1MjI5MSwtMTE5Nzc2MD
+A0LC01NzU5NDM0ODcsLTEyNDU5ODE5MTEsLTU3ODQyNjcxMSw1
+MzY4NTE5MDUsNDM4NzMxMjA5LDE0NDMwMDM5NDMsLTE0MTAyMj
+Q4MywtMjA0NjA5NDk4MSwtOTQwOTY2NDM2LC0xOTY3OTExMzc4
+LDIwOTY0MTc0MjJdfQ==
 -->
