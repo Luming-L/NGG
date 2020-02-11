@@ -82,17 +82,17 @@ Busco and cegma higher percentage more complete
 > compared to the number of chromosomes, the number of scaffolds should be close to that of chromosomes.
 > good: 2 contigs from two sides (center is centromere and have many repeats)
 > bad: hundread of contigs set to a chromosome
-* Mean length of contigs/scaffolds
-> compared to the size of the genome
+* Mean length of contigs/scaffolds (compared to the size of the genome
+* 
 ## long-range scaffolding approaches
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNzc4NDUyLDE3OTIxOTkwMzEsLTE3Nj
-Q1NzQ1NjcsNjA5MzUzOTQsLTIyMjE2NzEwNCwxNzEwOTUzNDE4
-LDEzOTc5MDc1MTIsLTE1MzgyNTAxOTIsLTE0MTUzMjA1OTYsLT
-E4MDYyOTY2MjUsMjAxMjcyNzc3MSwtMTkxMDA1MjI5MSwtMTE5
-Nzc2MDA0LC01NzU5NDM0ODcsLTEyNDU5ODE5MTEsLTU3ODQyNj
-cxMSw1MzY4NTE5MDUsNDM4NzMxMjA5LDE0NDMwMDM5NDMsLTE0
-MTAyMjQ4M119
+eyJoaXN0b3J5IjpbLTc2NTk2NDM2MCw0NzE3Nzg0NTIsMTc5Mj
+E5OTAzMSwtMTc2NDU3NDU2Nyw2MDkzNTM5NCwtMjIyMTY3MTA0
+LDE3MTA5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5MiwtMT
+QxNTMyMDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEw
+MDUyMjkxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MT
+kxMSwtNTc4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0
+MzAwMzk0M119
 -->
