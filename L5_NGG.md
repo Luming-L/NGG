@@ -93,8 +93,8 @@ Repeats have many different families.
 - mate pairs
 	+ single paired read at each side
 - RNA-seq
-	+ DNA - assembly
-	+ RNA - annotation
+	+ ttranscript spans the 
+	+ DNA - assembly, RNA - annotation
 - Proximity ligation
 - Synthetic long reads
 - Optical mapping
@@ -104,7 +104,7 @@ Repeats have many different families.
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1OTE1NzI0LC0zNDI5MjYwOTYsMjc5Nz
+eyJoaXN0b3J5IjpbMjc4MDA3MDM2LC0zNDI5MjYwOTYsMjc5Nz
 k2MDg0LDE4Mzk2ODY2NTYsLTEwMTgxMzk2MDYsLTczODI1MTg2
 LDgyNjY3Njc3Niw0NzE3Nzg0NTIsMTc5MjE5OTAzMSwtMTc2ND
 U3NDU2Nyw2MDkzNTM5NCwtMjIyMTY3MTA0LDE3MTA5NTM0MTgs
