@@ -73,15 +73,16 @@ Busco and cegma higher percentage more complete
  error correct 
 
 ## assembly quality metrics
+
 ## long-range scaffolding approaches
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjE5OTAzMSwtMTc2NDU3NDU2Nyw2MD
-kzNTM5NCwtMjIyMTY3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUx
-MiwtMTUzODI1MDE5MiwtMTQxNTMyMDU5NiwtMTgwNjI5NjYyNS
-wyMDEyNzI3NzcxLC0xOTEwMDUyMjkxLC0xMTk3NzYwMDQsLTU3
-NTk0MzQ4NywtMTI0NTk4MTkxMSwtNTc4NDI2NzExLDUzNjg1MT
-kwNSw0Mzg3MzEyMDksMTQ0MzAwMzk0MywtMTQxMDIyNDgzLC0y
-MDQ2MDk0OTgxXX0=
+eyJoaXN0b3J5IjpbLTE0NTg5MzE0ODMsMTc5MjE5OTAzMSwtMT
+c2NDU3NDU2Nyw2MDkzNTM5NCwtMjIyMTY3MTA0LDE3MTA5NTM0
+MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5MiwtMTQxNTMyMDU5Ni
+wtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEwMDUyMjkxLC0x
+MTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MTkxMSwtNTc4ND
+I2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0MzAwMzk0Mywt
+MTQxMDIyNDgzXX0=
 -->
