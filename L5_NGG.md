@@ -1,4 +1,5 @@
 ## overlap graph
+Hamiltonian Path identified
 ## **De Bruijn graph** 
 split reads into k-mers
 for each k-mer, extract it from left and right to get two (k-1)-mers
@@ -58,8 +59,9 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU5ODE5MTEsLTU3ODQyNjcxMSw1Mz
-Y4NTE5MDUsNDM4NzMxMjA5LDE0NDMwMDM5NDMsLTE0MTAyMjQ4
-MywtMjA0NjA5NDk4MSwtOTQwOTY2NDM2LC0xOTY3OTExMzc4LD
-IwOTY0MTc0MjIsMjAwMDExODI4MywxMjQzNTczNDk3XX0=
+eyJoaXN0b3J5IjpbNzE2MTU0NDQ5LC0xMjQ1OTgxOTExLC01Nz
+g0MjY3MTEsNTM2ODUxOTA1LDQzODczMTIwOSwxNDQzMDAzOTQz
+LC0xNDEwMjI0ODMsLTIwNDYwOTQ5ODEsLTk0MDk2NjQzNiwtMT
+k2NzkxMTM3OCwyMDk2NDE3NDIyLDIwMDAxMTgyODMsMTI0MzU3
+MzQ5N119
 -->
