@@ -53,8 +53,8 @@ graph to many actual sequences (contigs)
 
 
 
-Busco and cegma higher percentage more complete
- different family of repeats 
+
+ 
  long repeat impossible to assemble
  mate pairs - single paired read at each side
  DNA assembly
@@ -84,9 +84,12 @@ Busco and cegma higher percentage more complete
 * N50 (contig/scaffold N50 length)
 	+ length of contigs/scaffolds (compared to the size of the genome)
 	+ N50:  the length of contig at which half the assembly is in contigs of that size or greater
+- Busco and cegma 
+	+ higher percentage more complete
 > Snail plots https://github.com/rjchallis/assembly-stats
 ## long-range scaffolding approaches
 Repeats can only be resolved if the sequencing technology used to generate the raw data for assembly has a working span longer than the repeat length.
+Many different family of repeats
 - read pairs
 - mate pairs
 - RNA-seq
@@ -99,11 +102,11 @@ Repeats can only be resolved if the sequencing technology used to generate the r
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5Nzk2MDg0LDE4Mzk2ODY2NTYsLTEwMT
-gxMzk2MDYsLTczODI1MTg2LDgyNjY3Njc3Niw0NzE3Nzg0NTIs
-MTc5MjE5OTAzMSwtMTc2NDU3NDU2Nyw2MDkzNTM5NCwtMjIyMT
-Y3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5
-MiwtMTQxNTMyMDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC
-0xOTEwMDUyMjkxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0
-NTk4MTkxMV19
+eyJoaXN0b3J5IjpbLTE2MjgzNDcyNzksMjc5Nzk2MDg0LDE4Mz
+k2ODY2NTYsLTEwMTgxMzk2MDYsLTczODI1MTg2LDgyNjY3Njc3
+Niw0NzE3Nzg0NTIsMTc5MjE5OTAzMSwtMTc2NDU3NDU2Nyw2MD
+kzNTM5NCwtMjIyMTY3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUx
+MiwtMTUzODI1MDE5MiwtMTQxNTMyMDU5NiwtMTgwNjI5NjYyNS
+wyMDEyNzI3NzcxLC0xOTEwMDUyMjkxLC0xMTk3NzYwMDQsLTU3
+NTk0MzQ4N119
 -->
