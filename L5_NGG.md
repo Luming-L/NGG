@@ -3,7 +3,7 @@
 split reads into k-mers
 for each k-mer, extract it from left and right to get two (k-1)-mers
 each unique (k-1)-mer is a node
-each 
+each k-mer
 deconvolute graph to derive assembly: Eulerian cycle problem
 **Error (Tips and bubbles) removal**
 **Velvet**: twin node block arcs 
@@ -56,8 +56,8 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTY0NTEzNSw1MzY4NTE5MDUsNDM4Nz
-MxMjA5LDE0NDMwMDM5NDMsLTE0MTAyMjQ4MywtMjA0NjA5NDk4
-MSwtOTQwOTY2NDM2LC0xOTY3OTExMzc4LDIwOTY0MTc0MjIsMj
-AwMDExODI4MywxMjQzNTczNDk3XX0=
+eyJoaXN0b3J5IjpbMjczNTYyODk5LDUzNjg1MTkwNSw0Mzg3Mz
+EyMDksMTQ0MzAwMzk0MywtMTQxMDIyNDgzLC0yMDQ2MDk0OTgx
+LC05NDA5NjY0MzYsLTE5Njc5MTEzNzgsMjA5NjQxNzQyMiwyMD
+AwMTE4MjgzLDEyNDM1NzM0OTddfQ==
 -->
