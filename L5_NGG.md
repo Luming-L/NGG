@@ -83,13 +83,13 @@ Busco and cegma higher percentage more complete
 	+ bad: hundread of contigs set to a chromosome
 * N50 (contig/scaffold N50 length)
 	+ length of contigs/scaffolds (compared to the size of the genome)
-> N50:  the length of contig at which half the assembly is in contigs of that size or greater
-
+	+ N50:  the length of contig at which half the assembly is in contigs of that size or greater
+> Snail plots https://github.com/rjchallis/assembly-stats
 ## long-range scaffolding approaches
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODQ5NTU2MywtMTAxODEzOTYwNiwtNz
+eyJoaXN0b3J5IjpbMTgzOTY4NjY1NiwtMTAxODEzOTYwNiwtNz
 M4MjUxODYsODI2Njc2Nzc2LDQ3MTc3ODQ1MiwxNzkyMTk5MDMx
 LC0xNzY0NTc0NTY3LDYwOTM1Mzk0LC0yMjIxNjcxMDQsMTcxMD
 k1MzQxOCwxMzk3OTA3NTEyLC0xNTM4MjUwMTkyLC0xNDE1MzIw
