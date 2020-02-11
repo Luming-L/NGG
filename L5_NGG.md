@@ -14,6 +14,9 @@ twin node?
 reverse complement k-mers
 ## Repeat
 ## Simplified de Bruijn graph
+When a node A has 
+
+
 split reads into k-mers
 for each k-mer, extract it from left and right to get two (k-1)-mers
 each unique (k-1)-mer is a node
@@ -72,10 +75,10 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjcyNzc3MSwtMTkxMDA1MjI5MSwtMT
-E5Nzc2MDA0LC01NzU5NDM0ODcsLTEyNDU5ODE5MTEsLTU3ODQy
-NjcxMSw1MzY4NTE5MDUsNDM4NzMxMjA5LDE0NDMwMDM5NDMsLT
-E0MTAyMjQ4MywtMjA0NjA5NDk4MSwtOTQwOTY2NDM2LC0xOTY3
-OTExMzc4LDIwOTY0MTc0MjIsMjAwMDExODI4MywxMjQzNTczND
-k3XX0=
+eyJoaXN0b3J5IjpbLTIwMzA0ODE0NSwyMDEyNzI3NzcxLC0xOT
+EwMDUyMjkxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4
+MTkxMSwtNTc4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMT
+Q0MzAwMzk0MywtMTQxMDIyNDgzLC0yMDQ2MDk0OTgxLC05NDA5
+NjY0MzYsLTE5Njc5MTEzNzgsMjA5NjQxNzQyMiwyMDAwMTE4Mj
+gzLDEyNDM1NzM0OTddfQ==
 -->
