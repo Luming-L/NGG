@@ -18,7 +18,8 @@ reverse complement k-mers
 When a node A has only one outgoing arc that points to another node B that has only one ingoing arc, merge these two nodes.
 ## Error removal
 * tips - errors at the edges of reads
-* bubbles - internal read erroe
+* bubbles - internal read errors or nearby tips connecting
+* erroneous connections - technical errors or distant tips merging
 
 split reads into k-mers
 for each k-mer, extract it from left and right to get two (k-1)-mers
@@ -65,11 +66,11 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI2OTU1NSwtMTQxNTMyMDU5NiwtMT
-gwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEwMDUyMjkxLC0xMTk3
-NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MTkxMSwtNTc4NDI2Nz
-ExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0MzAwMzk0MywtMTQx
-MDIyNDgzLC0yMDQ2MDk0OTgxLC05NDA5NjY0MzYsLTE5Njc5MT
-EzNzgsMjA5NjQxNzQyMiwyMDAwMTE4MjgzLDEyNDM1NzM0OTdd
-fQ==
+eyJoaXN0b3J5IjpbLTE1MzgyNTAxOTIsLTE0MTUzMjA1OTYsLT
+E4MDYyOTY2MjUsMjAxMjcyNzc3MSwtMTkxMDA1MjI5MSwtMTE5
+Nzc2MDA0LC01NzU5NDM0ODcsLTEyNDU5ODE5MTEsLTU3ODQyNj
+cxMSw1MzY4NTE5MDUsNDM4NzMxMjA5LDE0NDMwMDM5NDMsLTE0
+MTAyMjQ4MywtMjA0NjA5NDk4MSwtOTQwOTY2NDM2LC0xOTY3OT
+ExMzc4LDIwOTY0MTc0MjIsMjAwMDExODI4MywxMjQzNTczNDk3
+XX0=
 -->
