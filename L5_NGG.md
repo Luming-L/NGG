@@ -1,5 +1,6 @@
 ## Overlap graph OLC
-Hamiltonian Path identified
+NP complete？
+Hamiltonian Path identified？
 ## De Bruijn graph
 1. split reads into k-mers
 2. build graph of k-mers
@@ -67,11 +68,11 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MzUzOTQsLTIyMjE2NzEwNCwxNzEwOT
-UzNDE4LDEzOTc5MDc1MTIsLTE1MzgyNTAxOTIsLTE0MTUzMjA1
-OTYsLTE4MDYyOTY2MjUsMjAxMjcyNzc3MSwtMTkxMDA1MjI5MS
-wtMTE5Nzc2MDA0LC01NzU5NDM0ODcsLTEyNDU5ODE5MTEsLTU3
-ODQyNjcxMSw1MzY4NTE5MDUsNDM4NzMxMjA5LDE0NDMwMDM5ND
-MsLTE0MTAyMjQ4MywtMjA0NjA5NDk4MSwtOTQwOTY2NDM2LC0x
-OTY3OTExMzc4XX0=
+eyJoaXN0b3J5IjpbMjIzNzQ4NDk3LDYwOTM1Mzk0LC0yMjIxNj
+cxMDQsMTcxMDk1MzQxOCwxMzk3OTA3NTEyLC0xNTM4MjUwMTky
+LC0xNDE1MzIwNTk2LC0xODA2Mjk2NjI1LDIwMTI3Mjc3NzEsLT
+E5MTAwNTIyOTEsLTExOTc3NjAwNCwtNTc1OTQzNDg3LC0xMjQ1
+OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUxOTA1LDQzODczMTIwOS
+wxNDQzMDAzOTQzLC0xNDEwMjI0ODMsLTIwNDYwOTQ5ODEsLTk0
+MDk2NjQzNl19
 -->
