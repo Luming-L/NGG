@@ -31,9 +31,6 @@ each unique (k-1)-mer is a node
 each k-mer is a directed edge 
 walk through **each** directed edge only **once** (Eulerian cycle problem)
 
-deconvolute graph to derive assembly: Eulerian cycle problem
-**Error (Tips and bubbles) removal**
-**Velvet**: twin node block arcs 
 
 
 NP problem 
@@ -70,11 +67,11 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjU0Njk2NSwtMjIyMTY3MTA0LDE3MT
-A5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5MiwtMTQxNTMy
-MDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEwMDUyMj
-kxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MTkxMSwt
-NTc4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0MzAwMz
-k0MywtMTQxMDIyNDgzLC0yMDQ2MDk0OTgxLC05NDA5NjY0MzYs
-LTE5Njc5MTEzNzhdfQ==
+eyJoaXN0b3J5IjpbNjA5MzUzOTQsLTIyMjE2NzEwNCwxNzEwOT
+UzNDE4LDEzOTc5MDc1MTIsLTE1MzgyNTAxOTIsLTE0MTUzMjA1
+OTYsLTE4MDYyOTY2MjUsMjAxMjcyNzc3MSwtMTkxMDA1MjI5MS
+wtMTE5Nzc2MDA0LC01NzU5NDM0ODcsLTEyNDU5ODE5MTEsLTU3
+ODQyNjcxMSw1MzY4NTE5MDUsNDM4NzMxMjA5LDE0NDMwMDM5ND
+MsLTE0MTAyMjQ4MywtMjA0NjA5NDk4MSwtOTQwOTY2NDM2LC0x
+OTY3OTExMzc4XX0=
 -->
