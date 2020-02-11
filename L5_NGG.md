@@ -5,6 +5,8 @@ Hamiltonian Path identified
 2. build graph of k-mers
 	* each k-mer is a node
 	* directed edges from one node to another indicate overlaps
+	* Simplification of linear stretches
+	* Error (tip and bubble removal)
 3. deconvolute graph to derive assembly
 	* Eulerian cycle problem
 ## Repeat
@@ -67,9 +69,9 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc3NjAwNCwtNTc1OTQzNDg3LC0xMj
-Q1OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUxOTA1LDQzODczMTIw
-OSwxNDQzMDAzOTQzLC0xNDEwMjI0ODMsLTIwNDYwOTQ5ODEsLT
-k0MDk2NjQzNiwtMTk2NzkxMTM3OCwyMDk2NDE3NDIyLDIwMDAx
-MTgyODMsMTI0MzU3MzQ5N119
+eyJoaXN0b3J5IjpbLTE4NzI5NTQ0MzUsLTExOTc3NjAwNCwtNT
+c1OTQzNDg3LC0xMjQ1OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUx
+OTA1LDQzODczMTIwOSwxNDQzMDAzOTQzLC0xNDEwMjI0ODMsLT
+IwNDYwOTQ5ODEsLTk0MDk2NjQzNiwtMTk2NzkxMTM3OCwyMDk2
+NDE3NDIyLDIwMDAxMTgyODMsMTI0MzU3MzQ5N119
 -->
