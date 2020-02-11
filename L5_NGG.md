@@ -86,7 +86,7 @@ Busco and cegma higher percentage more complete
 	+ N50:  the length of contig at which half the assembly is in contigs of that size or greater
 > Snail plots https://github.com/rjchallis/assembly-stats
 ## long-range scaffolding approaches
-Repeats can on
+Repeats can only be resolved if if the sequencing technology used to generate the raw data for 
 - read pairs
 - mate pairs
 - RNA-seq
@@ -99,11 +99,11 @@ Repeats can on
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxMzgyMTI3LDE4Mzk2ODY2NTYsLTEwMT
-gxMzk2MDYsLTczODI1MTg2LDgyNjY3Njc3Niw0NzE3Nzg0NTIs
-MTc5MjE5OTAzMSwtMTc2NDU3NDU2Nyw2MDkzNTM5NCwtMjIyMT
-Y3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5
-MiwtMTQxNTMyMDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC
-0xOTEwMDUyMjkxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0
-NTk4MTkxMV19
+eyJoaXN0b3J5IjpbLTE2NzE3NDgwMDMsMTgzOTY4NjY1NiwtMT
+AxODEzOTYwNiwtNzM4MjUxODYsODI2Njc2Nzc2LDQ3MTc3ODQ1
+MiwxNzkyMTk5MDMxLC0xNzY0NTc0NTY3LDYwOTM1Mzk0LC0yMj
+IxNjcxMDQsMTcxMDk1MzQxOCwxMzk3OTA3NTEyLC0xNTM4MjUw
+MTkyLC0xNDE1MzIwNTk2LC0xODA2Mjk2NjI1LDIwMTI3Mjc3Nz
+EsLTE5MTAwNTIyOTEsLTExOTc3NjAwNCwtNTc1OTQzNDg3LC0x
+MjQ1OTgxOTExXX0=
 -->
