@@ -31,6 +31,7 @@ When a node A has only one outgoing arc that points to another node B that has o
 > After the above corrections, genuine short nodes that cannot be simplified correspond to low-complexity sequences that present multiple times in the genome.
 > It is likely that any low coverage node left after tip and bubble resolution is a chimeric connection, due to spurious overlaps created by experimental errors.
 split reads into k-mers
+
 for each k-mer, extract it from left and right to get two (k-1)-mers
 each unique (k-1)-mer is a node
 each k-mer is a directed edge 
@@ -71,12 +72,13 @@ Busco and cegma higher percentage more complete
  short reads can increase resolution 
  error correct 
 
+## assemby
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjUwNTUzMywtMTc2NDU3NDU2Nyw2MD
-kzNTM5NCwtMjIyMTY3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUx
-MiwtMTUzODI1MDE5MiwtMTQxNTMyMDU5NiwtMTgwNjI5NjYyNS
-wyMDEyNzI3NzcxLC0xOTEwMDUyMjkxLC0xMTk3NzYwMDQsLTU3
-NTk0MzQ4NywtMTI0NTk4MTkxMSwtNTc4NDI2NzExLDUzNjg1MT
-kwNSw0Mzg3MzEyMDksMTQ0MzAwMzk0MywtMTQxMDIyNDgzLC0y
-MDQ2MDk0OTgxXX0=
+eyJoaXN0b3J5IjpbNTc3MzkxMzg1LC0xNzY0NTc0NTY3LDYwOT
+M1Mzk0LC0yMjIxNjcxMDQsMTcxMDk1MzQxOCwxMzk3OTA3NTEy
+LC0xNTM4MjUwMTkyLC0xNDE1MzIwNTk2LC0xODA2Mjk2NjI1LD
+IwMTI3Mjc3NzEsLTE5MTAwNTIyOTEsLTExOTc3NjAwNCwtNTc1
+OTQzNDg3LC0xMjQ1OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUxOT
+A1LDQzODczMTIwOSwxNDQzMDAzOTQzLC0xNDEwMjI0ODMsLTIw
+NDYwOTQ5ODFdfQ==
 -->
