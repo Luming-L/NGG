@@ -1,7 +1,8 @@
 ## Overlap graph OLC
 1. identify overlaps of reads
 2. build graph of reads
-* 
+	* each k-mer is a node
+3. build consensus sequence
 NP complete？
 Hamiltonian Path identified？
 ## De Bruijn graph
@@ -71,11 +72,11 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDAwMTI3OCw2MDkzNTM5NCwtMjIyMT
-Y3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5
-MiwtMTQxNTMyMDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC
-0xOTEwMDUyMjkxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0
-NTk4MTkxMSwtNTc4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMD
-ksMTQ0MzAwMzk0MywtMTQxMDIyNDgzLC0yMDQ2MDk0OTgxLC05
-NDA5NjY0MzZdfQ==
+eyJoaXN0b3J5IjpbLTE3NjQ1NzQ1NjcsNjA5MzUzOTQsLTIyMj
+E2NzEwNCwxNzEwOTUzNDE4LDEzOTc5MDc1MTIsLTE1MzgyNTAx
+OTIsLTE0MTUzMjA1OTYsLTE4MDYyOTY2MjUsMjAxMjcyNzc3MS
+wtMTkxMDA1MjI5MSwtMTE5Nzc2MDA0LC01NzU5NDM0ODcsLTEy
+NDU5ODE5MTEsLTU3ODQyNjcxMSw1MzY4NTE5MDUsNDM4NzMxMj
+A5LDE0NDMwMDM5NDMsLTE0MTAyMjQ4MywtMjA0NjA5NDk4MSwt
+OTQwOTY2NDM2XX0=
 -->
