@@ -84,15 +84,16 @@ Busco and cegma higher percentage more complete
 * N50 (contig/scaffold N50 length)
 > length of contigs/scaffolds (compared to the size of the genome)
 > N50:  the length of contig at which half the assembly is in contigs of that size or greater
+> 
 ## long-range scaffolding approaches
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgxMzk2MDYsLTczODI1MTg2LDgyNj
-Y3Njc3Niw0NzE3Nzg0NTIsMTc5MjE5OTAzMSwtMTc2NDU3NDU2
-Nyw2MDkzNTM5NCwtMjIyMTY3MTA0LDE3MTA5NTM0MTgsMTM5Nz
-kwNzUxMiwtMTUzODI1MDE5MiwtMTQxNTMyMDU5NiwtMTgwNjI5
-NjYyNSwyMDEyNzI3NzcxLC0xOTEwMDUyMjkxLC0xMTk3NzYwMD
-QsLTU3NTk0MzQ4NywtMTI0NTk4MTkxMSwtNTc4NDI2NzExLDUz
-Njg1MTkwNV19
+eyJoaXN0b3J5IjpbLTE3MjY0NTg4OTAsLTEwMTgxMzk2MDYsLT
+czODI1MTg2LDgyNjY3Njc3Niw0NzE3Nzg0NTIsMTc5MjE5OTAz
+MSwtMTc2NDU3NDU2Nyw2MDkzNTM5NCwtMjIyMTY3MTA0LDE3MT
+A5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5MiwtMTQxNTMy
+MDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEwMDUyMj
+kxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MTkxMSwt
+NTc4NDI2NzExXX0=
 -->
