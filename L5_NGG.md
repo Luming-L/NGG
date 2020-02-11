@@ -74,7 +74,7 @@ Busco and cegma higher percentage more complete
 
 ## assembly numerical metrics
 * "N" 
-> the number of uncertain bases
+ the number of uncertain bases
 > caused by uncalled bases/unsequenced gaps/unresolved errors
 * Number of contigs/scaffolds
 > lots of contigs - many repeats
@@ -84,12 +84,12 @@ Busco and cegma higher percentage more complete
 * N50 (contig/scaffold N50 length)
 > length of contigs/scaffolds (compared to the size of the genome)
 > N50:  the length of contig at which half the assembly is in contigs of that size or greater
-> 
+
 ## long-range scaffolding approaches
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY0NTg4OTAsLTEwMTgxMzk2MDYsLT
+eyJoaXN0b3J5IjpbLTIwODc2Mzk0NTAsLTEwMTgxMzk2MDYsLT
 czODI1MTg2LDgyNjY3Njc3Niw0NzE3Nzg0NTIsMTc5MjE5OTAz
 MSwtMTc2NDU3NDU2Nyw2MDkzNTM5NCwtMjIyMTY3MTA0LDE3MT
 A5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5MiwtMTQxNTMy
