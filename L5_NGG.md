@@ -1,11 +1,10 @@
 ## Overlap graph OLC
 Hamiltonian Path identified
 ## De Bruijn graph
-
-split reads into k-mers
-build graph of k-mers
-each k-mer is a node
-directed edges from one node to another indicate overlaps
+1. split reads into k-mers
+2. build graph of k-mers
+* each k-mer is a node
+* directed edges from one node to another indicate overlaps
 deconvolute graph to derive assembly
 ## Repeat
 ## Simplified de Bruijn graph
@@ -67,9 +66,9 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI2MTk2ODAsLTU3NTk0MzQ4NywtMT
-I0NTk4MTkxMSwtNTc4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEy
-MDksMTQ0MzAwMzk0MywtMTQxMDIyNDgzLC0yMDQ2MDk0OTgxLC
-05NDA5NjY0MzYsLTE5Njc5MTEzNzgsMjA5NjQxNzQyMiwyMDAw
-MTE4MjgzLDEyNDM1NzM0OTddfQ==
+eyJoaXN0b3J5IjpbMTcwMDYwODY0NSwtNTc1OTQzNDg3LC0xMj
+Q1OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUxOTA1LDQzODczMTIw
+OSwxNDQzMDAzOTQzLC0xNDEwMjI0ODMsLTIwNDYwOTQ5ODEsLT
+k0MDk2NjQzNiwtMTk2NzkxMTM3OCwyMDk2NDE3NDIyLDIwMDAx
+MTgyODMsMTI0MzU3MzQ5N119
 -->
