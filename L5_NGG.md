@@ -87,7 +87,7 @@ graph to many actual sequences (contigs)
 	+ higher percentage more complete
 > Snail plots https://github.com/rjchallis/assembly-stats
 ## long-range scaffolding approaches
-Repeats can only be resolved if the sequencing technology used to generate the raw data for assembly has a working span longer than the repeat length.
+Motivation: Repeats can only be resolved if the sequencing technology used to generate the raw data for assembly has a working span longer than the repeat length.
 Repeats have many different families.
 - read pairs
 - mate pairs
@@ -104,11 +104,11 @@ Repeats have many different families.
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjkyNjA5NiwyNzk3OTYwODQsMTgzOT
-Y4NjY1NiwtMTAxODEzOTYwNiwtNzM4MjUxODYsODI2Njc2Nzc2
-LDQ3MTc3ODQ1MiwxNzkyMTk5MDMxLC0xNzY0NTc0NTY3LDYwOT
-M1Mzk0LC0yMjIxNjcxMDQsMTcxMDk1MzQxOCwxMzk3OTA3NTEy
-LC0xNTM4MjUwMTkyLC0xNDE1MzIwNTk2LC0xODA2Mjk2NjI1LD
-IwMTI3Mjc3NzEsLTE5MTAwNTIyOTEsLTExOTc3NjAwNCwtNTc1
-OTQzNDg3XX0=
+eyJoaXN0b3J5IjpbMjI1OTE1NzI0LC0zNDI5MjYwOTYsMjc5Nz
+k2MDg0LDE4Mzk2ODY2NTYsLTEwMTgxMzk2MDYsLTczODI1MTg2
+LDgyNjY3Njc3Niw0NzE3Nzg0NTIsMTc5MjE5OTAzMSwtMTc2ND
+U3NDU2Nyw2MDkzNTM5NCwtMjIyMTY3MTA0LDE3MTA5NTM0MTgs
+MTM5NzkwNzUxMiwtMTUzODI1MDE5MiwtMTQxNTMyMDU5NiwtMT
+gwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEwMDUyMjkxLC0xMTk3
+NzYwMDRdfQ==
 -->
