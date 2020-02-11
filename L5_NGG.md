@@ -21,9 +21,9 @@ When a node A has only one outgoing arc that points to another node B that has o
 > A tip is a chain of nodes that is disconnected on one end
 > remove tips
 * bubbles - internal read errors or nearby tips connecting
-> 
+> two paths are redundant and contain similar sequence
 * erroneous connections - technical errors or distant tips merging
-
+> 
 split reads into k-mers
 for each k-mer, extract it from left and right to get two (k-1)-mers
 each unique (k-1)-mer is a node
@@ -69,11 +69,11 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzkwNzUxMiwtMTUzODI1MDE5MiwtMT
-QxNTMyMDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEw
-MDUyMjkxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MT
-kxMSwtNTc4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0
-MzAwMzk0MywtMTQxMDIyNDgzLC0yMDQ2MDk0OTgxLC05NDA5Nj
-Y0MzYsLTE5Njc5MTEzNzgsMjA5NjQxNzQyMiwyMDAwMTE4Mjgz
-LDEyNDM1NzM0OTddfQ==
+eyJoaXN0b3J5IjpbMTcxMDk1MzQxOCwxMzk3OTA3NTEyLC0xNT
+M4MjUwMTkyLC0xNDE1MzIwNTk2LC0xODA2Mjk2NjI1LDIwMTI3
+Mjc3NzEsLTE5MTAwNTIyOTEsLTExOTc3NjAwNCwtNTc1OTQzND
+g3LC0xMjQ1OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUxOTA1LDQz
+ODczMTIwOSwxNDQzMDAzOTQzLC0xNDEwMjI0ODMsLTIwNDYwOT
+Q5ODEsLTk0MDk2NjQzNiwtMTk2NzkxMTM3OCwyMDk2NDE3NDIy
+LDIwMDAxMTgyODNdfQ==
 -->
