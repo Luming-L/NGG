@@ -5,10 +5,11 @@ Hamiltonian Path identified
 2. build graph of k-mers
 	* each k-mer is a node
 	* directed edges from one node to another indicate overlaps
-	* Simplification of linear stretches
-	* Error (tip and bubble removal)
+	* Simplification of linear stretches?
+	* Error (tip and bubble removal)?
 3. deconvolute graph to derive assembly
 	* Eulerian cycle problem
+## Velvet
 ## Repeat
 ## Simplified de Bruijn graph
 split reads into k-mers
@@ -69,7 +70,7 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI5NTQ0MzUsLTExOTc3NjAwNCwtNT
+eyJoaXN0b3J5IjpbLTE5MTAwNTIyOTEsLTExOTc3NjAwNCwtNT
 c1OTQzNDg3LC0xMjQ1OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUx
 OTA1LDQzODczMTIwOSwxNDQzMDAzOTQzLC0xNDEwMjI0ODMsLT
 IwNDYwOTQ5ODEsLTk0MDk2NjQzNiwtMTk2NzkxMTM3OCwyMDk2
