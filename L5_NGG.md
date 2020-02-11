@@ -4,7 +4,7 @@ Hamiltonian Path identified
 split reads into k-mers
 build graph of k-mers
 deconvolute graph to derive assembly
-
+## 
 split reads into k-mers
 for each k-mer, extract it from left and right to get two (k-1)-mers
 each unique (k-1)-mer is a node
@@ -63,9 +63,9 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTk0MzQ4NywtMTI0NTk4MTkxMSwtNT
-c4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0MzAwMzk0
-MywtMTQxMDIyNDgzLC0yMDQ2MDk0OTgxLC05NDA5NjY0MzYsLT
-E5Njc5MTEzNzgsMjA5NjQxNzQyMiwyMDAwMTE4MjgzLDEyNDM1
-NzM0OTddfQ==
+eyJoaXN0b3J5IjpbMTIxMzA5OTUyNSwtNTc1OTQzNDg3LC0xMj
+Q1OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUxOTA1LDQzODczMTIw
+OSwxNDQzMDAzOTQzLC0xNDEwMjI0ODMsLTIwNDYwOTQ5ODEsLT
+k0MDk2NjQzNiwtMTk2NzkxMTM3OCwyMDk2NDE3NDIyLDIwMDAx
+MTgyODMsMTI0MzU3MzQ5N119
 -->
