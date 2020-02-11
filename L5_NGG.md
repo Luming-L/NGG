@@ -24,7 +24,7 @@ When a node A has only one outgoing arc that points to another node B that has o
 > two paths are redundant and contain similar sequence
 * erroneous connections - technical errors or distant tips merging
 > After the above corrections, genuine short nodes that cannot be simplified correspond to low-complexity sequences that present multiple times in the genome.
-> 
+> It is likely that any low coverage node left after tip and bubble resolution is a chimeric connection, due to spurious overlaps created by experimental errors.
 split reads into k-mers
 for each k-mer, extract it from left and right to get two (k-1)-mers
 each unique (k-1)-mer is a node
@@ -70,11 +70,11 @@ Busco and cegma higher percentage more complete
  error correct 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjE2NzEwNCwxNzEwOTUzNDE4LDEzOT
-c5MDc1MTIsLTE1MzgyNTAxOTIsLTE0MTUzMjA1OTYsLTE4MDYy
-OTY2MjUsMjAxMjcyNzc3MSwtMTkxMDA1MjI5MSwtMTE5Nzc2MD
-A0LC01NzU5NDM0ODcsLTEyNDU5ODE5MTEsLTU3ODQyNjcxMSw1
-MzY4NTE5MDUsNDM4NzMxMjA5LDE0NDMwMDM5NDMsLTE0MTAyMj
-Q4MywtMjA0NjA5NDk4MSwtOTQwOTY2NDM2LC0xOTY3OTExMzc4
-LDIwOTY0MTc0MjJdfQ==
+eyJoaXN0b3J5IjpbLTQyMjU0Njk2NSwtMjIyMTY3MTA0LDE3MT
+A5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1MDE5MiwtMTQxNTMy
+MDU5NiwtMTgwNjI5NjYyNSwyMDEyNzI3NzcxLC0xOTEwMDUyMj
+kxLC0xMTk3NzYwMDQsLTU3NTk0MzQ4NywtMTI0NTk4MTkxMSwt
+NTc4NDI2NzExLDUzNjg1MTkwNSw0Mzg3MzEyMDksMTQ0MzAwMz
+k0MywtMTQxMDIyNDgzLC0yMDQ2MDk0OTgxLC05NDA5NjY0MzYs
+LTE5Njc5MTEzNzhdfQ==
 -->
