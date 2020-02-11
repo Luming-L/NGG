@@ -79,7 +79,7 @@ Busco and cegma higher percentage more complete
 > unresolved errors
 * Number of contigs/scaffolds
 > lots of contigs - many repeats
-> compared to the number of chromosomes
+> compared to the number of chromosomes, the number of scaffolds should 
 > good: 2 contigs from two sides (center is centromere and have many repeats)
 > bad: hundread of contigs set to a chromosome
 * Mean length of contigs/scaffolds
@@ -87,11 +87,11 @@ Busco and cegma higher percentage more complete
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1NjYzMDQzLDE3OTIxOTkwMzEsLTE3Nj
-Q1NzQ1NjcsNjA5MzUzOTQsLTIyMjE2NzEwNCwxNzEwOTUzNDE4
-LDEzOTc5MDc1MTIsLTE1MzgyNTAxOTIsLTE0MTUzMjA1OTYsLT
-E4MDYyOTY2MjUsMjAxMjcyNzc3MSwtMTkxMDA1MjI5MSwtMTE5
-Nzc2MDA0LC01NzU5NDM0ODcsLTEyNDU5ODE5MTEsLTU3ODQyNj
-cxMSw1MzY4NTE5MDUsNDM4NzMxMjA5LDE0NDMwMDM5NDMsLTE0
-MTAyMjQ4M119
+eyJoaXN0b3J5IjpbMTg2OTY5MjYxNiwxNzkyMTk5MDMxLC0xNz
+Y0NTc0NTY3LDYwOTM1Mzk0LC0yMjIxNjcxMDQsMTcxMDk1MzQx
+OCwxMzk3OTA3NTEyLC0xNTM4MjUwMTkyLC0xNDE1MzIwNTk2LC
+0xODA2Mjk2NjI1LDIwMTI3Mjc3NzEsLTE5MTAwNTIyOTEsLTEx
+OTc3NjAwNCwtNTc1OTQzNDg3LC0xMjQ1OTgxOTExLC01Nzg0Mj
+Y3MTEsNTM2ODUxOTA1LDQzODczMTIwOSwxNDQzMDAzOTQzLC0x
+NDEwMjI0ODNdfQ==
 -->
