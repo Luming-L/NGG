@@ -79,8 +79,9 @@ Busco and cegma higher percentage more complete
 * Number of contigs/scaffolds
 > lots of contigs - many repeats
 > compared to the number of chromosomes, the number of scaffolds should be close to that of chromosomes.
-> good: 2 contigs map  from two sides (center is centromere and have many repeats)
+> good: 2 contigs map the scaffold from two sides (center is centromere and thus has many repeats)
 > bad: hundread of contigs set to a chromosome
+* 
 * Mean length of contigs/scaffolds (compared to the size of the genome)
 > **N50** :  the length of contig at which half the assembly is in contigs of that size or greater
 > the median weighted average?
@@ -89,11 +90,11 @@ Busco and cegma higher percentage more complete
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjcxMjA3Miw4MjY2NzY3NzYsNDcxNz
-c4NDUyLDE3OTIxOTkwMzEsLTE3NjQ1NzQ1NjcsNjA5MzUzOTQs
-LTIyMjE2NzEwNCwxNzEwOTUzNDE4LDEzOTc5MDc1MTIsLTE1Mz
-gyNTAxOTIsLTE0MTUzMjA1OTYsLTE4MDYyOTY2MjUsMjAxMjcy
-Nzc3MSwtMTkxMDA1MjI5MSwtMTE5Nzc2MDA0LC01NzU5NDM0OD
-csLTEyNDU5ODE5MTEsLTU3ODQyNjcxMSw1MzY4NTE5MDUsNDM4
-NzMxMjA5XX0=
+eyJoaXN0b3J5IjpbLTE5MTM3MTc4OTUsODI2Njc2Nzc2LDQ3MT
+c3ODQ1MiwxNzkyMTk5MDMxLC0xNzY0NTc0NTY3LDYwOTM1Mzk0
+LC0yMjIxNjcxMDQsMTcxMDk1MzQxOCwxMzk3OTA3NTEyLC0xNT
+M4MjUwMTkyLC0xNDE1MzIwNTk2LC0xODA2Mjk2NjI1LDIwMTI3
+Mjc3NzEsLTE5MTAwNTIyOTEsLTExOTc3NjAwNCwtNTc1OTQzND
+g3LC0xMjQ1OTgxOTExLC01Nzg0MjY3MTEsNTM2ODUxOTA1LDQz
+ODczMTIwOV19
 -->
