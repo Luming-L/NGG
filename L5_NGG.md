@@ -100,7 +100,7 @@ Repeats have many different families.
 	+ Chicago: in vitro reconstituted chromatin
 - Synthetic long reads
 	+ 10x Genomics
-		1.  
+		1.  mid-tagged library?
 - Optical mapping
 - Radiation hybrid mapping
 - Genetic mapping
@@ -108,11 +108,11 @@ Repeats have many different families.
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1NTY4MTU5LC0xNTUyMjkwNzM3LDEzNT
-Q5MDI2MjAsLTM0MjkyNjA5NiwyNzk3OTYwODQsMTgzOTY4NjY1
-NiwtMTAxODEzOTYwNiwtNzM4MjUxODYsODI2Njc2Nzc2LDQ3MT
-c3ODQ1MiwxNzkyMTk5MDMxLC0xNzY0NTc0NTY3LDYwOTM1Mzk0
-LC0yMjIxNjcxMDQsMTcxMDk1MzQxOCwxMzk3OTA3NTEyLC0xNT
-M4MjUwMTkyLC0xNDE1MzIwNTk2LC0xODA2Mjk2NjI1LDIwMTI3
-Mjc3NzFdfQ==
+eyJoaXN0b3J5IjpbLTE4MzMwODE1Miw2MTU1NjgxNTksLTE1NT
+IyOTA3MzcsMTM1NDkwMjYyMCwtMzQyOTI2MDk2LDI3OTc5NjA4
+NCwxODM5Njg2NjU2LC0xMDE4MTM5NjA2LC03MzgyNTE4Niw4Mj
+Y2NzY3NzYsNDcxNzc4NDUyLDE3OTIxOTkwMzEsLTE3NjQ1NzQ1
+NjcsNjA5MzUzOTQsLTIyMjE2NzEwNCwxNzEwOTUzNDE4LDEzOT
+c5MDc1MTIsLTE1MzgyNTAxOTIsLTE0MTUzMjA1OTYsLTE4MDYy
+OTY2MjVdfQ==
 -->
