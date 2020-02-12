@@ -108,14 +108,18 @@ Repeats have many different families.
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 
+## Definition
+- contig:
+
+
 [https://www.genome.gov/genetics-glossary/Contig](https://www.genome.gov/genetics-glossary/Contig)
 [https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/](https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ1NzM2NjQsLTE4MzMwODE1Miw2MT
-U1NjgxNTksLTE1NTIyOTA3MzcsMTM1NDkwMjYyMCwtMzQyOTI2
-MDk2LDI3OTc5NjA4NCwxODM5Njg2NjU2LC0xMDE4MTM5NjA2LC
-03MzgyNTE4Niw4MjY2NzY3NzYsNDcxNzc4NDUyLDE3OTIxOTkw
-MzEsLTE3NjQ1NzQ1NjcsNjA5MzUzOTQsLTIyMjE2NzEwNCwxNz
-EwOTUzNDE4LDEzOTc5MDc1MTIsLTE1MzgyNTAxOTIsLTE0MTUz
-MjA1OTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MzI3Mzg5NiwtMTY4NDU3MzY2NCwtMT
+gzMzA4MTUyLDYxNTU2ODE1OSwtMTU1MjI5MDczNywxMzU0OTAy
+NjIwLC0zNDI5MjYwOTYsMjc5Nzk2MDg0LDE4Mzk2ODY2NTYsLT
+EwMTgxMzk2MDYsLTczODI1MTg2LDgyNjY3Njc3Niw0NzE3Nzg0
+NTIsMTc5MjE5OTAzMSwtMTc2NDU3NDU2Nyw2MDkzNTM5NCwtMj
+IyMTY3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1
+MDE5Ml19
 -->
