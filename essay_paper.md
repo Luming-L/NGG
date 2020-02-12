@@ -30,8 +30,13 @@ genome assembly - BUSCO (Benchmarking Universal Sin-
 gle-Copy Orthologues)23 v.3.0.
 Hi-C paired-end reads - Lachesis
 
+## annotation
+Genscan
+Augustus A.thaliana
+M
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTMwMzcyMTcsLTM0MjgxNDUwMSwxMD
+eyJoaXN0b3J5IjpbLTE1NTQzMzU2MjQsLTM0MjgxNDUwMSwxMD
 M4OTc3NzcxLDIwMzQzMDAxOTQsLTcyNjI4MTEwMSw2MzM1MTUy
 MTAsMTM1NjE4NDI1MSwtMTUzNDI3MjE4MSwxNDk1MTA1NDIwLC
 0yMDM3NTI3NDIsLTE1MDQzMzQxMTMsLTY0NjQ4NTQzMSw0OTc4
