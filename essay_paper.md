@@ -28,8 +28,9 @@ increase the accuracy of the assembly - Illumina short reads + Pilon
 genome assembly - BUSCO (Benchmarking Universal Sin-
 gle-Copy Orthologues)23 v.3.0.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc1OTI0MjUsLTM0MjgxNDUwMSwxMD
+eyJoaXN0b3J5IjpbLTEyMzc2NDQwMjcsLTM0MjgxNDUwMSwxMD
 M4OTc3NzcxLDIwMzQzMDAxOTQsLTcyNjI4MTEwMSw2MzM1MTUy
 MTAsMTM1NjE4NDI1MSwtMTUzNDI3MjE4MSwxNDk1MTA1NDIwLC
 0yMDM3NTI3NDIsLTE1MDQzMzQxMTMsLTY0NjQ4NTQzMSw0OTc4
