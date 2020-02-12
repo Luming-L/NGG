@@ -121,14 +121,16 @@ Repeats have many different families.
 - optical mapping, crosslinking, and so on.
 
 
+
+
 [https://www.genome.gov/genetics-glossary/Contig](https://www.genome.gov/genetics-glossary/Contig)
 [https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/](https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODQwOTcxMCwxMDY3MjUyNjUzLC0xNj
-g0NTczNjY0LC0xODMzMDgxNTIsNjE1NTY4MTU5LC0xNTUyMjkw
-NzM3LDEzNTQ5MDI2MjAsLTM0MjkyNjA5NiwyNzk3OTYwODQsMT
-gzOTY4NjY1NiwtMTAxODEzOTYwNiwtNzM4MjUxODYsODI2Njc2
-Nzc2LDQ3MTc3ODQ1MiwxNzkyMTk5MDMxLC0xNzY0NTc0NTY3LD
-YwOTM1Mzk0LC0yMjIxNjcxMDQsMTcxMDk1MzQxOCwxMzk3OTA3
-NTEyXX0=
+eyJoaXN0b3J5IjpbNDAwMzg3NjU4LDEwNjcyNTI2NTMsLTE2OD
+Q1NzM2NjQsLTE4MzMwODE1Miw2MTU1NjgxNTksLTE1NTIyOTA3
+MzcsMTM1NDkwMjYyMCwtMzQyOTI2MDk2LDI3OTc5NjA4NCwxOD
+M5Njg2NjU2LC0xMDE4MTM5NjA2LC03MzgyNTE4Niw4MjY2NzY3
+NzYsNDcxNzc4NDUyLDE3OTIxOTkwMzEsLTE3NjQ1NzQ1NjcsNj
+A5MzUzOTQsLTIyMjE2NzEwNCwxNzEwOTUzNDE4LDEzOTc5MDc1
+MTJdfQ==
 -->
