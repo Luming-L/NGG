@@ -19,10 +19,10 @@ illumina platform
 ## assembly
 remove organellar DNA, reads of poor quality or short length, and chimaeras 
 contig-level assembly 
-filtered 
+full PacBio long reads after filtered - Canu v.1.3 for self-correction and assembly 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDA3MTA5NSwtMzQyODE0NTAxLDEwMz
+eyJoaXN0b3J5IjpbMTg2NDE5NDM2MCwtMzQyODE0NTAxLDEwMz
 g5Nzc3NzEsMjAzNDMwMDE5NCwtNzI2MjgxMTAxLDYzMzUxNTIx
 MCwxMzU2MTg0MjUxLC0xNTM0MjcyMTgxLDE0OTUxMDU0MjAsLT
 IwMzc1Mjc0MiwtMTUwNDMzNDExMywtNjQ2NDg1NDMxLDQ5Nzgx
