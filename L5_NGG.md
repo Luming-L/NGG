@@ -118,16 +118,17 @@ Repeats have many different families.
 - Scaffold chains contigs together.
 - Need additional information about the relative position and orientation of the contigs in the genome.
 - Contigs in a scaffold are separated by gaps (indicated by "N"s)
+- optical
 
 
 [https://www.genome.gov/genetics-glossary/Contig](https://www.genome.gov/genetics-glossary/Contig)
 [https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/](https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzI1MjY1MywtMTY4NDU3MzY2NCwtMT
-gzMzA4MTUyLDYxNTU2ODE1OSwtMTU1MjI5MDczNywxMzU0OTAy
-NjIwLC0zNDI5MjYwOTYsMjc5Nzk2MDg0LDE4Mzk2ODY2NTYsLT
-EwMTgxMzk2MDYsLTczODI1MTg2LDgyNjY3Njc3Niw0NzE3Nzg0
-NTIsMTc5MjE5OTAzMSwtMTc2NDU3NDU2Nyw2MDkzNTM5NCwtMj
-IyMTY3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1
-MDE5Ml19
+eyJoaXN0b3J5IjpbMTE4MTE2NzQ4OCwxMDY3MjUyNjUzLC0xNj
+g0NTczNjY0LC0xODMzMDgxNTIsNjE1NTY4MTU5LC0xNTUyMjkw
+NzM3LDEzNTQ5MDI2MjAsLTM0MjkyNjA5NiwyNzk3OTYwODQsMT
+gzOTY4NjY1NiwtMTAxODEzOTYwNiwtNzM4MjUxODYsODI2Njc2
+Nzc2LDQ3MTc3ODQ1MiwxNzkyMTk5MDMxLC0xNzY0NTc0NTY3LD
+YwOTM1Mzk0LC0yMjIxNjcxMDQsMTcxMDk1MzQxOCwxMzk3OTA3
+NTEyXX0=
 -->
