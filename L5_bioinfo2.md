@@ -1,6 +1,6 @@
-# Hidden Markov Models
+# Hidden Markov Models HMMs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI1OTMwMjcsLTIwODg3NDY2MTIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzUwODMxNjI0LC0yMDg4NzQ2NjEyLDczMD
+k5ODExNl19
 -->
