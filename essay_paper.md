@@ -22,18 +22,18 @@ contig-level assembly
 Polish the draft assembly
 increase the accuracy of the assembly
 measure genome assembly quality
-map Hi-C paired-end reads to draft asssembly cont
+map Hi-C paired-end reads to draft asssembly contigs, group into chromosomes and scaffold 
 full PacBio long reads after filtered - Canu v.1.3 for self-correction and assembly 
 draft assembly - Arrow
 increase the accuracy of the assembly - Illumina short reads + Pilon
 genome assembly - BUSCO (Benchmarking Universal Sin-
 gle-Copy Orthologues)23 v.3.0.
-Hi-C paired-end reads - 
+Hi-C paired-end reads - Lachesis
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDQ0MjgyNSwtMzQyODE0NTAxLDEwMz
-g5Nzc3NzEsMjAzNDMwMDE5NCwtNzI2MjgxMTAxLDYzMzUxNTIx
-MCwxMzU2MTg0MjUxLC0xNTM0MjcyMTgxLDE0OTUxMDU0MjAsLT
-IwMzc1Mjc0MiwtMTUwNDMzNDExMywtNjQ2NDg1NDMxLDQ5Nzgx
-ODgxMF19
+eyJoaXN0b3J5IjpbLTEyMTMwMzcyMTcsLTM0MjgxNDUwMSwxMD
+M4OTc3NzcxLDIwMzQzMDAxOTQsLTcyNjI4MTEwMSw2MzM1MTUy
+MTAsMTM1NjE4NDI1MSwtMTUzNDI3MjE4MSwxNDk1MTA1NDIwLC
+0yMDM3NTI3NDIsLTE1MDQzMzQxMTMsLTY0NjQ4NTQzMSw0OTc4
+MTg4MTBdfQ==
 -->
