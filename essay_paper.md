@@ -4,9 +4,9 @@
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-| Organism | Strain | BioSample | BioProject | Assembly | Size (Mb) | GC% | Scaffolds | Gene |
--------------
+| Organism | Assembly | Size (Mb) | GC% | Scaffolds 
+| :------------:| ------------| ------------| ------------| ------------|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwMzEzNDUzLC0yMDM3NTI3NDIsLTE1MD
+eyJoaXN0b3J5IjpbOTM0MTEzOTM1LC0yMDM3NTI3NDIsLTE1MD
 QzMzQxMTMsLTY0NjQ4NTQzMSw0OTc4MTg4MTBdfQ==
 -->
