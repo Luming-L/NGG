@@ -19,9 +19,10 @@ p(x, M) - decode
 model M, sequence x, P(x|M)
 Estimate transition probabilities
 a model and new data - find the hidden state sequence
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwMDA5MzIzLDE1NTM0MTUxMTksMTg5MT
-gyODM3MCwxOTg1OTAwNTkyLDk0ODYxMTg3Nyw2MDk0MTY5MDYs
-NzE5NDYxOTYxLDM1MDgzMTYyNCwtMjA4ODc0NjYxMiw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTY5NTE2NTYwNywzMTAwMDkzMjMsMTU1Mz
+QxNTExOSwxODkxODI4MzcwLDE5ODU5MDA1OTIsOTQ4NjExODc3
+LDYwOTQxNjkwNiw3MTk0NjE5NjEsMzUwODMxNjI0LC0yMDg4Nz
+Q2NjEyLDczMDk5ODExNl19
 -->
