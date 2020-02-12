@@ -109,24 +109,25 @@ Repeats have many different families.
 ## technologies used for long read assembly
 
 ## Definition
-**contig:**
+**Contig:**
 - Contig means "contiguous". 
 - In genome assembly, a contig is a series of overlapping reads that reconstruct the original DNA sequence of a chromosome or a region of a chromosome. 
 - Contigs only contains A, T, C, or G bases without gaps.
-**scaffold**
+
+**Scaffold:**
 - Scaffold chains contigs together.
 - Need additional information about the relative position and orientation of the contigs in the genome.
-- 
+- Contigs in a scaffold are separated by gaps (indicated by "N"s)
 
 
 [https://www.genome.gov/genetics-glossary/Contig](https://www.genome.gov/genetics-glossary/Contig)
 [https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/](https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM0NzQ4NzUsLTE2ODQ1NzM2NjQsLT
-E4MzMwODE1Miw2MTU1NjgxNTksLTE1NTIyOTA3MzcsMTM1NDkw
-MjYyMCwtMzQyOTI2MDk2LDI3OTc5NjA4NCwxODM5Njg2NjU2LC
-0xMDE4MTM5NjA2LC03MzgyNTE4Niw4MjY2NzY3NzYsNDcxNzc4
-NDUyLDE3OTIxOTkwMzEsLTE3NjQ1NzQ1NjcsNjA5MzUzOTQsLT
-IyMjE2NzEwNCwxNzEwOTUzNDE4LDEzOTc5MDc1MTIsLTE1Mzgy
-NTAxOTJdfQ==
+eyJoaXN0b3J5IjpbMTA2NzI1MjY1MywtMTY4NDU3MzY2NCwtMT
+gzMzA4MTUyLDYxNTU2ODE1OSwtMTU1MjI5MDczNywxMzU0OTAy
+NjIwLC0zNDI5MjYwOTYsMjc5Nzk2MDg0LDE4Mzk2ODY2NTYsLT
+EwMTgxMzk2MDYsLTczODI1MTg2LDgyNjY3Njc3Niw0NzE3Nzg0
+NTIsMTc5MjE5OTAzMSwtMTc2NDU3NDU2Nyw2MDkzNTM5NCwtMj
+IyMTY3MTA0LDE3MTA5NTM0MTgsMTM5NzkwNzUxMiwtMTUzODI1
+MDE5Ml19
 -->
