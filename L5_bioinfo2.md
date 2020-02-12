@@ -1,6 +1,8 @@
 # Hidden Markov Models HMMs
-Fa
+Fair Bet Casino Example 
+Head or Tail - observed
+Fair or B - path (known - in HMM this)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk3MjY4MzUsMzUwODMxNjI0LC0yMD
-g4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTkzOTY5MTczMSwzNTA4MzE2MjQsLTIwOD
+g3NDY2MTIsNzMwOTk4MTE2XX0=
 -->
