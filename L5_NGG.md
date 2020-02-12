@@ -110,12 +110,13 @@ Repeats have many different families.
 
 ## Definition
 - contig:
+contig means "contiguous". In genome assembly, a series of overlapping reads
 
 
 [https://www.genome.gov/genetics-glossary/Contig](https://www.genome.gov/genetics-glossary/Contig)
 [https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/](https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI3Mzg5NiwtMTY4NDU3MzY2NCwtMT
+eyJoaXN0b3J5IjpbMTA5NjAwNjYyMywtMTY4NDU3MzY2NCwtMT
 gzMzA4MTUyLDYxNTU2ODE1OSwtMTU1MjI5MDczNywxMzU0OTAy
 NjIwLC0zNDI5MjYwOTYsMjc5Nzk2MDg0LDE4Mzk2ODY2NTYsLT
 EwMTgxMzk2MDYsLTczODI1MTg2LDgyNjY3Njc3Niw0NzE3Nzg0
