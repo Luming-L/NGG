@@ -20,9 +20,13 @@ model M, sequence x, P(x|M)
 Estimate transition probabilities
 a model and new data - find the hidden state sequence
 
+Hommer
+Pfam EBI
+InterPro
+Training online Pfam
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTE2NTYwNywzMTAwMDkzMjMsMTU1Mz
-QxNTExOSwxODkxODI4MzcwLDE5ODU5MDA1OTIsOTQ4NjExODc3
-LDYwOTQxNjkwNiw3MTk0NjE5NjEsMzUwODMxNjI0LC0yMDg4Nz
-Q2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTcwMDg0OTcxLDMxMDAwOTMyMywxNTUzND
+E1MTE5LDE4OTE4MjgzNzAsMTk4NTkwMDU5Miw5NDg2MTE4Nzcs
+NjA5NDE2OTA2LDcxOTQ2MTk2MSwzNTA4MzE2MjQsLTIwODg3ND
+Y2MTIsNzMwOTk4MTE2XX0=
 -->
