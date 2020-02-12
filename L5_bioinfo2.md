@@ -11,13 +11,16 @@ What happen if we don't know the path
 each possible path that will generate the sequence, the highest possibility
  learn the possibility
 
+
+
 p(x, M) - decode
 
 model M, sequence x, P(x|M)
 Estimate transition probabilities
 a model and new data - find the hidden state sequence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzQxNTExOSwxODkxODI4MzcwLDE5OD
-U5MDA1OTIsOTQ4NjExODc3LDYwOTQxNjkwNiw3MTk0NjE5NjEs
-MzUwODMxNjI0LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTE0NDMwNjQxOSwxNTUzNDE1MTE5LDE4OT
+E4MjgzNzAsMTk4NTkwMDU5Miw5NDg2MTE4NzcsNjA5NDE2OTA2
+LDcxOTQ2MTk2MSwzNTA4MzE2MjQsLTIwODg3NDY2MTIsNzMwOT
+k4MTE2XX0=
 -->
