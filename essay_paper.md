@@ -17,12 +17,13 @@ Hi-C sequencing and scaffolding
 illumina platform
 
 ## assembly
-remove 
+remove organellar DNA, reads of poor quality or short length, and chimaeras 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI1OTIzMTEsLTM0MjgxNDUwMSwxMD
-M4OTc3NzcxLDIwMzQzMDAxOTQsLTcyNjI4MTEwMSw2MzM1MTUy
-MTAsMTM1NjE4NDI1MSwtMTUzNDI3MjE4MSwxNDk1MTA1NDIwLC
-0yMDM3NTI3NDIsLTE1MDQzMzQxMTMsLTY0NjQ4NTQzMSw0OTc4
-MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTYzNDY0NzY2NSwtMzQyODE0NTAxLDEwMz
+g5Nzc3NzEsMjAzNDMwMDE5NCwtNzI2MjgxMTAxLDYzMzUxNTIx
+MCwxMzU2MTg0MjUxLC0xNTM0MjcyMTgxLDE0OTUxMDU0MjAsLT
+IwMzc1Mjc0MiwtMTUwNDMzNDExMywtNjQ2NDg1NDMxLDQ5Nzgx
+ODgxMF19
 -->
