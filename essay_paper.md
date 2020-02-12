@@ -21,14 +21,15 @@ remove organellar DNA, reads of poor quality or short length, and chimaeras
 contig-level assembly 
 Polish the draft assembly
 increase the accuracy of the assembly
+measure 
 full PacBio long reads after filtered - Canu v.1.3 for self-correction and assembly 
 draft assembly - Arrow
-increase the accuracy of the assembly - 
+increase the accuracy of the assembly - Illumina short reads + Pilon
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTk5NTA5NSwtMzQyODE0NTAxLDEwMz
-g5Nzc3NzEsMjAzNDMwMDE5NCwtNzI2MjgxMTAxLDYzMzUxNTIx
-MCwxMzU2MTg0MjUxLC0xNTM0MjcyMTgxLDE0OTUxMDU0MjAsLT
-IwMzc1Mjc0MiwtMTUwNDMzNDExMywtNjQ2NDg1NDMxLDQ5Nzgx
-ODgxMF19
+eyJoaXN0b3J5IjpbOTg1MjU1MzY0LC0zNDI4MTQ1MDEsMTAzOD
+k3Nzc3MSwyMDM0MzAwMTk0LC03MjYyODExMDEsNjMzNTE1MjEw
+LDEzNTYxODQyNTEsLTE1MzQyNzIxODEsMTQ5NTEwNTQyMCwtMj
+AzNzUyNzQyLC0xNTA0MzM0MTEzLC02NDY0ODU0MzEsNDk3ODE4
+ODEwXX0=
 -->
