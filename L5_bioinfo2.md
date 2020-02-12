@@ -8,7 +8,8 @@ pi - path sequence
 x - emission sequence - 
 
 What happen if we don't know the path
-each possible path that will generate the sequence,
+each possible path that will generate the sequence, the highest possibility
+ learn the possibility
 
 p(x, M) - decode
 
@@ -16,7 +17,7 @@ model M, sequence x, P(x|M)
 Estimate transition probabilities
 a model and new data - find the hidden state sequence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE0NjEwNDMsMTg5MTgyODM3MCwxOT
-g1OTAwNTkyLDk0ODYxMTg3Nyw2MDk0MTY5MDYsNzE5NDYxOTYx
-LDM1MDgzMTYyNCwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU1MzQxNTExOSwxODkxODI4MzcwLDE5OD
+U5MDA1OTIsOTQ4NjExODc3LDYwOTQxNjkwNiw3MTk0NjE5NjEs
+MzUwODMxNjI0LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
 -->
