@@ -3,11 +3,11 @@
 |Nymphaea colorata|409 Mb| 1429 | 2.1 Mb| 804 | 94.4%
 
 Genome sequencing
-transcription 
+transcriptiome 
 PacBio RSII single-molecule real-time (SMRT) sequencing technology
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDMwMDE5NCwtNzI2MjgxMTAxLDYzMz
-UxNTIxMCwxMzU2MTg0MjUxLC0xNTM0MjcyMTgxLDE0OTUxMDU0
-MjAsLTIwMzc1Mjc0MiwtMTUwNDMzNDExMywtNjQ2NDg1NDMxLD
-Q5NzgxODgxMF19
+eyJoaXN0b3J5IjpbMTk2MDA2MTQyNiwyMDM0MzAwMTk0LC03Mj
+YyODExMDEsNjMzNTE1MjEwLDEzNTYxODQyNTEsLTE1MzQyNzIx
+ODEsMTQ5NTEwNTQyMCwtMjAzNzUyNzQyLC0xNTA0MzM0MTEzLC
+02NDY0ODU0MzEsNDk3ODE4ODEwXX0=
 -->
