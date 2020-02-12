@@ -6,12 +6,12 @@ Genome sequencing
 PacBio RSII single-molecule real-time (SMRT) sequencing technology
 20kb SMRTbell libraries
 34 SMRT cells
-49.8 Gb 
+49.8 Gb 5.5 million reads
 transcriptome sequencing 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5MDYwNzgyLDEwMzg5Nzc3NzEsMjAzND
-MwMDE5NCwtNzI2MjgxMTAxLDYzMzUxNTIxMCwxMzU2MTg0MjUx
-LC0xNTM0MjcyMTgxLDE0OTUxMDU0MjAsLTIwMzc1Mjc0MiwtMT
-UwNDMzNDExMywtNjQ2NDg1NDMxLDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbMTQ4NTgzOTUyNSwxMDM4OTc3NzcxLDIwMz
+QzMDAxOTQsLTcyNjI4MTEwMSw2MzM1MTUyMTAsMTM1NjE4NDI1
+MSwtMTUzNDI3MjE4MSwxNDk1MTA1NDIwLC0yMDM3NTI3NDIsLT
+E1MDQzMzQxMTMsLTY0NjQ4NTQzMSw0OTc4MTg4MTBdfQ==
 -->
