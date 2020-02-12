@@ -1,4 +1,5 @@
 # Hidden Markov Models HMMs
+e
 Fair Bet Casino Example 
 Head or Tail - observed
 Fair or B - path (known - in HMM this is unknown)
@@ -10,7 +11,7 @@ model M, sequence x, P(x|M)
 Estimate transition probabilities
 a model and new data - find the hidden state sequence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NjExODc3LDYwOTQxNjkwNiw3MTk0Nj
-E5NjEsMzUwODMxNjI0LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbNDYxNDAwNDcyLDk0ODYxMTg3Nyw2MDk0MT
+Y5MDYsNzE5NDYxOTYxLDM1MDgzMTYyNCwtMjA4ODc0NjYxMiw3
+MzA5OTgxMTZdfQ==
 -->
