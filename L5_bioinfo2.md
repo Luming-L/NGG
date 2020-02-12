@@ -8,9 +8,9 @@ x - emission sequence
 
 model M, sequence x, P(x|M)
 Estimate transition probabilities
-
+a model and new data - find the hidden state sequence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY0NzEwNTEsNjA5NDE2OTA2LDcxOT
-Q2MTk2MSwzNTA4MzE2MjQsLTIwODg3NDY2MTIsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbOTQ4NjExODc3LDYwOTQxNjkwNiw3MTk0Nj
+E5NjEsMzUwODMxNjI0LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
+
 -->
