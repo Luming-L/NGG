@@ -121,13 +121,14 @@ Repeats have many different families.
 - optical mapping, crosslinking, and so on.
 **N50:**
 **CEGMA:**
+**BUSCO:**
 
 
 
 [https://www.genome.gov/genetics-glossary/Contig](https://www.genome.gov/genetics-glossary/Contig)
 [https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/](https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjMzOTYxMCw0MDAzODc2NTgsMTA2Nz
+eyJoaXN0b3J5IjpbMTM5MzczMzYwNiw0MDAzODc2NTgsMTA2Nz
 I1MjY1MywtMTY4NDU3MzY2NCwtMTgzMzA4MTUyLDYxNTU2ODE1
 OSwtMTU1MjI5MDczNywxMzU0OTAyNjIwLC0zNDI5MjYwOTYsMj
 c5Nzk2MDg0LDE4Mzk2ODY2NTYsLTEwMTgxMzk2MDYsLTczODI1
