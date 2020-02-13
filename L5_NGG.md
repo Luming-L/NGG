@@ -119,18 +119,19 @@ Repeats have many different families.
 - Need additional information about the relative position and orientation of the contigs in the genome.
 - Contigs in a scaffold are separated by gaps (indicated by "N"s)
 - optical mapping, crosslinking, and so on.
-
+**N50:**
+**CEGMA:**
 
 
 
 [https://www.genome.gov/genetics-glossary/Contig](https://www.genome.gov/genetics-glossary/Contig)
 [https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/](https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwMzg3NjU4LDEwNjcyNTI2NTMsLTE2OD
-Q1NzM2NjQsLTE4MzMwODE1Miw2MTU1NjgxNTksLTE1NTIyOTA3
-MzcsMTM1NDkwMjYyMCwtMzQyOTI2MDk2LDI3OTc5NjA4NCwxOD
-M5Njg2NjU2LC0xMDE4MTM5NjA2LC03MzgyNTE4Niw4MjY2NzY3
-NzYsNDcxNzc4NDUyLDE3OTIxOTkwMzEsLTE3NjQ1NzQ1NjcsNj
-A5MzUzOTQsLTIyMjE2NzEwNCwxNzEwOTUzNDE4LDEzOTc5MDc1
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTY2NjMzOTYxMCw0MDAzODc2NTgsMTA2Nz
+I1MjY1MywtMTY4NDU3MzY2NCwtMTgzMzA4MTUyLDYxNTU2ODE1
+OSwtMTU1MjI5MDczNywxMzU0OTAyNjIwLC0zNDI5MjYwOTYsMj
+c5Nzk2MDg0LDE4Mzk2ODY2NTYsLTEwMTgxMzk2MDYsLTczODI1
+MTg2LDgyNjY3Njc3Niw0NzE3Nzg0NTIsMTc5MjE5OTAzMSwtMT
+c2NDU3NDU2Nyw2MDkzNTM5NCwtMjIyMTY3MTA0LDE3MTA5NTM0
+MThdfQ==
 -->
