@@ -161,13 +161,11 @@ C --> D
 
 ```mermaid
 graph TD
-A[Canu]-->B[Arrow polishing]--
-
-A-->C
-B-->D
-C-->D
+A[Canu]-->B[Arrow polishing]
+B[Arrow polishing]-->C[Pilon Polishing]
+C[Pilon Polishing]-->D[HiC pro]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgxMzY4NTIsLTEzNTU4MTYxNzgsLT
+eyJoaXN0b3J5IjpbLTE5NDU1NjIzMjQsLTEzNTU4MTYxNzgsLT
 ExMjI5NTcyMjQsMTU5MTM2MjkyMF19
 -->
