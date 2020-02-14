@@ -168,11 +168,13 @@ subgraph
 A[Canu]-->B[Arrow polishing]
 B[Arrow polishing]-->C[Pilon Polishing]
 C[Pilon Polishing]-->D[HiC pro]
+D-->E[Lachesis]
 end 
 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTIwMzAyLC0xOTQ1NTYyMzI0LC0xMz
-U1ODE2MTc4LC0xMTIyOTU3MjI0LDE1OTEzNjI5MjBdfQ==
+eyJoaXN0b3J5IjpbLTk3NzI0NjA3LDIwNzEyMDMwMiwtMTk0NT
+U2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1NzIyNCwxNTkxMzYy
+OTIwXX0=
 -->
