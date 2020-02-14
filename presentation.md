@@ -157,18 +157,9 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+graph TD; A-->B; A-->C; B-->D; C-->D;
 
-```php
-flow
-st=>start: Start
-op=>operation: Your Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTU4MTYxNzgsLTExMjI5NTcyMjQsMT
-U5MTM2MjkyMF19
+eyJoaXN0b3J5IjpbLTE5NzQwMzQyOTksLTEzNTU4MTYxNzgsLT
+ExMjI5NTcyMjQsMTU5MTM2MjkyMF19
 -->
