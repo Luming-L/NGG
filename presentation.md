@@ -161,6 +161,9 @@ C --> D
 
 ```mermaid
 graph TD
+P[PacBio long reads]-->A
+I[Illu]
+
 subgraph 
 A[Canu]-->B[Arrow polishing]
 B[Arrow polishing]-->C[Pilon Polishing]
@@ -170,6 +173,6 @@ end
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM4ODU5NTksLTE5NDU1NjIzMjQsLT
-EzNTU4MTYxNzgsLTExMjI5NTcyMjQsMTU5MTM2MjkyMF19
+eyJoaXN0b3J5IjpbNjc2ODkyNjcwLC0xOTQ1NTYyMzI0LC0xMz
+U1ODE2MTc4LC0xMTIyOTU3MjI0LDE1OTEzNjI5MjBdfQ==
 -->
