@@ -108,7 +108,8 @@ Repeats have many different families.
 ## how long reads can be used to improve assemblies
 ## technologies used for long read assembly
 - Canu
-+ 
+	+ adaptive k-mer weighting
+	+ repeat separation
 
 ## Definition
 **Contig:**
@@ -131,11 +132,11 @@ Repeats have many different families.
 [https://www.genome.gov/genetics-glossary/Contig](https://www.genome.gov/genetics-glossary/Contig)
 [https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/](https://www.pacb.com/blog/genomes-vs-gennnnes-difference-contigs-scaffolds-genome-assemblies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5ODQwOTIzLDE0MzU0OTE1MjcsLTE4Mj
-A5MjY5NjQsMTM5MzczMzYwNiw0MDAzODc2NTgsMTA2NzI1MjY1
-MywtMTY4NDU3MzY2NCwtMTgzMzA4MTUyLDYxNTU2ODE1OSwtMT
-U1MjI5MDczNywxMzU0OTAyNjIwLC0zNDI5MjYwOTYsMjc5Nzk2
-MDg0LDE4Mzk2ODY2NTYsLTEwMTgxMzk2MDYsLTczODI1MTg2LD
-gyNjY3Njc3Niw0NzE3Nzg0NTIsMTc5MjE5OTAzMSwtMTc2NDU3
-NDU2N119
+eyJoaXN0b3J5IjpbLTE1OTYxOTMzMzksMTQzNTQ5MTUyNywtMT
+gyMDkyNjk2NCwxMzkzNzMzNjA2LDQwMDM4NzY1OCwxMDY3MjUy
+NjUzLC0xNjg0NTczNjY0LC0xODMzMDgxNTIsNjE1NTY4MTU5LC
+0xNTUyMjkwNzM3LDEzNTQ5MDI2MjAsLTM0MjkyNjA5NiwyNzk3
+OTYwODQsMTgzOTY4NjY1NiwtMTAxODEzOTYwNiwtNzM4MjUxOD
+YsODI2Njc2Nzc2LDQ3MTc3ODQ1MiwxNzkyMTk5MDMxLC0xNzY0
+NTc0NTY3XX0=
 -->
