@@ -21,10 +21,13 @@ Characters of Canu (results):
 
 Novel features (techniques):
 - computational resource discovery
-- adaptive k-mer we
+- adaptive k-mer weighting
+- automated error rate estimation
+- sparse graph construction
+- graphical fragment assembly (GFA)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE1MDM5NTYsLTE1ODkwNjM1MDAsMT
-Y4Mzk5MjE0NiwtMzA4MzExXX0=
+eyJoaXN0b3J5IjpbLTY1MDI2NDE3NSwtMTU4OTA2MzUwMCwxNj
+gzOTkyMTQ2LC0zMDgzMTFdfQ==
 -->
