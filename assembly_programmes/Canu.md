@@ -17,13 +17,12 @@ Canu introduces the MinHash Alignment Process (MHAP) to overlap noisy, single-mo
 Characters of Canu:
 - support both PacBio and Oxford Nanopore data
 - lower runtime and coverage requirements
-- improve repeat and haplo
+- improve repeat and haplotype separation
 
-introduce 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDkyNDMwNywxNjgzOTkyMTQ2LC0zMD
-gzMTFdfQ==
+eyJoaXN0b3J5IjpbLTE1ODkwNjM1MDAsMTY4Mzk5MjE0NiwtMz
+A4MzExXX0=
 -->
