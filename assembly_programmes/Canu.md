@@ -6,7 +6,7 @@ PacBio single-molecule real-time (SMRT) and Oxford Nanopore strand sequencing ha
 New approaches come out to deal with data with increased read length and error rate. These can be roughly categorised as hybrid, hierarchical or direct methods.
 
 Hybrid methods rely on complementary short reads for accurate base calls.
-Hierarchical methods use multiple rounds of read  overlapping (alignment) and correction to improve read quality prior to assembly.
+**Hierarchical methods** use multiple rounds of read  overlapping (alignment) and correction to improve read quality prior to assembly.
 Direct methods attempt to assemble from a single overlapping step without any prior correction.
 
 Here focus on HM, because it has produced the most continuous de novo assemblies to date.
@@ -26,8 +26,12 @@ Novel features (techniques):
 - sparse graph construction
 - graphical fragment assembly (GFA)
 
+Three stage:
+- correction
+- trimming
+- assembly
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDI2NDE3NSwtMTU4OTA2MzUwMCwxNj
-gzOTkyMTQ2LC0zMDgzMTFdfQ==
+eyJoaXN0b3J5IjpbLTEzNDEzMDE0NDksLTE1ODkwNjM1MDAsMT
+Y4Mzk5MjE0NiwtMzA4MzExXX0=
 -->
