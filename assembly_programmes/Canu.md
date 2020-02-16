@@ -5,9 +5,10 @@ PacBio single-molecule real-time (SMRT) and Oxford Nanopore strand sequencing ha
 New approaches come out to deal with data with increased read length and error rate. These can be roughly categorised as hybrid, hierarchical or direct methods.
 
 Hybrid methods rely on complementary short reads for accurate base calls.
-Hierarchical methods use multiple rounds of read  overlapping (alignment) and correction to improve read quality prior to assembly
+Hierarchical methods use multiple rounds of read  overlapping (alignment) and correction to improve read quality prior to assembly.
+Direct methods attempt to assemble from a single overlapping step without any prior correction.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTcwNDc4NSwtMzA4MzExXX0=
+eyJoaXN0b3J5IjpbMTIxMzk0MjE1NCwtMzA4MzExXX0=
 -->
