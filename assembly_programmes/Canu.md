@@ -12,13 +12,16 @@ Direct methods attempt to assemble from a single overlapping step without any pr
 Here focus on HM, because it has produced the most continuous de novo assemblies to date.
 
 ## Result
-Canu introduces the 
+Canu introduces the MinHash Alignment Process (MHAP) to overlap noisy, single-molecule sequencing reads better.
+
+Goal of Canu:
+- support 
 
 introduce 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDQ3MDg4NCwxNjgzOTkyMTQ2LC0zMD
+eyJoaXN0b3J5IjpbMTQ2NDA4NTkyNiwxNjgzOTkyMTQ2LC0zMD
 gzMTFdfQ==
 -->
