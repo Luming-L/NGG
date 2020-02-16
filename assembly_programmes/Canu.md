@@ -14,14 +14,16 @@ Here focus on HM, because it has produced the most continuous de novo assemblies
 ## Result
 Canu introduces the MinHash Alignment Process (MHAP) to overlap noisy, single-molecule sequencing reads better.
 
-Goal of Canu:
-- support 
+Characters of Canu:
+- support both PacBio and Oxford Nanopore data
+- lower runtime and coverage requirements
+- improve repeat and haplo
 
 introduce 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDA4NTkyNiwxNjgzOTkyMTQ2LC0zMD
+eyJoaXN0b3J5IjpbLTI2MDkyNDMwNywxNjgzOTkyMTQ2LC0zMD
 gzMTFdfQ==
 -->
