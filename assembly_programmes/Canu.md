@@ -9,6 +9,7 @@ Hybrid methods rely on complementary short reads for accurate base calls.
 **Hierarchical methods** use multiple rounds of read  overlapping (alignment) and correction to improve read quality prior to assembly.
 Direct methods attempt to assemble from a single overlapping step without any prior correction.
 
+
 Here focus on HM, because it has produced the most continuous de novo assemblies to date.
 
 ## Result
@@ -43,6 +44,7 @@ A solution for this: mask low-complexity sequence or ignore highly repetitive k-
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTE0Njk2MCwtMTM0MTMwMTQ0OSwtMT
-U4OTA2MzUwMCwxNjgzOTkyMTQ2LC0zMDgzMTFdfQ==
+eyJoaXN0b3J5IjpbLTkzMDEzMjc5OCwtOTUxMTQ2OTYwLC0xMz
+QxMzAxNDQ5LC0xNTg5MDYzNTAwLDE2ODM5OTIxNDYsLTMwODMx
+MV19
 -->
