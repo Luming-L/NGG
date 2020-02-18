@@ -31,9 +31,10 @@ Three stage:
 - trimming
 - assembly
 
-Adaptive MinHash k-mer weighting
+**Adaptive MinHash k-mer weighting**
+Re
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4NzMwNTEsLTEzNDEzMDE0NDksLTE1OD
-kwNjM1MDAsMTY4Mzk5MjE0NiwtMzA4MzExXX0=
+eyJoaXN0b3J5IjpbLTExMDUwMjUwNjYsLTEzNDEzMDE0NDksLT
+E1ODkwNjM1MDAsMTY4Mzk5MjE0NiwtMzA4MzExXX0=
 -->
