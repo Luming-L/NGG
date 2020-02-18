@@ -32,9 +32,11 @@ Three stage:
 - assembly
 
 **Adaptive MinHash k-mer weighting**
-Re
+Repeats not only fragment assemblies, but also disrupt overlapping.
+Two stages in read overlapping:
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDUwMjUwNjYsLTEzNDEzMDE0NDksLT
-E1ODkwNjM1MDAsMTY4Mzk5MjE0NiwtMzA4MzExXX0=
+eyJoaXN0b3J5IjpbMzIwNjYwMDUxLC0xMzQxMzAxNDQ5LC0xNT
+g5MDYzNTAwLDE2ODM5OTIxNDYsLTMwODMxMV19
 -->
