@@ -45,10 +45,10 @@ Problem caused: some overlaps will not be detected
 
 Can reduce but not eliminate selecting a repetitive k-mer for overlapping
 A repetitive k-mer occurring many times throughout the genome - reduced weight
-A relatively unique k-mer occu
+A relatively unique k-mer occurring multiple times in a single read - increased weight
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5ODIzNjk4LDEwNzIyNjY3MTQsMjA1OT
+eyJoaXN0b3J5IjpbMzUwMTg3NDk3LDEwNzIyNjY3MTQsMjA1OT
 A3MjEyMiwtOTUxMTQ2OTYwLC0xMzQxMzAxNDQ5LC0xNTg5MDYz
 NTAwLDE2ODM5OTIxNDYsLTMwODMxMV19
 -->
