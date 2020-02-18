@@ -47,9 +47,12 @@ Can reduce but not eliminate selecting a repetitive k-mer for overlapping
 A repetitive k-mer occurring many times throughout the genome - reduced weight (document)
 A relatively unique k-mer occurring multiple times in a single read - increased weight (corpus)
 known as a tf-idf weight (term frequency, inverse document frequency)
+
+The weighting is the number of occurrences of a k-mer inside a read (the document) and the 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxOTE0MzM4LDM1MDE4NzQ5NywxMDcyMj
-Y2NzE0LDIwNTkwNzIxMjIsLTk1MTE0Njk2MCwtMTM0MTMwMTQ0
-OSwtMTU4OTA2MzUwMCwxNjgzOTkyMTQ2LC0zMDgzMTFdfQ==
+eyJoaXN0b3J5IjpbLTEzMzM3MTM3NDAsNTMxOTE0MzM4LDM1MD
+E4NzQ5NywxMDcyMjY2NzE0LDIwNTkwNzIxMjIsLTk1MTE0Njk2
+MCwtMTM0MTMwMTQ0OSwtMTU4OTA2MzUwMCwxNjgzOTkyMTQ2LC
+0zMDgzMTFdfQ==
 -->
