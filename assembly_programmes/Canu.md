@@ -31,7 +31,8 @@ Three stage:
 - trimming
 - assembly
 
-just require 20000 CPU hours
+just require 20000 CPU hours to assemble a human genome
+
 **Adaptive MinHash k-mer weighting**
 Repeats not only fragment assemblies, but also disrupt overlapping.
 Two stages in read overlapping:
@@ -44,7 +45,7 @@ A solution for this: mask low-complexity sequence or ignore highly repetitive k-
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTExMzc4OCwtOTUxMTQ2OTYwLC0xMz
+eyJoaXN0b3J5IjpbMjA1OTA3MjEyMiwtOTUxMTQ2OTYwLC0xMz
 QxMzAxNDQ5LC0xNTg5MDYzNTAwLDE2ODM5OTIxNDYsLTMwODMx
 MV19
 -->
