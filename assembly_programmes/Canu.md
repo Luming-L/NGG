@@ -49,11 +49,11 @@ A relatively unique k-mer occurring multiple times in a single read - increased 
 known as a tf-idf weight (term frequency, inverse document frequency)
 
 The weighting is the number of occurrences of a k-mer inside a read (the document) and the overall rarity of the k-mer among all reads (the corpus)
-This method reduces the number of uninformative, repetitive overlaps th
+This method reduces the number of uninformative, repetitive overlaps that are identified, improving runtime and memory usage significantly.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzE4MDcwLDUzMTkxNDMzOCwzNTAxOD
-c0OTcsMTA3MjI2NjcxNCwyMDU5MDcyMTIyLC05NTExNDY5NjAs
-LTEzNDEzMDE0NDksLTE1ODkwNjM1MDAsMTY4Mzk5MjE0NiwtMz
-A4MzExXX0=
+eyJoaXN0b3J5IjpbMTg5NDY2MTcxMCw1MzE5MTQzMzgsMzUwMT
+g3NDk3LDEwNzIyNjY3MTQsMjA1OTA3MjEyMiwtOTUxMTQ2OTYw
+LC0xMzQxMzAxNDQ5LC0xNTg5MDYzNTAwLDE2ODM5OTIxNDYsLT
+MwODMxMV19
 -->
