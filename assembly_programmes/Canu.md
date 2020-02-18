@@ -43,10 +43,10 @@ repeats - frequent occurrence of some k-mers - increase the number of candidate 
 A solution for this: mask low-complexity sequence or ignore highly repetitive k-mers to induce indexing. (Celera Assembler, FALCON, Miniasm)
 Problem caused: some overlaps will not be detected
 
-
+Can reduce but not eliminate selecting a repetitive 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjI2NjcxNCwyMDU5MDcyMTIyLC05NT
-ExNDY5NjAsLTEzNDEzMDE0NDksLTE1ODkwNjM1MDAsMTY4Mzk5
-MjE0NiwtMzA4MzExXX0=
+eyJoaXN0b3J5IjpbMTE2Mjc5MTg4MCwxMDcyMjY2NzE0LDIwNT
+kwNzIxMjIsLTk1MTE0Njk2MCwtMTM0MTMwMTQ0OSwtMTU4OTA2
+MzUwMCwxNjgzOTkyMTQ2LC0zMDgzMTFdfQ==
 -->
