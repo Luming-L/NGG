@@ -36,11 +36,12 @@ Repeats not only fragment assemblies, but also disrupt overlapping.
 Two stages in read overlapping:
 1. build a list of read pairs with some similarity
 2. perform a more direct comparison of them
-In the first step, identify shared k-mers between all pairs of reads to find candidate overlaps
+In the first step, identify shared k-mers between all pairs of reads to find candidate overlaps. Repeats will disrupt overlapping because: 
+repeats - frequent occurrence
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTU3OTU0MSwtMTM0MTMwMTQ0OSwtMT
-U4OTA2MzUwMCwxNjgzOTkyMTQ2LC0zMDgzMTFdfQ==
+eyJoaXN0b3J5IjpbLTEzMDc1Mjg5ODMsLTEzNDEzMDE0NDksLT
+E1ODkwNjM1MDAsMTY4Mzk5MjE0NiwtMzA4MzExXX0=
 -->
