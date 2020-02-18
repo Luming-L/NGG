@@ -41,11 +41,12 @@ Two stages in read overlapping:
 In the first step, identify shared k-mers between all pairs of reads to find candidate overlaps. Repeats will disrupt overlapping because: 
 repeats - frequent occurrence of some k-mers - increase the number of candidate overlaps - more complex second stage
 A solution for this: mask low-complexity sequence or ignore highly repetitive k-mers to induce indexing. (Celera Assembler, FALCON, Miniasm)
+Problem caused: some overlaps will not be detected
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTA3MjEyMiwtOTUxMTQ2OTYwLC0xMz
-QxMzAxNDQ5LC0xNTg5MDYzNTAwLDE2ODM5OTIxNDYsLTMwODMx
-MV19
+eyJoaXN0b3J5IjpbMTA3MjI2NjcxNCwyMDU5MDcyMTIyLC05NT
+ExNDY5NjAsLTEzNDEzMDE0NDksLTE1ODkwNjM1MDAsMTY4Mzk5
+MjE0NiwtMzA4MzExXX0=
 -->
