@@ -44,15 +44,15 @@ A solution for this: mask low-complexity sequence or ignore highly repetitive k-
 Problem caused: some overlaps will not be detected
 
 Can reduce but not eliminate selecting a repetitive k-mer for overlapping
-A repetitive k-mer occurring many times throughout the genome - reduced weight (document)
-A relatively unique k-mer occurring multiple times in a single read - increased weight (corpus)
+A repetitive k-mer occurring many times throughout the genome - reduced weight 
+A relatively unique k-mer occurring multiple times in a single read - increased weight 
 known as a tf-idf weight (term frequency, inverse document frequency)
 
-The weighting is the number of occurrences of a k-mer inside a read (the document) and the 
+The weighting is the number of occurrences of a k-mer inside a read (the document) and the overall rarity of the k-mer among all reads (the corpus)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM3MTM3NDAsNTMxOTE0MzM4LDM1MD
-E4NzQ5NywxMDcyMjY2NzE0LDIwNTkwNzIxMjIsLTk1MTE0Njk2
-MCwtMTM0MTMwMTQ0OSwtMTU4OTA2MzUwMCwxNjgzOTkyMTQ2LC
-0zMDgzMTFdfQ==
+eyJoaXN0b3J5IjpbMTY3MTEyMjE2OSw1MzE5MTQzMzgsMzUwMT
+g3NDk3LDEwNzIyNjY3MTQsMjA1OTA3MjEyMiwtOTUxMTQ2OTYw
+LC0xMzQxMzAxNDQ5LC0xNTg5MDYzNTAwLDE2ODM5OTIxNDYsLT
+MwODMxMV19
 -->
