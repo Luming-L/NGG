@@ -37,11 +37,12 @@ Two stages in read overlapping:
 1. build a list of read pairs with some similarity
 2. perform a more direct comparison of them
 In the first step, identify shared k-mers between all pairs of reads to find candidate overlaps. Repeats will disrupt overlapping because: 
-repeats - frequent occurrence of some k-mers - increase the number of candidate 
+repeats - frequent occurrence of some k-mers - increase the number of candidate overlaps - more complex second stage
+A solution for this: mask low-complexity se
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTUxMzA4LC0xMzQxMzAxNDQ5LC0xNT
+eyJoaXN0b3J5IjpbMTk4NjM1NDIyLC0xMzQxMzAxNDQ5LC0xNT
 g5MDYzNTAwLDE2ODM5OTIxNDYsLTMwODMxMV19
 -->
