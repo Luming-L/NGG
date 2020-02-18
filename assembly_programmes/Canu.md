@@ -34,9 +34,10 @@ Three stage:
 **Adaptive MinHash k-mer weighting**
 Repeats not only fragment assemblies, but also disrupt overlapping.
 Two stages in read overlapping:
+1. build a list of read pairs with some similarity
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNjYwMDUxLC0xMzQxMzAxNDQ5LC0xNT
-g5MDYzNTAwLDE2ODM5OTIxNDYsLTMwODMxMV19
+eyJoaXN0b3J5IjpbLTE5NTYwNTU3NTQsLTEzNDEzMDE0NDksLT
+E1ODkwNjM1MDAsMTY4Mzk5MjE0NiwtMzA4MzExXX0=
 -->
