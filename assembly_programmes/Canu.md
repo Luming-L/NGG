@@ -35,9 +35,11 @@ Three stage:
 Repeats not only fragment assemblies, but also disrupt overlapping.
 Two stages in read overlapping:
 1. build a list of read pairs with some similarity
+2. perform a more direct comparison of them
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTYwNTU3NTQsLTEzNDEzMDE0NDksLT
+eyJoaXN0b3J5IjpbLTEzOTg4NDc1OTQsLTEzNDEzMDE0NDksLT
 E1ODkwNjM1MDAsMTY4Mzk5MjE0NiwtMzA4MzExXX0=
 -->
