@@ -58,10 +58,10 @@ Canu don't require parameter adjustment (the threshold to filter repetitive k-me
 Best overlap graph
 Canu was a variant of the greedy "Best overlap graph" (BOG) algorithm
 Only load the "best" (longest) overlaps for each read end into memory.
-The gree
+The greedy algorithm can be misled by repeats longer than the overlap length.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMzMTg3NywtNzAxNDU5MzYsLTE4Mz
+eyJoaXN0b3J5IjpbLTQ5NjUyMzYwMSwtNzAxNDU5MzYsLTE4Mz
 E3MzM2ODEsMTg5NDY2MTcxMCw1MzE5MTQzMzgsMzUwMTg3NDk3
 LDEwNzIyNjY3MTQsMjA1OTA3MjEyMiwtOTUxMTQ2OTYwLC0xMz
 QxMzAxNDQ5LC0xNTg5MDYzNTAwLDE2ODM5OTIxNDYsLTMwODMx
