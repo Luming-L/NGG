@@ -60,10 +60,12 @@ Canu was a variant of the greedy "Best overlap graph" (BOG) algorithm
 Only load the "best" (longest) overlaps for each read end into memory.
 The greedy algorithm can be misled by repeats longer than the overlap length.
 Canu has new "Bogart" algorithm to address this problem.
-It filters repeat-introduced overlaps and retro 
+It filters repeat-introduced overlaps and retrospectively inspects the graph for potential errors.
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ1NDI2MDQsLTcwMTQ1OTM2LC0xOD
+eyJoaXN0b3J5IjpbLTEzNDE1NjI2MzYsLTcwMTQ1OTM2LC0xOD
 MxNzMzNjgxLDE4OTQ2NjE3MTAsNTMxOTE0MzM4LDM1MDE4NzQ5
 NywxMDcyMjY2NzE0LDIwNTkwNzIxMjIsLTk1MTE0Njk2MCwtMT
 M0MTMwMTQ0OSwtMTU4OTA2MzUwMCwxNjgzOTkyMTQ2LC0zMDgz
