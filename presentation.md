@@ -159,22 +159,10 @@ C --> D
 ```
 
 
-```mermaid
-graph TD
-P[PacBio long reads]-.->A
-I[Illumina short reads]-.->B
 
-subgraph 
-A[Canu]-->B[Arrow polishing]
-B[Arrow polishing]-->C[Pilon Polishing]
-C[Pilon Polishing]-->D[HiC pro]
-D-->E[Lachesis]
-end 
-
-```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzI0NjA3LDIwNzEyMDMwMiwtMTk0NT
-U2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1NzIyNCwxNTkxMzYy
-OTIwXX0=
+eyJoaXN0b3J5IjpbLTExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNz
+EyMDMwMiwtMTk0NTU2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1
+NzIyNCwxNTkxMzYyOTIwXX0=
 -->
