@@ -59,11 +59,12 @@ Best overlap graph
 Canu was a variant of the greedy "Best overlap graph" (BOG) algorithm
 Only load the "best" (longest) overlaps for each read end into memory.
 The greedy algorithm can be misled by repeats longer than the overlap length.
+Canu has new "Bogart"
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjUyMzYwMSwtNzAxNDU5MzYsLTE4Mz
-E3MzM2ODEsMTg5NDY2MTcxMCw1MzE5MTQzMzgsMzUwMTg3NDk3
-LDEwNzIyNjY3MTQsMjA1OTA3MjEyMiwtOTUxMTQ2OTYwLC0xMz
-QxMzAxNDQ5LC0xNTg5MDYzNTAwLDE2ODM5OTIxNDYsLTMwODMx
-MV19
+eyJoaXN0b3J5IjpbMzg2MDc5MzUzLC03MDE0NTkzNiwtMTgzMT
+czMzY4MSwxODk0NjYxNzEwLDUzMTkxNDMzOCwzNTAxODc0OTcs
+MTA3MjI2NjcxNCwyMDU5MDcyMTIyLC05NTExNDY5NjAsLTEzND
+EzMDE0NDksLTE1ODkwNjM1MDAsMTY4Mzk5MjE0NiwtMzA4MzEx
+XX0=
 -->
