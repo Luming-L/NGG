@@ -11,15 +11,10 @@ good for de novo Genome Assembly
 	+ measure nucleotides in real-time
 
 ### advantages 
-**Long Reads**
-
-With reads tens of kilobases in length you can readily assemble complete genomes and sequence full-length transcripts.
-
-### Explore the benefits of long reads
-
-----------
-
-**High Accuracy**
+- Long Reads
+	+ reads tens of kilobases in length	
+	+ assemble complete genomes and sequence full-length transcripts
+- High Accuracy
 
 Sequencing free of systematic error achieves >99.999% consensus accuracy.
 
@@ -53,6 +48,6 @@ long reads, the highest consensus accuracy, uniform coverage, simultaneous epige
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTgxNDY0MiwtMTQ5Njg0NzYwNCwxMD
+eyJoaXN0b3J5IjpbMTM0NjY1NTY5NiwtMTQ5Njg0NzYwNCwxMD
 QzNjU1NTE4LC0xNTg3ODgxNDU2LC0yMTE5NzYwOTc4XX0=
 -->
