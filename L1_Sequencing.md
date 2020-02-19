@@ -20,14 +20,8 @@ good for de novo Genome Assembly
 	+ No bias based on GC content means you can sequence through region inaccessible to other technologies.
 - Single-Molecule Resolution
 	+ Capturing sequence data from native DNA or RNA molecules enables highly accurate long reads with >99% single-molecule accuracy.
-
-### See the difference single-molecule resolution makes
-
-----------
-
-**Epigenetics**
-
-With no PCR amplification step, base modifications are directly detected during sequencing.
+- Epigenetics
+	+ With no PCR amplification step, base modifications are directly detected during sequencing.
 ### why select this approach
 
 long reads, the highest consensus accuracy, uniform coverage, simultaneous epigenetic detection
@@ -35,6 +29,6 @@ long reads, the highest consensus accuracy, uniform coverage, simultaneous epige
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA1MTQ2NzAsLTE0OTY4NDc2MDQsMT
-A0MzY1NTUxOCwtMTU4Nzg4MTQ1NiwtMjExOTc2MDk3OF19
+eyJoaXN0b3J5IjpbMTYzOTAzNDMxNCwtMTQ5Njg0NzYwNCwxMD
+QzNjU1NTE4LC0xNTg3ODgxNDU2LC0yMTE5NzYwOTc4XX0=
 -->
