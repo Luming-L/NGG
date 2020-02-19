@@ -52,11 +52,11 @@ The weighting is the number of occurrences of a k-mer inside a read (the documen
 This method reduces the number of uninformative, repetitive overlaps that are identified, improving runtime and memory usage significantly.
 
 Traditional strategies filter fixed, all-or-nothing threshold.
-Adaptive MinHash k-mer weighting can divide repeats into different groups. Repeats from plasmids 
+Adaptive MinHash k-mer weighting can divide repeats into different groups. Repeats from plasmids can be taken into account, but the number of false positive overlaps induced by repeat will not 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUzMTkxMzMsMTg5NDY2MTcxMCw1Mz
-E5MTQzMzgsMzUwMTg3NDk3LDEwNzIyNjY3MTQsMjA1OTA3MjEy
-MiwtOTUxMTQ2OTYwLC0xMzQxMzAxNDQ5LC0xNTg5MDYzNTAwLD
-E2ODM5OTIxNDYsLTMwODMxMV19
+eyJoaXN0b3J5IjpbLTM3MjI2MTkxMSwxODk0NjYxNzEwLDUzMT
+kxNDMzOCwzNTAxODc0OTcsMTA3MjI2NjcxNCwyMDU5MDcyMTIy
+LC05NTExNDY5NjAsLTEzNDEzMDE0NDksLTE1ODkwNjM1MDAsMT
+Y4Mzk5MjE0NiwtMzA4MzExXX0=
 -->
