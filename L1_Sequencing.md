@@ -5,12 +5,12 @@ long reads, the highest consensus accuracy, uniform coverage, simultaneous epige
 
 ### Process of SMRT:
 - library preparation
-	+ 
+	+ ligate adapters to double strand DNA to create circulate template
 
 [Original publication](https://science.sciencemag.org/content/323/5910/133/tab-pdf)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2MTM4MjU3LC0xNTg3ODgxNDU2LC0yMT
-E5NzYwOTc4XX0=
+eyJoaXN0b3J5IjpbLTEwNzgyOTYwNDMsLTE1ODc4ODE0NTYsLT
+IxMTk3NjA5NzhdfQ==
 -->
