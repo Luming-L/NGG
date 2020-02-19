@@ -30,6 +30,20 @@ genome assembly - BUSCO (Benchmarking Universal Sin-
 gle-Copy Orthologues)23 v.3.0.
 Hi-C paired-end reads - Lachesis
 
+```mermaid
+graph TD
+P[PacBio long reads]-.->A
+I[Illumina short reads]-.->B
+
+subgraph 
+A[Canu]-->B[Arrow polishing]
+B[Arrow polishing]-->C[Pilon Polishing]
+C[Pilon Polishing]-->D[HiC pro]
+D-->E[Lachesis]
+end 
+
+```
+
 ## annotation
 Genscan
 Augustus A.thaliana
@@ -40,9 +54,9 @@ contig
 scaffold
 N50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0MDQzMjI3LDI1OTQxNDU3NSwtMzQyOD
-E0NTAxLDEwMzg5Nzc3NzEsMjAzNDMwMDE5NCwtNzI2MjgxMTAx
-LDYzMzUxNTIxMCwxMzU2MTg0MjUxLC0xNTM0MjcyMTgxLDE0OT
-UxMDU0MjAsLTIwMzc1Mjc0MiwtMTUwNDMzNDExMywtNjQ2NDg1
-NDMxLDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTE0ODAyOTYyMTAsMjM0MDQzMjI3LDI1OT
+QxNDU3NSwtMzQyODE0NTAxLDEwMzg5Nzc3NzEsMjAzNDMwMDE5
+NCwtNzI2MjgxMTAxLDYzMzUxNTIxMCwxMzU2MTg0MjUxLC0xNT
+M0MjcyMTgxLDE0OTUxMDU0MjAsLTIwMzc1Mjc0MiwtMTUwNDMz
+NDExMywtNjQ2NDg1NDMxLDQ5NzgxODgxMF19
 -->
