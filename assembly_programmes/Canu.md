@@ -53,11 +53,11 @@ This method reduces the number of uninformative, repetitive overlaps that are id
 
 Traditional strategies filter fixed, all-or-nothing threshold.
 Adaptive MinHash k-mer weighting can divide repeats into different groups. Repeats from plasmids can be taken into account, but the number of false positive overlaps induced by repeat will not increase.
-Canu don't require parameter adjustment (the threshold to filter repetitive k-mers) and achieve high sensitivity (when the threshold is low it is not sensitive) and maintains high positive predictive value 
+Canu don't require parameter adjustment (the threshold to filter repetitive k-mers) and achieve high sensitivity (when the threshold is low it is not sensitive) and maintains high positive predictive value (high threshold causes false positive) with no added runtime or memory penalty ().
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ4ODY1NzksMTg5NDY2MTcxMCw1Mz
-E5MTQzMzgsMzUwMTg3NDk3LDEwNzIyNjY3MTQsMjA1OTA3MjEy
-MiwtOTUxMTQ2OTYwLC0xMzQxMzAxNDQ5LC0xNTg5MDYzNTAwLD
-E2ODM5OTIxNDYsLTMwODMxMV19
+eyJoaXN0b3J5IjpbLTI3Nzg3NjY3NCwxODk0NjYxNzEwLDUzMT
+kxNDMzOCwzNTAxODc0OTcsMTA3MjI2NjcxNCwyMDU5MDcyMTIy
+LC05NTExNDY5NjAsLTEzNDEzMDE0NDksLTE1ODkwNjM1MDAsMT
+Y4Mzk5MjE0NiwtMzA4MzExXX0=
 -->
