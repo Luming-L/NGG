@@ -33,6 +33,9 @@ The contiguity of assembly from next generation sequencing data is relatively lo
 
 Only the minority of the plant genome assemblies are on chromosome-level. Most of them are based on short-read sequencing and consist of hundreds or even thousands of fragmented contigs and scaffolds, which are usually not mapped to their chromosomal locations.
 
+High repetitiveness due to transposable elements, extreme genome sizes (loblolly pine, Norway spruce) and the polyploid nature of some plants. 
+
+
 
 >[all plant genomes](https://www.plabipd.de/plant_genomes_pa.ep)
 
@@ -42,8 +45,8 @@ Only the minority of the plant genome assemblies are on chromosome-level. Most o
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Njk3MzEyNiw2OTA0NzI4MDUsMzcwNj
-ExNjc5LDEwMjU1MDYxNDgsLTM0NDIyNTk5OSwtMzU0MTI3NTE0
-LDE2MzkwMzQzMTQsLTE0OTY4NDc2MDQsMTA0MzY1NTUxOCwtMT
-U4Nzg4MTQ1NiwtMjExOTc2MDk3OF19
+eyJoaXN0b3J5IjpbLTQ1OTE1NTUzMSwtMzU2OTczMTI2LDY5MD
+Q3MjgwNSwzNzA2MTE2NzksMTAyNTUwNjE0OCwtMzQ0MjI1OTk5
+LC0zNTQxMjc1MTQsMTYzOTAzNDMxNCwtMTQ5Njg0NzYwNCwxMD
+QzNjU1NTE4LC0xNTg3ODgxNDU2LC0yMTE5NzYwOTc4XX0=
 -->
