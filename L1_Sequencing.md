@@ -2,7 +2,7 @@
 good for de novo Genome Assembly
 
 ### Process of SMRT:
-- library preparation
+- library prepa
 	+ ligate adapters to double strand DNA to create circular template
 	+ immobilize DNA polymerase with a single molecule of DNA template and primer to a ZMW (zero-mode waveguides; tiny wells in a SMRT cell; each cell contains millions of ZMWs)
 - sequencing
@@ -45,9 +45,9 @@ long-read sequencing and long-range scaffolding methods such as optical mapping,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzEzNDQzNiwxMDM0MjQ5NDQyLDUyNj
-Y1MDg5MSwtMzU2OTczMTI2LDY5MDQ3MjgwNSwzNzA2MTE2Nzks
-MTAyNTUwNjE0OCwtMzQ0MjI1OTk5LC0zNTQxMjc1MTQsMTYzOT
-AzNDMxNCwtMTQ5Njg0NzYwNCwxMDQzNjU1NTE4LC0xNTg3ODgx
-NDU2LC0yMTE5NzYwOTc4XX0=
+eyJoaXN0b3J5IjpbMjI0MjUxODA5LDExODMxMzQ0MzYsMTAzND
+I0OTQ0Miw1MjY2NTA4OTEsLTM1Njk3MzEyNiw2OTA0NzI4MDUs
+MzcwNjExNjc5LDEwMjU1MDYxNDgsLTM0NDIyNTk5OSwtMzU0MT
+I3NTE0LDE2MzkwMzQzMTQsLTE0OTY4NDc2MDQsMTA0MzY1NTUx
+OCwtMTU4Nzg4MTQ1NiwtMjExOTc2MDk3OF19
 -->
