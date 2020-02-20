@@ -16,7 +16,8 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 De novo long-read genome assembly involves in several steps:
 - raw read mapping
 	- overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
-		- 
+		- generate alignments between long reads
+		- calculate the 
 - read error correction
 - assembly of corrected reads
 - assembly polishing
@@ -28,7 +29,7 @@ De novo long-read genome assembly involves in several steps:
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNjE1OTM0LDIxMjE1NDExMzUsMTMzMD
-UxNDUzOSw0NTIwMDA2OTksMjI0MjA1NTM3LDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbMTQyNTY3ODQ1MCw3NDM2MTU5MzQsMjEyMT
+U0MTEzNSwxMzMwNTE0NTM5LDQ1MjAwMDY5OSwyMjQyMDU1Mzcs
+NzMwOTk4MTE2XX0=
 -->
