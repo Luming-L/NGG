@@ -37,9 +37,12 @@ High repetitiveness due to transposable elements, extreme genome sizes (loblolly
 
 long-read sequencing and long-range scaffolding methods such as optical mapping, chromosome conformation capture, and DNA dilution-based technologies were introduced to overcome the weaknesses of short-read assemblies and ultimately to enable the assembly of entire chromosomes.
 
-Although raw reads can have sequencing error rates of up to 15%, correction with short sequencing reads [23, 24] or self-correction with sufficient sequencing data [25] enables genome assemblies with a sequence accuracy of over 99.999% simply by running freely available software, like FALCON or PBcR(MHAP).
+## Long-read sequencing technologies
+Sequencing error rates of raw reads are relatively high, but self-correction with sufficient sequencing data or correction by short sequencing reads can improve sequence accuracy to over 99.999%.
+## Long-range scaffolding technologies
 
-Sequencing error rates of raw reads are relatively high, but self-correction with sufficient sequencing data or correction by short sequencing reads can improve sequence accuracy to over 99.999%
+## Assembly of heterozygous and polyploid genomes
+
 
 
 >[all plant genomes](https://www.plabipd.de/plant_genomes_pa.ep)
@@ -50,10 +53,10 @@ Sequencing error rates of raw reads are relatively high, but self-correction wit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQyMTUwMDIsLTk3MzEyODIwOCwtMT
-Q3MDEwMzE2MiwxMTgzMTM0NDM2LDEwMzQyNDk0NDIsNTI2NjUw
-ODkxLC0zNTY5NzMxMjYsNjkwNDcyODA1LDM3MDYxMTY3OSwxMD
-I1NTA2MTQ4LC0zNDQyMjU5OTksLTM1NDEyNzUxNCwxNjM5MDM0
-MzE0LC0xNDk2ODQ3NjA0LDEwNDM2NTU1MTgsLTE1ODc4ODE0NT
-YsLTIxMTk3NjA5NzhdfQ==
+eyJoaXN0b3J5IjpbLTUzNjEyOTc3MSwtOTczMTI4MjA4LC0xND
+cwMTAzMTYyLDExODMxMzQ0MzYsMTAzNDI0OTQ0Miw1MjY2NTA4
+OTEsLTM1Njk3MzEyNiw2OTA0NzI4MDUsMzcwNjExNjc5LDEwMj
+U1MDYxNDgsLTM0NDIyNTk5OSwtMzU0MTI3NTE0LDE2MzkwMzQz
+MTQsLTE0OTY4NDc2MDQsMTA0MzY1NTUxOCwtMTU4Nzg4MTQ1Ni
+wtMjExOTc2MDk3OF19
 -->
