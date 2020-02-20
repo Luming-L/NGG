@@ -7,7 +7,7 @@ good for de novo Genome Assembly
 	+ immobilize DNA polymerase with a single molecule of DNA template and primer to a ZMW (zero-mode waveguides, tiny wells in a SMRT cell)
 - sequencing
 	+ add nucleotides attached with fluorescent dyes
-	+ detect the fluorescent signal of the nucleotide incorporated by the DNA polymerase as DNA synthesizes
+	+ detect the fluorescent signal of the nucleotide incorporated by the DNA polymerase as DNA is synthesized
 > [smrt sequencing](https://www.pacb.com/smrt-science/smrt-sequencing/)
 
 ### advantages 
@@ -45,8 +45,9 @@ long-read sequencing and long-range scaffolding methods such as optical mapping,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2NjUwODkxLC0zNTY5NzMxMjYsNjkwND
-cyODA1LDM3MDYxMTY3OSwxMDI1NTA2MTQ4LC0zNDQyMjU5OTks
-LTM1NDEyNzUxNCwxNjM5MDM0MzE0LC0xNDk2ODQ3NjA0LDEwND
-M2NTU1MTgsLTE1ODc4ODE0NTYsLTIxMTk3NjA5NzhdfQ==
+eyJoaXN0b3J5IjpbMTAzNDI0OTQ0Miw1MjY2NTA4OTEsLTM1Nj
+k3MzEyNiw2OTA0NzI4MDUsMzcwNjExNjc5LDEwMjU1MDYxNDgs
+LTM0NDIyNTk5OSwtMzU0MTI3NTE0LDE2MzkwMzQzMTQsLTE0OT
+Y4NDc2MDQsMTA0MzY1NTUxOCwtMTU4Nzg4MTQ1NiwtMjExOTc2
+MDk3OF19
 -->
