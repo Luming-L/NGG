@@ -45,7 +45,7 @@ To improve assembly contiguity, the contigs of an assembly need to be scaffolded
 Recently several novel technologies emerged, which promise to improve scaffolding and eventually eliminate the need for genetic or physical mapping.
 Optical mapping generates fingerprints of DNA fragments of up to multiple hundred kb by imaging the patterns of restriction sites under light microscopes using fluorescently labeled enzymes.
 Such individual fingerprints (or maps) can be assembled into genome-wide (consensus) maps, which can then be used to scaffold the contigs of a corresponding sequence assembly and identify large structural variations
-
+The combination of sequencing data and optical maps works particularity well, as the typical breaks in sequence assemblies are at repeats, while optical map assemblies have a bias to break at regions with closely-spaced restriction sites.
 ## Assembly of heterozygous and polyploid genomes
 
 
@@ -58,7 +58,7 @@ Such individual fingerprints (or maps) can be assembled into genome-wide (consen
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzI5NjU5MCwtMTUxMjYyNTQ3Niw1Mz
+eyJoaXN0b3J5IjpbMjExNDI0NDIxOSwtMTUxMjYyNTQ3Niw1Mz
 IyMTEzMTMsLTI1NzE2MjY1Nyw4Njc1Mzc2OTYsMTMwOTQ0NzIw
 NCwtNTM2MTI5NzcxLC05NzMxMjgyMDgsLTE0NzAxMDMxNjIsMT
 E4MzEzNDQzNiwxMDM0MjQ5NDQyLDUyNjY1MDg5MSwtMzU2OTcz
