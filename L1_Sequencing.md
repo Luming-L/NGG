@@ -31,6 +31,8 @@ good for de novo Genome Assembly
 
 The contiguity of assembly from next generation sequencing data is relatively low. Third generation sequencing can produce long reads to cover these gaps.
 
+Only the minority of the plant genome assemblies are on chromosome-level. Most of them are based on short-read sequencing and consist of hundreds or even thousands of fragmented contigs and scaffolds, which are usually not mapped to their chromosomal locations.
+
 
 >[all plant genomes](https://www.plabipd.de/plant_genomes_pa.ep)
 
@@ -40,8 +42,8 @@ The contiguity of assembly from next generation sequencing data is relatively lo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM1NTY0MTUsNjkwNDcyODA1LDM3MD
-YxMTY3OSwxMDI1NTA2MTQ4LC0zNDQyMjU5OTksLTM1NDEyNzUx
-NCwxNjM5MDM0MzE0LC0xNDk2ODQ3NjA0LDEwNDM2NTU1MTgsLT
-E1ODc4ODE0NTYsLTIxMTk3NjA5NzhdfQ==
+eyJoaXN0b3J5IjpbLTM1Njk3MzEyNiw2OTA0NzI4MDUsMzcwNj
+ExNjc5LDEwMjU1MDYxNDgsLTM0NDIyNTk5OSwtMzU0MTI3NTE0
+LDE2MzkwMzQzMTQsLTE0OTY4NDc2MDQsMTA0MzY1NTUxOCwtMT
+U4Nzg4MTQ1NiwtMjExOTc2MDk3OF19
 -->
