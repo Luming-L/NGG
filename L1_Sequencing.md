@@ -40,6 +40,8 @@ long-read sequencing and long-range scaffolding methods such as optical mapping,
 Although raw reads can have sequencing error rates of up to 15%, correction with short sequencing reads [23, 24] or self-correction with sufficient sequencing data [25] enables genome assemblies with a sequence accuracy of over 99.999% simply by running freely available software, like FALCON or PBcR(MHAP).
 
 
+
+
 >[all plant genomes](https://www.plabipd.de/plant_genomes_pa.ep)
 
 > [The impact of third generation genomic technologies on plant genome assembly](https://www.sciencedirect.com/science/article/pii/S1369526616301315#!)
@@ -48,10 +50,10 @@ Although raw reads can have sequencing error rates of up to 15%, correction with
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzEyODIwOCwtMTQ3MDEwMzE2MiwxMT
-gzMTM0NDM2LDEwMzQyNDk0NDIsNTI2NjUwODkxLC0zNTY5NzMx
-MjYsNjkwNDcyODA1LDM3MDYxMTY3OSwxMDI1NTA2MTQ4LC0zND
-QyMjU5OTksLTM1NDEyNzUxNCwxNjM5MDM0MzE0LC0xNDk2ODQ3
-NjA0LDEwNDM2NTU1MTgsLTE1ODc4ODE0NTYsLTIxMTk3NjA5Nz
-hdfQ==
+eyJoaXN0b3J5IjpbMTg3MTYwNTQ1MiwtOTczMTI4MjA4LC0xND
+cwMTAzMTYyLDExODMxMzQ0MzYsMTAzNDI0OTQ0Miw1MjY2NTA4
+OTEsLTM1Njk3MzEyNiw2OTA0NzI4MDUsMzcwNjExNjc5LDEwMj
+U1MDYxNDgsLTM0NDIyNTk5OSwtMzU0MTI3NTE0LDE2MzkwMzQz
+MTQsLTE0OTY4NDc2MDQsMTA0MzY1NTUxOCwtMTU4Nzg4MTQ1Ni
+wtMjExOTc2MDk3OF19
 -->
