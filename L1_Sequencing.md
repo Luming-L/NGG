@@ -53,7 +53,9 @@ Though not all DNA, which is in close proximity, is also closely linked, the maj
 A modified Hi-C protocol called Chicago is provided as a service by Dovetail Genomics since 2014.
 Data integration follows a two-step approach, first assembly errors are identified and resolved, and then the broken contigs are scaffolded.
 Integration of Dovetail Genomics read pairs into the PacBio assembly of _A. alpina_ improved assembly contiguity similar well as compared to optical mapping data.
+Combined integration of optical mapping and Dovetail Genomics data could further advance the contiguity supporting the idea that optical mapping and Hi-C data are complementary and can help bridging different regions in the genome.
 
+10X Genomics
 ## Assembly of heterozygous and polyploid genomes
 
 
@@ -66,7 +68,7 @@ Integration of Dovetail Genomics read pairs into the PacBio assembly of _A. alpi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTQwNDI0NywtODUxNjkxMTY0LC0xMD
+eyJoaXN0b3J5IjpbMTIzODkwOTA1MywtODUxNjkxMTY0LC0xMD
 E4Mzk3MTQzLDEwOTE2MTEzMzcsNzIwMzY0MDg3LDIxMTQyNDQy
 MTksLTE1MTI2MjU0NzYsNTMyMjExMzEzLC0yNTcxNjI2NTcsOD
 Y3NTM3Njk2LDEzMDk0NDcyMDQsLTUzNjEyOTc3MSwtOTczMTI4
