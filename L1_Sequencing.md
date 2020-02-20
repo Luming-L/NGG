@@ -51,7 +51,7 @@ The combination of sequencing data and optical maps works particularity well, as
 Hi-C is based on proximity ligation of DNA fragments that are physically close in their natural conformation. 
 Though not all DNA, which is in close proximity, is also closely linked, the majority of the read pairs generated from the two ends of such fragments comes from closely linked DNA and therefore these read pairs can be used for scaffolding.
 A modified Hi-C protocol called Chicago is provided as a service by Dovetail Genomics since 2014.
-
+Data integration follows a two-step approach, first assembly errors are identified and resolved, and then the broken contigs are scaffolded.
 ## Assembly of heterozygous and polyploid genomes
 
 
@@ -64,11 +64,11 @@ A modified Hi-C protocol called Chicago is provided as a service by Dovetail Gen
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgzOTcxNDMsMTA5MTYxMTMzNyw3Mj
-AzNjQwODcsMjExNDI0NDIxOSwtMTUxMjYyNTQ3Niw1MzIyMTEz
-MTMsLTI1NzE2MjY1Nyw4Njc1Mzc2OTYsMTMwOTQ0NzIwNCwtNT
-M2MTI5NzcxLC05NzMxMjgyMDgsLTE0NzAxMDMxNjIsMTE4MzEz
-NDQzNiwxMDM0MjQ5NDQyLDUyNjY1MDg5MSwtMzU2OTczMTI2LD
-Y5MDQ3MjgwNSwzNzA2MTE2NzksMTAyNTUwNjE0OCwtMzQ0MjI1
-OTk5XX0=
+eyJoaXN0b3J5IjpbLTg1MTY5MTE2NCwtMTAxODM5NzE0MywxMD
+kxNjExMzM3LDcyMDM2NDA4NywyMTE0MjQ0MjE5LC0xNTEyNjI1
+NDc2LDUzMjIxMTMxMywtMjU3MTYyNjU3LDg2NzUzNzY5NiwxMz
+A5NDQ3MjA0LC01MzYxMjk3NzEsLTk3MzEyODIwOCwtMTQ3MDEw
+MzE2MiwxMTgzMTM0NDM2LDEwMzQyNDk0NDIsNTI2NjUwODkxLC
+0zNTY5NzMxMjYsNjkwNDcyODA1LDM3MDYxMTY3OSwxMDI1NTA2
+MTQ4XX0=
 -->
