@@ -22,17 +22,19 @@ good for de novo Genome Assembly
 	+ Capturing sequence data from native DNA or RNA molecules enables highly accurate long reads with >99% single-molecule accuracy.
 - Epigenetics
 	+ With no PCR amplification step, base modifications are directly detected during sequencing.
+
 ### why select this approach
 - Plant genomes are more repetitive and complicate to assemble than vertebrates.
 - Long-read assembly contigs outperform short-read assembly scaffolds.
-- 
+- Long-range scaffolding can advance assembly contiguity up to chromosomal levels.
+- Reconstruction of haplotypes allows assembly of heterozygous and polyploid genomes.
 
 > [The impact of third generation genomic technologies on plant genome assembly](https://www.sciencedirect.com/science/article/pii/S1369526616301315#!)
 [Original publication](https://science.sciencemag.org/content/323/5910/133/tab-pdf)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzM3NTE5LC0zNDQyMjU5OTksLTM1ND
-EyNzUxNCwxNjM5MDM0MzE0LC0xNDk2ODQ3NjA0LDEwNDM2NTU1
-MTgsLTE1ODc4ODE0NTYsLTIxMTk3NjA5NzhdfQ==
+eyJoaXN0b3J5IjpbMTAyNTUwNjE0OCwtMzQ0MjI1OTk5LC0zNT
+QxMjc1MTQsMTYzOTAzNDMxNCwtMTQ5Njg0NzYwNCwxMDQzNjU1
+NTE4LC0xNTg3ODgxNDU2LC0yMTE5NzYwOTc4XX0=
 -->
