@@ -39,6 +39,7 @@ long-read sequencing and long-range scaffolding methods such as optical mapping,
 
 ## Long-read sequencing technologies
 Sequencing error rates of raw reads are relatively high, but self-correction with sufficient sequencing data or correction by short sequencing reads can improve sequence accuracy to over 99.999%.
+In addition to contiguity, PacBio assembly contigs feature less gaps (represented as Ns in the sequence) and their overall lengths includes more of the genomic space. 
 ## Long-range scaffolding technologies
 
 ## Assembly of heterozygous and polyploid genomes
@@ -53,10 +54,10 @@ Sequencing error rates of raw reads are relatively high, but self-correction wit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjEyOTc3MSwtOTczMTI4MjA4LC0xND
-cwMTAzMTYyLDExODMxMzQ0MzYsMTAzNDI0OTQ0Miw1MjY2NTA4
-OTEsLTM1Njk3MzEyNiw2OTA0NzI4MDUsMzcwNjExNjc5LDEwMj
-U1MDYxNDgsLTM0NDIyNTk5OSwtMzU0MTI3NTE0LDE2MzkwMzQz
-MTQsLTE0OTY4NDc2MDQsMTA0MzY1NTUxOCwtMTU4Nzg4MTQ1Ni
-wtMjExOTc2MDk3OF19
+eyJoaXN0b3J5IjpbMTMwOTQ0NzIwNCwtNTM2MTI5NzcxLC05Nz
+MxMjgyMDgsLTE0NzAxMDMxNjIsMTE4MzEzNDQzNiwxMDM0MjQ5
+NDQyLDUyNjY1MDg5MSwtMzU2OTczMTI2LDY5MDQ3MjgwNSwzNz
+A2MTE2NzksMTAyNTUwNjE0OCwtMzQ0MjI1OTk5LC0zNTQxMjc1
+MTQsMTYzOTAzNDMxNCwtMTQ5Njg0NzYwNCwxMDQzNjU1NTE4LC
+0xNTg3ODgxNDU2LC0yMTE5NzYwOTc4XX0=
 -->
