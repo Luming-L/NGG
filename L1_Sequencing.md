@@ -43,7 +43,7 @@ In addition to contiguity, PacBio assembly contigs feature less gaps (represente
 ## Long-range scaffolding technologies
 To improve assembly contiguity, the contigs of an assembly need to be scaffolded, which typically starts by ordering the contigs using alignments of paired reads.
 Recently several novel technologies emerged, which promise to improve scaffolding and eventually eliminate the need for genetic or physical mapping.
-Optical mapping generates fingerprints of DNA fragments of up to multiple hundred kb by imaging the patterns of restriction sites under light microscopes using fluorescently labeled enzymes [16, 43].
+Optical mapping generates fingerprints of DNA fragments of up to multiple hundred kb by imaging the patterns of restriction sites under light microscopes using fluorescently labeled enzymes.
 ## Assembly of heterozygous and polyploid genomes
 
 
@@ -56,11 +56,11 @@ Optical mapping generates fingerprints of DNA fragments of up to multiple hundre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMjExMzEzLC0yNTcxNjI2NTcsODY3NT
-M3Njk2LDEzMDk0NDcyMDQsLTUzNjEyOTc3MSwtOTczMTI4MjA4
-LC0xNDcwMTAzMTYyLDExODMxMzQ0MzYsMTAzNDI0OTQ0Miw1Mj
-Y2NTA4OTEsLTM1Njk3MzEyNiw2OTA0NzI4MDUsMzcwNjExNjc5
-LDEwMjU1MDYxNDgsLTM0NDIyNTk5OSwtMzU0MTI3NTE0LDE2Mz
-kwMzQzMTQsLTE0OTY4NDc2MDQsMTA0MzY1NTUxOCwtMTU4Nzg4
-MTQ1Nl19
+eyJoaXN0b3J5IjpbMTE0Mjg3OTUzMyw1MzIyMTEzMTMsLTI1Nz
+E2MjY1Nyw4Njc1Mzc2OTYsMTMwOTQ0NzIwNCwtNTM2MTI5Nzcx
+LC05NzMxMjgyMDgsLTE0NzAxMDMxNjIsMTE4MzEzNDQzNiwxMD
+M0MjQ5NDQyLDUyNjY1MDg5MSwtMzU2OTczMTI2LDY5MDQ3Mjgw
+NSwzNzA2MTE2NzksMTAyNTUwNjE0OCwtMzQ0MjI1OTk5LC0zNT
+QxMjc1MTQsMTYzOTAzNDMxNCwtMTQ5Njg0NzYwNCwxMDQzNjU1
+NTE4XX0=
 -->
