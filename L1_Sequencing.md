@@ -29,15 +29,15 @@ good for de novo Genome Assembly
 - Long-range scaffolding can advance assembly contiguity up to chromosomal levels.
 - Reconstruction of haplotypes allows assembly of heterozygous and polyploid genomes.
 
-The contiguity of assembly from next generation sequencing data is relatively low. Third 
+The contiguity of assembly from next generation sequencing data is relatively low. Third generation sequencing can produce long reads to cover these gaps.
 
 > [The impact of third generation genomic technologies on plant genome assembly](https://www.sciencedirect.com/science/article/pii/S1369526616301315#!)
 [Original publication](https://science.sciencemag.org/content/323/5910/133/tab-pdf)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg4Mjg0NjYsMTAyNTUwNjE0OCwtMz
-Q0MjI1OTk5LC0zNTQxMjc1MTQsMTYzOTAzNDMxNCwtMTQ5Njg0
-NzYwNCwxMDQzNjU1NTE4LC0xNTg3ODgxNDU2LC0yMTE5NzYwOT
-c4XX0=
+eyJoaXN0b3J5IjpbMzcwNjExNjc5LDEwMjU1MDYxNDgsLTM0ND
+IyNTk5OSwtMzU0MTI3NTE0LDE2MzkwMzQzMTQsLTE0OTY4NDc2
+MDQsMTA0MzY1NTUxOCwtMTU4Nzg4MTQ1NiwtMjExOTc2MDk3OF
+19
 -->
