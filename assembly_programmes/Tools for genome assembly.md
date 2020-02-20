@@ -16,6 +16,8 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 De novo long-read genome assembly involves in several steps:
 - raw read mapping
 - read error correction
+- assembly of corrected reads
+- assembly polishing
 - 
 ### Genome alignment and assembly tools for TGS platform
 ### Sequencing tools for hybrid technologies of both NGS and TGS
@@ -24,6 +26,6 @@ De novo long-read genome assembly involves in several steps:
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ5NTI1OTEsMTMzMDUxNDUzOSw0NT
-IwMDA2OTksMjI0MjA1NTM3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjEyMTU0MTEzNSwxMzMwNTE0NTM5LDQ1Mj
+AwMDY5OSwyMjQyMDU1MzcsNzMwOTk4MTE2XX0=
 -->
