@@ -4,10 +4,10 @@ good for de novo Genome Assembly
 ### Process of SMRT:
 - library preparation
 	+ ligate adapters to double strand DNA to create circular template
-	+ add primers, polymerase, DNA template to the library on the sequencing instrument
-	+ mobilize single molecule DNA into zero-mode waveguides (ZMW, A SMRT cell containing millions of tiny wells)
+	+ add primers, polymerase, DNA template to ZMW (zero-mode waveguides, A SMRT cell containing millions of tiny wells)
 - sequencing
-	+ add polymerase-cooperated labelled nucleotides 
+	+ add nucleotide
+	+ polymerase-cooperated labelled nucleotides 
 	+ measure nucleotides in real-time
 
 ### advantages 
@@ -29,7 +29,7 @@ long reads, the highest consensus accuracy, uniform coverage, simultaneous epige
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2OTcxNzQxOCwxNjM5MDM0MzE0LC0xND
+eyJoaXN0b3J5IjpbMTY5NDM4NzY1OSwxNjM5MDM0MzE0LC0xND
 k2ODQ3NjA0LDEwNDM2NTU1MTgsLTE1ODc4ODE0NTYsLTIxMTk3
 NjA5NzhdfQ==
 -->
