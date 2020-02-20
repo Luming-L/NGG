@@ -8,7 +8,7 @@ good for de novo Genome Assembly
 - sequencing
 	+ add nucleotides attached with fluorescent dyes
 	+ detect the fluorescent signal of the nucleotide incorporated by the DNA polymerase as DNA synthesizes
-
+> [smrt sequencing](https://www.pacb.com/smrt-science/smrt-sequencing/)
 
 ### advantages 
 - Long Reads
@@ -25,11 +25,13 @@ good for de novo Genome Assembly
 ### why select this approach
 
 long reads, the highest consensus accuracy, uniform coverage, simultaneous epigenetic detection
+
+> [The impact of third generation genomic technologies on plant genome assembly](https://www.sciencedirect.com/science/article/pii/S1369526616301315#!)
 [Original publication](https://science.sciencemag.org/content/323/5910/133/tab-pdf)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDIyNTk5OSwtMzU0MTI3NTE0LDE2Mz
-kwMzQzMTQsLTE0OTY4NDc2MDQsMTA0MzY1NTUxOCwtMTU4Nzg4
-MTQ1NiwtMjExOTc2MDk3OF19
+eyJoaXN0b3J5IjpbLTI1OTM3NTQ3OCwtMzQ0MjI1OTk5LC0zNT
+QxMjc1MTQsMTYzOTAzNDMxNCwtMTQ5Njg0NzYwNCwxMDQzNjU1
+NTE4LC0xNTg3ODgxNDU2LC0yMTE5NzYwOTc4XX0=
 -->
