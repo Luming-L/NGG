@@ -14,12 +14,11 @@ Details of each approach along with its benefits and drawbacks are discussed.
 Two distinct decision trees are presented to guide researchers for selecting a suitable TGS de novo and genome-based sequencing analysis tools.
 ## De novo assembly using TGS technologies
 
-## Genome alignment and assembly tools for TGS
 
 ## Tools for genome-based sequence analysis
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Nzg3NzU2Myw0NTIwMDA2OTksMjI0Mj
+eyJoaXN0b3J5IjpbLTcxODU3OTA0Niw0NTIwMDA2OTksMjI0Mj
 A1NTM3LDczMDk5ODExNl19
 -->
