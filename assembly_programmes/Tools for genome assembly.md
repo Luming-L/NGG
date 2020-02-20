@@ -7,8 +7,20 @@ analysis based on third-generation sequencing
 - genome assembly
 - genome sequencing
 
+We review a total of 39 TGS analysis tools, which were either recently published or developed (TableS1).
+We discuss their various characteristics,such as the required input, interaction with the user, sequencing platforms,type of reads, error models, possibility of introducing cov-
+erage bias,simulation of genomic variants and output provided.
+This is done within the framework of potential applications,
+providing readers with guidelines for the identification of the
+TGS de novo software applications that are best suited for their
+purposes. This review evaluates various tools applied in three
+main TGS platforms on genome assembly and further analysis.
+Details of each approach along with its benefits and drawbacks
+are discussed. Lastly, two distinct decision trees are presented
+to guide researchers for selecting a suitable TGS de novo and
+genome-based sequencing analysis tools.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyMDAwNjk5LDIyNDIwNTUzNyw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NjgxMDQ0NzEsNDUyMDAwNjk5LDIyND
+IwNTUzNyw3MzA5OTgxMTZdfQ==
 -->
