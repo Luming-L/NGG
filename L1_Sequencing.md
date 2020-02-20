@@ -37,7 +37,7 @@ High repetitiveness due to transposable elements, extreme genome sizes (loblolly
 
 long-read sequencing and long-range scaffolding methods such as optical mapping, chromosome conformation capture, and DNA dilution-based technologies were introduced to overcome the weaknesses of short-read assemblies and ultimately to enable the assembly of entire chromosomes.
 
-Current PacBio systems generate reads with an average size of nearly 20 kb and a maximum length of over 60 kb [21, 22•]. Although raw reads can have sequencing error rates of up to 15%, correction with short sequencing reads [23, 24] or self-correction with sufficient sequencing data [25] enables genome assemblies with a sequence accuracy of over 99.999% simply by running freely available software, like FALCON or PBcR(MHAP).
+Although raw reads can have sequencing error rates of up to 15%, correction with short sequencing reads [23, 24] or self-correction with sufficient sequencing data [25] enables genome assemblies with a sequence accuracy of over 99.999% simply by running freely available software, like FALCON or PBcR(MHAP).
 
 
 >[all plant genomes](https://www.plabipd.de/plant_genomes_pa.ep)
@@ -48,10 +48,10 @@ Current PacBio systems generate reads with an average size of nearly 20 kb and a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA4NjQ4MzYsLTE0NzAxMDMxNjIsMT
-E4MzEzNDQzNiwxMDM0MjQ5NDQyLDUyNjY1MDg5MSwtMzU2OTcz
-MTI2LDY5MDQ3MjgwNSwzNzA2MTE2NzksMTAyNTUwNjE0OCwtMz
-Q0MjI1OTk5LC0zNTQxMjc1MTQsMTYzOTAzNDMxNCwtMTQ5Njg0
-NzYwNCwxMDQzNjU1NTE4LC0xNTg3ODgxNDU2LC0yMTE5NzYwOT
-c4XX0=
+eyJoaXN0b3J5IjpbLTk3MzEyODIwOCwtMTQ3MDEwMzE2MiwxMT
+gzMTM0NDM2LDEwMzQyNDk0NDIsNTI2NjUwODkxLC0zNTY5NzMx
+MjYsNjkwNDcyODA1LDM3MDYxMTY3OSwxMDI1NTA2MTQ4LC0zND
+QyMjU5OTksLTM1NDEyNzUxNCwxNjM5MDM0MzE0LC0xNDk2ODQ3
+NjA0LDEwNDM2NTU1MTgsLTE1ODc4ODE0NTYsLTIxMTk3NjA5Nz
+hdfQ==
 -->
