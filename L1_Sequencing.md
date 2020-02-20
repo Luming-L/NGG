@@ -40,12 +40,16 @@ long-read sequencing and long-range scaffolding methods such as optical mapping,
 ## Long-read sequencing technologies
 Sequencing error rates of raw reads are relatively high, but self-correction with sufficient sequencing data or correction by short sequencing reads can improve sequence accuracy to over 99.999%.
 In addition to contiguity, PacBio assembly contigs feature less gaps (represented as Ns in the sequence) and their overall lengths includes more of the genomic space. 
+
 ## Long-range scaffolding technologies
 To improve assembly contiguity, the contigs of an assembly need to be scaffolded, which typically starts by ordering the contigs using alignments of paired reads.
 Recently several novel technologies emerged, which promise to improve scaffolding and eventually eliminate the need for genetic or physical mapping.
 Optical mapping generates fingerprints of DNA fragments of up to multiple hundred kb by imaging the patterns of restriction sites under light microscopes using fluorescently labeled enzymes.
 Such individual fingerprints (or maps) can be assembled into genome-wide (consensus) maps, which can then be used to scaffold the contigs of a corresponding sequence assembly and identify large structural variations
 The combination of sequencing data and optical maps works particularity well, as the typical breaks in sequence assemblies are at repeats, while optical map assemblies have a bias to break at regions with closely-spaced restriction sites.
+
+Hi-C is based on proximity ligation of DNA fragments that are physically close in their natural conformation. 
+
 ## Assembly of heterozygous and polyploid genomes
 
 
@@ -58,11 +62,11 @@ The combination of sequencing data and optical maps works particularity well, as
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDI0NDIxOSwtMTUxMjYyNTQ3Niw1Mz
-IyMTEzMTMsLTI1NzE2MjY1Nyw4Njc1Mzc2OTYsMTMwOTQ0NzIw
-NCwtNTM2MTI5NzcxLC05NzMxMjgyMDgsLTE0NzAxMDMxNjIsMT
-E4MzEzNDQzNiwxMDM0MjQ5NDQyLDUyNjY1MDg5MSwtMzU2OTcz
-MTI2LDY5MDQ3MjgwNSwzNzA2MTE2NzksMTAyNTUwNjE0OCwtMz
-Q0MjI1OTk5LC0zNTQxMjc1MTQsMTYzOTAzNDMxNCwtMTQ5Njg0
-NzYwNF19
+eyJoaXN0b3J5IjpbNzIwMzY0MDg3LDIxMTQyNDQyMTksLTE1MT
+I2MjU0NzYsNTMyMjExMzEzLC0yNTcxNjI2NTcsODY3NTM3Njk2
+LDEzMDk0NDcyMDQsLTUzNjEyOTc3MSwtOTczMTI4MjA4LC0xND
+cwMTAzMTYyLDExODMxMzQ0MzYsMTAzNDI0OTQ0Miw1MjY2NTA4
+OTEsLTM1Njk3MzEyNiw2OTA0NzI4MDUsMzcwNjExNjc5LDEwMj
+U1MDYxNDgsLTM0NDIyNTk5OSwtMzU0MTI3NTE0LDE2MzkwMzQz
+MTRdfQ==
 -->
