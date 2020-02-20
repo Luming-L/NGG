@@ -35,7 +35,7 @@ Only the minority of the plant genome assemblies are on chromosome-level. Most o
 
 High repetitiveness due to transposable elements, extreme genome sizes (loblolly pine, Norway spruce) and the polyploid nature of some plants. 
 
-
+long-read sequencing [13, 14, 15] and long-range scaffolding methods such as optical mapping [16], chromosome conformation capture [17], and DNA dilution-based technologies [18, 19] were introduced to overcome the weaknesses of short-read assemblies and ultimately to enable the assembly of entire chromosomes [20••]. In this review, we focus on current and emerging third generation genomic technologies and their application for plant genome assembly particularly focusing on those, which are broadly available.
 
 >[all plant genomes](https://www.plabipd.de/plant_genomes_pa.ep)
 
@@ -45,8 +45,8 @@ High repetitiveness due to transposable elements, extreme genome sizes (loblolly
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTE1NTUzMSwtMzU2OTczMTI2LDY5MD
-Q3MjgwNSwzNzA2MTE2NzksMTAyNTUwNjE0OCwtMzQ0MjI1OTk5
-LC0zNTQxMjc1MTQsMTYzOTAzNDMxNCwtMTQ5Njg0NzYwNCwxMD
-QzNjU1NTE4LC0xNTg3ODgxNDU2LC0yMTE5NzYwOTc4XX0=
+eyJoaXN0b3J5IjpbLTIwMzM1NDMxNzAsLTM1Njk3MzEyNiw2OT
+A0NzI4MDUsMzcwNjExNjc5LDEwMjU1MDYxNDgsLTM0NDIyNTk5
+OSwtMzU0MTI3NTE0LDE2MzkwMzQzMTQsLTE0OTY4NDc2MDQsMT
+A0MzY1NTUxOCwtMTU4Nzg4MTQ1NiwtMjExOTc2MDk3OF19
 -->
