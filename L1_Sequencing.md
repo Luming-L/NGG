@@ -56,6 +56,7 @@ Integration of Dovetail Genomics read pairs into the PacBio assembly of _A. alpi
 Combined integration of optical mapping and Dovetail Genomics data could further advance the contiguity supporting the idea that optical mapping and Hi-C data are complementary and can help bridging different regions in the genome.
 
 10X Genomics
+The last technology highlighted here was introduced by 10X Genomics in 2015 who integrated their proprietary GemCode technology in their latest system called Chromium (www.10xgenomics.com). 
 ## Assembly of heterozygous and polyploid genomes
 
 
@@ -68,11 +69,11 @@ Combined integration of optical mapping and Dovetail Genomics data could further
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODkwOTA1MywtODUxNjkxMTY0LC0xMD
-E4Mzk3MTQzLDEwOTE2MTEzMzcsNzIwMzY0MDg3LDIxMTQyNDQy
-MTksLTE1MTI2MjU0NzYsNTMyMjExMzEzLC0yNTcxNjI2NTcsOD
-Y3NTM3Njk2LDEzMDk0NDcyMDQsLTUzNjEyOTc3MSwtOTczMTI4
-MjA4LC0xNDcwMTAzMTYyLDExODMxMzQ0MzYsMTAzNDI0OTQ0Mi
-w1MjY2NTA4OTEsLTM1Njk3MzEyNiw2OTA0NzI4MDUsMzcwNjEx
-Njc5XX0=
+eyJoaXN0b3J5IjpbLTExODcxODU2NzgsLTg1MTY5MTE2NCwtMT
+AxODM5NzE0MywxMDkxNjExMzM3LDcyMDM2NDA4NywyMTE0MjQ0
+MjE5LC0xNTEyNjI1NDc2LDUzMjIxMTMxMywtMjU3MTYyNjU3LD
+g2NzUzNzY5NiwxMzA5NDQ3MjA0LC01MzYxMjk3NzEsLTk3MzEy
+ODIwOCwtMTQ3MDEwMzE2MiwxMTgzMTM0NDM2LDEwMzQyNDk0ND
+IsNTI2NjUwODkxLC0zNTY5NzMxMjYsNjkwNDcyODA1LDM3MDYx
+MTY3OV19
 -->
