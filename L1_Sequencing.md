@@ -30,13 +30,15 @@ good for de novo Genome Assembly
 - Reconstruction of haplotypes allows assembly of heterozygous and polyploid genomes.
 
 The contiguity of assembly from next generation sequencing data is relatively low. Third generation sequencing can produce long reads to cover these gaps.
-[all plant gen](https://www.plabipd.de/plant_genomes_pa.ep)
+>[all plant genomes](https://www.plabipd.de/plant_genomes_pa.ep)
+
 > [The impact of third generation genomic technologies on plant genome assembly](https://www.sciencedirect.com/science/article/pii/S1369526616301315#!)
-[Original publication](https://science.sciencemag.org/content/323/5910/133/tab-pdf)
+
+> [Original publication](https://science.sciencemag.org/content/323/5910/133/tab-pdf)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNzYwODc5LDM3MDYxMTY3OSwxMDI1NT
+eyJoaXN0b3J5IjpbNjkwNDcyODA1LDM3MDYxMTY3OSwxMDI1NT
 A2MTQ4LC0zNDQyMjU5OTksLTM1NDEyNzUxNCwxNjM5MDM0MzE0
 LC0xNDk2ODQ3NjA0LDEwNDM2NTU1MTgsLTE1ODc4ODE0NTYsLT
 IxMTk3NjA5NzhdfQ==
