@@ -23,15 +23,16 @@ good for de novo Genome Assembly
 - Epigenetics
 	+ With no PCR amplification step, base modifications are directly detected during sequencing.
 ### why select this approach
-
-long reads, the highest consensus accuracy, uniform coverage, simultaneous epigenetic detection
+- Plant genomes are more repetitive and complicate to assemble than vertebrates.
+- Long-read assembly contigs outperform short-read assembly scaffolds.
+- 
 
 > [The impact of third generation genomic technologies on plant genome assembly](https://www.sciencedirect.com/science/article/pii/S1369526616301315#!)
 [Original publication](https://science.sciencemag.org/content/323/5910/133/tab-pdf)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTM3NTQ3OCwtMzQ0MjI1OTk5LC0zNT
-QxMjc1MTQsMTYzOTAzNDMxNCwtMTQ5Njg0NzYwNCwxMDQzNjU1
-NTE4LC0xNTg3ODgxNDU2LC0yMTE5NzYwOTc4XX0=
+eyJoaXN0b3J5IjpbMTY4NzM3NTE5LC0zNDQyMjU5OTksLTM1ND
+EyNzUxNCwxNjM5MDM0MzE0LC0xNDk2ODQ3NjA0LDEwNDM2NTU1
+MTgsLTE1ODc4ODE0NTYsLTIxMTk3NjA5NzhdfQ==
 -->
