@@ -49,7 +49,9 @@ Such individual fingerprints (or maps) can be assembled into genome-wide (consen
 The combination of sequencing data and optical maps works particularity well, as the typical breaks in sequence assemblies are at repeats, while optical map assemblies have a bias to break at regions with closely-spaced restriction sites.
 
 Hi-C is based on proximity ligation of DNA fragments that are physically close in their natural conformation. 
-Though not all DNA, which is in close proximity, is also closely linked, the majority of the read pairs generated from the two ends of such fragments comes from closely linked DNA and therefore these read pairs can be used for scaffolding
+Though not all DNA, which is in close proximity, is also closely linked, the majority of the read pairs generated from the two ends of such fragments comes from closely linked DNA and therefore these read pairs can be used for scaffolding.
+A modified Hi-C protocol called Chicago is provided as a service by Dovetail Genomics since 2014.
+
 ## Assembly of heterozygous and polyploid genomes
 
 
@@ -62,11 +64,11 @@ Though not all DNA, which is in close proximity, is also closely linked, the maj
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTYxMTMzNyw3MjAzNjQwODcsMjExND
-I0NDIxOSwtMTUxMjYyNTQ3Niw1MzIyMTEzMTMsLTI1NzE2MjY1
-Nyw4Njc1Mzc2OTYsMTMwOTQ0NzIwNCwtNTM2MTI5NzcxLC05Nz
-MxMjgyMDgsLTE0NzAxMDMxNjIsMTE4MzEzNDQzNiwxMDM0MjQ5
-NDQyLDUyNjY1MDg5MSwtMzU2OTczMTI2LDY5MDQ3MjgwNSwzNz
-A2MTE2NzksMTAyNTUwNjE0OCwtMzQ0MjI1OTk5LC0zNTQxMjc1
-MTRdfQ==
+eyJoaXN0b3J5IjpbLTEwMTgzOTcxNDMsMTA5MTYxMTMzNyw3Mj
+AzNjQwODcsMjExNDI0NDIxOSwtMTUxMjYyNTQ3Niw1MzIyMTEz
+MTMsLTI1NzE2MjY1Nyw4Njc1Mzc2OTYsMTMwOTQ0NzIwNCwtNT
+M2MTI5NzcxLC05NzMxMjgyMDgsLTE0NzAxMDMxNjIsMTE4MzEz
+NDQzNiwxMDM0MjQ5NDQyLDUyNjY1MDg5MSwtMzU2OTczMTI2LD
+Y5MDQ3MjgwNSwzNzA2MTE2NzksMTAyNTUwNjE0OCwtMzQ0MjI1
+OTk5XX0=
 -->
