@@ -37,6 +37,8 @@ High repetitiveness due to transposable elements, extreme genome sizes (loblolly
 
 long-read sequencing and long-range scaffolding methods such as optical mapping, chromosome conformation capture, and DNA dilution-based technologies were introduced to overcome the weaknesses of short-read assemblies and ultimately to enable the assembly of entire chromosomes.
 
+
+
 >[all plant genomes](https://www.plabipd.de/plant_genomes_pa.ep)
 
 > [The impact of third generation genomic technologies on plant genome assembly](https://www.sciencedirect.com/science/article/pii/S1369526616301315#!)
@@ -45,9 +47,10 @@ long-read sequencing and long-range scaffolding methods such as optical mapping,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAxMDMxNjIsMTE4MzEzNDQzNiwxMD
-M0MjQ5NDQyLDUyNjY1MDg5MSwtMzU2OTczMTI2LDY5MDQ3Mjgw
-NSwzNzA2MTE2NzksMTAyNTUwNjE0OCwtMzQ0MjI1OTk5LC0zNT
-QxMjc1MTQsMTYzOTAzNDMxNCwtMTQ5Njg0NzYwNCwxMDQzNjU1
-NTE4LC0xNTg3ODgxNDU2LC0yMTE5NzYwOTc4XX0=
+eyJoaXN0b3J5IjpbLTQzNDY2OTcyNiwtMTQ3MDEwMzE2MiwxMT
+gzMTM0NDM2LDEwMzQyNDk0NDIsNTI2NjUwODkxLC0zNTY5NzMx
+MjYsNjkwNDcyODA1LDM3MDYxMTY3OSwxMDI1NTA2MTQ4LC0zND
+QyMjU5OTksLTM1NDEyNzUxNCwxNjM5MDM0MzE0LC0xNDk2ODQ3
+NjA0LDEwNDM2NTU1MTgsLTE1ODc4ODE0NTYsLTIxMTk3NjA5Nz
+hdfQ==
 -->
