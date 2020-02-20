@@ -42,6 +42,7 @@ Sequencing error rates of raw reads are relatively high, but self-correction wit
 In addition to contiguity, PacBio assembly contigs feature less gaps (represented as Ns in the sequence) and their overall lengths includes more of the genomic space. 
 ## Long-range scaffolding technologies
 To improve assembly contiguity, the contigs of an assembly need to be scaffolded, which typically starts by ordering the contigs using alignments of paired reads.
+Recently several novel technologies emerged, which promise to improve scaffolding and eventually eliminate the need for genetic or physical mapping.
 ## Assembly of heterozygous and polyploid genomes
 
 
@@ -54,10 +55,11 @@ To improve assembly contiguity, the contigs of an assembly need to be scaffolded
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3NTM3Njk2LDEzMDk0NDcyMDQsLTUzNj
-EyOTc3MSwtOTczMTI4MjA4LC0xNDcwMTAzMTYyLDExODMxMzQ0
-MzYsMTAzNDI0OTQ0Miw1MjY2NTA4OTEsLTM1Njk3MzEyNiw2OT
-A0NzI4MDUsMzcwNjExNjc5LDEwMjU1MDYxNDgsLTM0NDIyNTk5
-OSwtMzU0MTI3NTE0LDE2MzkwMzQzMTQsLTE0OTY4NDc2MDQsMT
-A0MzY1NTUxOCwtMTU4Nzg4MTQ1NiwtMjExOTc2MDk3OF19
+eyJoaXN0b3J5IjpbLTI1NzE2MjY1Nyw4Njc1Mzc2OTYsMTMwOT
+Q0NzIwNCwtNTM2MTI5NzcxLC05NzMxMjgyMDgsLTE0NzAxMDMx
+NjIsMTE4MzEzNDQzNiwxMDM0MjQ5NDQyLDUyNjY1MDg5MSwtMz
+U2OTczMTI2LDY5MDQ3MjgwNSwzNzA2MTE2NzksMTAyNTUwNjE0
+OCwtMzQ0MjI1OTk5LC0zNTQxMjc1MTQsMTYzOTAzNDMxNCwtMT
+Q5Njg0NzYwNCwxMDQzNjU1NTE4LC0xNTg3ODgxNDU2LC0yMTE5
+NzYwOTc4XX0=
 -->
