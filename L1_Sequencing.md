@@ -7,7 +7,7 @@ good for de novo Genome Assembly
 	+ immobilize DNA polymerase with a single molecule of DNA template and primer to a ZMW (zero-mode waveguides, tiny wells in a SMRT cell)
 - sequencing
 	+ add nucleotides attached with fluorescent dyes
-	+ detect the fluorescent
+	+ detect the fluorescent signal of the nucleotide incorporated by the DNA polymerase
 	+ measure nucleotides in real-time
 
 ### advantages 
@@ -29,7 +29,7 @@ long reads, the highest consensus accuracy, uniform coverage, simultaneous epige
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMTI4MzA0LC0zNTQxMjc1MTQsMTYzOT
+eyJoaXN0b3J5IjpbNzU0Njc5OTI2LC0zNTQxMjc1MTQsMTYzOT
 AzNDMxNCwtMTQ5Njg0NzYwNCwxMDQzNjU1NTE4LC0xNTg3ODgx
 NDU2LC0yMTE5NzYwOTc4XX0=
 -->
