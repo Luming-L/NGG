@@ -15,9 +15,11 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 ## De novo assembly using TGS technologies
 
 ## Genome alignment and assembly tools for TGS
+
+## Tools for genome-based sequence analysis
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1MTA0OTczLDQ1MjAwMDY5OSwyMjQyMD
-U1MzcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTc5Nzg3NzU2Myw0NTIwMDA2OTksMjI0Mj
+A1NTM3LDczMDk5ODExNl19
 -->
