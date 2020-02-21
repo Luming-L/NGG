@@ -20,6 +20,7 @@ De novo long-read genome assembly involves in several steps:
 	- use short reads to correct long reads 
 - assembly of corrected reads
 - assembly polishing
+	- use short or long reads
 
 for all overlap
 overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
@@ -33,8 +34,9 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDM2MzY1MiwtMTk4MDE0NDE0NSw5ND
-U5MTc4OTksLTE3OTIxNzE5NzQsNTY1OTI2MzYyLDE0MjU2Nzg0
-NTAsNzQzNjE1OTM0LDIxMjE1NDExMzUsMTMzMDUxNDUzOSw0NT
-IwMDA2OTksMjI0MjA1NTM3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODgxMjUwMzc0LC0zNjAzNjM2NTIsLTE5OD
+AxNDQxNDUsOTQ1OTE3ODk5LC0xNzkyMTcxOTc0LDU2NTkyNjM2
+MiwxNDI1Njc4NDUwLDc0MzYxNTkzNCwyMTIxNTQxMTM1LDEzMz
+A1MTQ1MzksNDUyMDAwNjk5LDIyNDIwNTUzNyw3MzA5OTgxMTZd
+fQ==
 -->
