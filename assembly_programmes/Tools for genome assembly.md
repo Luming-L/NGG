@@ -24,7 +24,8 @@ De novo long-read genome assembly involves in several steps:
 
 algorithm
 - overlap-layout-consensus (OLC)
-- de Bruijn g
+- de Bruijn graphs (DBG)
+- string graphs
 
 for all overlap
 overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
@@ -38,9 +39,9 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTA3MzYwNiw4ODEyNTAzNzQsLTM2MD
-M2MzY1MiwtMTk4MDE0NDE0NSw5NDU5MTc4OTksLTE3OTIxNzE5
-NzQsNTY1OTI2MzYyLDE0MjU2Nzg0NTAsNzQzNjE1OTM0LDIxMj
-E1NDExMzUsMTMzMDUxNDUzOSw0NTIwMDA2OTksMjI0MjA1NTM3
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTU2MjA0NzU3LDg4MTI1MDM3NCwtMzYwMz
+YzNjUyLC0xOTgwMTQ0MTQ1LDk0NTkxNzg5OSwtMTc5MjE3MTk3
+NCw1NjU5MjYzNjIsMTQyNTY3ODQ1MCw3NDM2MTU5MzQsMjEyMT
+U0MTEzNSwxMzMwNTE0NTM5LDQ1MjAwMDY5OSwyMjQyMDU1Mzcs
+NzMwOTk4MTE2XX0=
 -->
