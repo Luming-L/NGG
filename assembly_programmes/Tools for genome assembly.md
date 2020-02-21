@@ -15,12 +15,13 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 ## De novo assembly using TGS technologies
 De novo long-read genome assembly involves in several steps:
 - raw read mapping
+
+- read error correction
+- assembly of corrected reads
 	- overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 		- generate alignments between long reads
 		- calculate the best overlap graph
 		- generate the consensus sequence of the contigs from the graph
-- read error correction
-- assembly of corrected reads
 - assembly polishing
 - 
 ### Genome alignment and assembly tools for TGS platform
@@ -30,7 +31,7 @@ De novo long-read genome assembly involves in several steps:
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1OTI2MzYyLDE0MjU2Nzg0NTAsNzQzNj
-E1OTM0LDIxMjE1NDExMzUsMTMzMDUxNDUzOSw0NTIwMDA2OTks
-MjI0MjA1NTM3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE3OTIxNzE5NzQsNTY1OTI2MzYyLDE0Mj
+U2Nzg0NTAsNzQzNjE1OTM0LDIxMjE1NDExMzUsMTMzMDUxNDUz
+OSw0NTIwMDA2OTksMjI0MjA1NTM3LDczMDk5ODExNl19
 -->
