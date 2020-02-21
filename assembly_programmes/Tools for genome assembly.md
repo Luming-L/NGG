@@ -22,6 +22,10 @@ De novo long-read genome assembly involves in several steps:
 - assembly polishing
 	- use short or long reads
 
+algorithm
+- overlap-layout-consensus (OLC)
+- de Bruijn g
+
 for all overlap
 overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 - generate alignments between long reads
@@ -34,9 +38,9 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxMjUwMzc0LC0zNjAzNjM2NTIsLTE5OD
-AxNDQxNDUsOTQ1OTE3ODk5LC0xNzkyMTcxOTc0LDU2NTkyNjM2
-MiwxNDI1Njc4NDUwLDc0MzYxNTkzNCwyMTIxNTQxMTM1LDEzMz
-A1MTQ1MzksNDUyMDAwNjk5LDIyNDIwNTUzNyw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTQxMTA3MzYwNiw4ODEyNTAzNzQsLTM2MD
+M2MzY1MiwtMTk4MDE0NDE0NSw5NDU5MTc4OTksLTE3OTIxNzE5
+NzQsNTY1OTI2MzYyLDE0MjU2Nzg0NTAsNzQzNjE1OTM0LDIxMj
+E1NDExMzUsMTMzMDUxNDUzOSw0NTIwMDA2OTksMjI0MjA1NTM3
+LDczMDk5ODExNl19
 -->
