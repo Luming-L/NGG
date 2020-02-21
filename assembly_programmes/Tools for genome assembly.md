@@ -13,7 +13,7 @@ This review evaluates various tools applied in three main TGS platforms on genom
 Details of each approach along with its benefits and drawbacks are discussed. 
 Two distinct decision trees are presented to guide researchers for selecting a suitable TGS de novo and genome-based sequencing analysis tools.
 ## De novo assembly using TGS technologies
-De novo long-read genome assembly involves in several steps:
+### Steps in de novo long-read genome assembly
 - preassembly
 	- raw read mapping
 	- read error correction
@@ -27,7 +27,10 @@ De novo long-read genome assembly involves in several steps:
 - assembly polishing
 	- use short or long reads
 	- solve indels and substitutions
-
+### Tools for SM
+MinHash Alignment Process
+(MHAP),PBJelly,Hierarchical Genome-Assembly Process (HGAP),
+FALCON and HINGE utilize long reads from SMRT platforms. 
 
 for all overlap
 overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
@@ -41,10 +44,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk1MTQ2ODAsLTEwMDIwOTE2NjQsMT
-Y4ODYxNjc3MywtMTU1NTUxNTM2LDE1NjIwNDc1NywxNTYyMDQ3
-NTcsODgxMjUwMzc0LC0zNjAzNjM2NTIsLTE5ODAxNDQxNDUsOT
-Q1OTE3ODk5LC0xNzkyMTcxOTc0LDU2NTkyNjM2MiwxNDI1Njc4
-NDUwLDc0MzYxNTkzNCwyMTIxNTQxMTM1LDEzMzA1MTQ1MzksND
-UyMDAwNjk5LDIyNDIwNTUzNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2MTk0NDY5MjYsLTE3Mjk1MTQ2ODAsLT
+EwMDIwOTE2NjQsMTY4ODYxNjc3MywtMTU1NTUxNTM2LDE1NjIw
+NDc1NywxNTYyMDQ3NTcsODgxMjUwMzc0LC0zNjAzNjM2NTIsLT
+E5ODAxNDQxNDUsOTQ1OTE3ODk5LC0xNzkyMTcxOTc0LDU2NTky
+NjM2MiwxNDI1Njc4NDUwLDc0MzYxNTkzNCwyMTIxNTQxMTM1LD
+EzMzA1MTQ1MzksNDUyMDAwNjk5LDIyNDIwNTUzNyw3MzA5OTgx
+MTZdfQ==
 -->
