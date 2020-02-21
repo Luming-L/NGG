@@ -34,7 +34,9 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 	- use a probabilistic Hashing algorithm
 	- The algorithm works by estimating the Jaccard similarity based on the minimum k-mers
 	- index, store, hash, compare k-mers
-- PBJelly,Hierarchical Genome-Assembly Process (HGAP)
+- PBJelly
+	- use scaffolding approach for gap closing
+- Hierarchical Genome-Assembly Process (HGAP)
 - FALCON
 - HINGE 
 
@@ -50,11 +52,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5NjI2ODk1LDIxMDg4MDUyOTksMzU3MT
-M0NjM0LC0xNzI5NTE0NjgwLC0xMDAyMDkxNjY0LDE2ODg2MTY3
-NzMsLTE1NTU1MTUzNiwxNTYyMDQ3NTcsMTU2MjA0NzU3LDg4MT
-I1MDM3NCwtMzYwMzYzNjUyLC0xOTgwMTQ0MTQ1LDk0NTkxNzg5
-OSwtMTc5MjE3MTk3NCw1NjU5MjYzNjIsMTQyNTY3ODQ1MCw3ND
-M2MTU5MzQsMjEyMTU0MTEzNSwxMzMwNTE0NTM5LDQ1MjAwMDY5
-OV19
+eyJoaXN0b3J5IjpbMTQ3NzA5MTIzMCw4Nzk2MjY4OTUsMjEwOD
+gwNTI5OSwzNTcxMzQ2MzQsLTE3Mjk1MTQ2ODAsLTEwMDIwOTE2
+NjQsMTY4ODYxNjc3MywtMTU1NTUxNTM2LDE1NjIwNDc1NywxNT
+YyMDQ3NTcsODgxMjUwMzc0LC0zNjAzNjM2NTIsLTE5ODAxNDQx
+NDUsOTQ1OTE3ODk5LC0xNzkyMTcxOTc0LDU2NTkyNjM2MiwxND
+I1Njc4NDUwLDc0MzYxNTkzNCwyMTIxNTQxMTM1LDEzMzA1MTQ1
+MzldfQ==
 -->
