@@ -21,6 +21,10 @@ De novo long-read genome assembly involves in several steps:
 - assembly of corrected reads
 - assembly polishing
 
+overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
+- generate alignments between long reads
+- calculate the best overlap graph
+- generate the consensus sequence of the contigs from the graph
 ### Genome alignment and assembly tools for TGS platform
 ### Sequencing tools for hybrid technologies of both NGS and TGS
 
@@ -28,8 +32,8 @@ De novo long-read genome assembly involves in several steps:
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAxNDQxNDUsOTQ1OTE3ODk5LC0xNz
-kyMTcxOTc0LDU2NTkyNjM2MiwxNDI1Njc4NDUwLDc0MzYxNTkz
-NCwyMTIxNTQxMTM1LDEzMzA1MTQ1MzksNDUyMDAwNjk5LDIyND
-IwNTUzNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTczNzAyNzgwMywtMTk4MDE0NDE0NSw5ND
+U5MTc4OTksLTE3OTIxNzE5NzQsNTY1OTI2MzYyLDE0MjU2Nzg0
+NTAsNzQzNjE1OTM0LDIxMjE1NDExMzUsMTMzMDUxNDUzOSw0NT
+IwMDA2OTksMjI0MjA1NTM3LDczMDk5ODExNl19
 -->
