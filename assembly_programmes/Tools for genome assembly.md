@@ -32,7 +32,7 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 - MinHash Alignment Process (MHAP)
 	- identify all overlaps among noisy long reads
 	- use a probabilistic Hashing algorithm
-	- The algorithm works by 
+	- The algorithm works by estimating the Jaccard similarity based on the minimum k-mers
 - PBJelly,Hierarchical Genome-Assembly Process (HGAP)
 - FALCON
 - HINGE 
@@ -49,11 +49,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTcyNDM5MzAsMzU3MTM0NjM0LC0xNz
-I5NTE0NjgwLC0xMDAyMDkxNjY0LDE2ODg2MTY3NzMsLTE1NTU1
-MTUzNiwxNTYyMDQ3NTcsMTU2MjA0NzU3LDg4MTI1MDM3NCwtMz
-YwMzYzNjUyLC0xOTgwMTQ0MTQ1LDk0NTkxNzg5OSwtMTc5MjE3
-MTk3NCw1NjU5MjYzNjIsMTQyNTY3ODQ1MCw3NDM2MTU5MzQsMj
-EyMTU0MTEzNSwxMzMwNTE0NTM5LDQ1MjAwMDY5OSwyMjQyMDU1
-MzddfQ==
+eyJoaXN0b3J5IjpbMjEwODgwNTI5OSwzNTcxMzQ2MzQsLTE3Mj
+k1MTQ2ODAsLTEwMDIwOTE2NjQsMTY4ODYxNjc3MywtMTU1NTUx
+NTM2LDE1NjIwNDc1NywxNTYyMDQ3NTcsODgxMjUwMzc0LC0zNj
+AzNjM2NTIsLTE5ODAxNDQxNDUsOTQ1OTE3ODk5LC0xNzkyMTcx
+OTc0LDU2NTkyNjM2MiwxNDI1Njc4NDUwLDc0MzYxNTkzNCwyMT
+IxNTQxMTM1LDEzMzA1MTQ1MzksNDUyMDAwNjk5LDIyNDIwNTUz
+N119
 -->
