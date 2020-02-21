@@ -27,10 +27,12 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 - assembly polishing
 	- use short or long reads
 	- solve indels and substitutions
-### Tools for SM
-MinHash Alignment Process
-(MHAP),PBJelly,Hierarchical Genome-Assembly Process (HGAP),
-FALCON and HINGE utilize long reads from SMRT platforms. 
+
+### Tools for SMRT
+- MinHash Alignment Process (MHAP)
+- PBJelly,Hierarchical Genome-Assembly Process (HGAP)
+- FALCON
+- HINGE 
 
 for all overlap
 overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
@@ -44,11 +46,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk0NDY5MjYsLTE3Mjk1MTQ2ODAsLT
-EwMDIwOTE2NjQsMTY4ODYxNjc3MywtMTU1NTUxNTM2LDE1NjIw
-NDc1NywxNTYyMDQ3NTcsODgxMjUwMzc0LC0zNjAzNjM2NTIsLT
-E5ODAxNDQxNDUsOTQ1OTE3ODk5LC0xNzkyMTcxOTc0LDU2NTky
-NjM2MiwxNDI1Njc4NDUwLDc0MzYxNTkzNCwyMTIxNTQxMTM1LD
-EzMzA1MTQ1MzksNDUyMDAwNjk5LDIyNDIwNTUzNyw3MzA5OTgx
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTU1OTI5MTg2NCwtMTcyOTUxNDY4MCwtMT
+AwMjA5MTY2NCwxNjg4NjE2NzczLC0xNTU1NTE1MzYsMTU2MjA0
+NzU3LDE1NjIwNDc1Nyw4ODEyNTAzNzQsLTM2MDM2MzY1MiwtMT
+k4MDE0NDE0NSw5NDU5MTc4OTksLTE3OTIxNzE5NzQsNTY1OTI2
+MzYyLDE0MjU2Nzg0NTAsNzQzNjE1OTM0LDIxMjE1NDExMzUsMT
+MzMDUxNDUzOSw0NTIwMDA2OTksMjI0MjA1NTM3LDczMDk5ODEx
+Nl19
 -->
