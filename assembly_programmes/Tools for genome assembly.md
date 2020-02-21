@@ -33,6 +33,7 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 	- identify all overlaps among noisy long reads
 	- use a probabilistic Hashing algorithm
 	- The algorithm works by estimating the Jaccard similarity based on the minimum k-mers
+	- index, store, hash, compare k-mers
 - PBJelly,Hierarchical Genome-Assembly Process (HGAP)
 - FALCON
 - HINGE 
@@ -49,11 +50,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODgwNTI5OSwzNTcxMzQ2MzQsLTE3Mj
-k1MTQ2ODAsLTEwMDIwOTE2NjQsMTY4ODYxNjc3MywtMTU1NTUx
-NTM2LDE1NjIwNDc1NywxNTYyMDQ3NTcsODgxMjUwMzc0LC0zNj
-AzNjM2NTIsLTE5ODAxNDQxNDUsOTQ1OTE3ODk5LC0xNzkyMTcx
-OTc0LDU2NTkyNjM2MiwxNDI1Njc4NDUwLDc0MzYxNTkzNCwyMT
-IxNTQxMTM1LDEzMzA1MTQ1MzksNDUyMDAwNjk5LDIyNDIwNTUz
-N119
+eyJoaXN0b3J5IjpbODc5NjI2ODk1LDIxMDg4MDUyOTksMzU3MT
+M0NjM0LC0xNzI5NTE0NjgwLC0xMDAyMDkxNjY0LDE2ODg2MTY3
+NzMsLTE1NTU1MTUzNiwxNTYyMDQ3NTcsMTU2MjA0NzU3LDg4MT
+I1MDM3NCwtMzYwMzYzNjUyLC0xOTgwMTQ0MTQ1LDk0NTkxNzg5
+OSwtMTc5MjE3MTk3NCw1NjU5MjYzNjIsMTQyNTY3ODQ1MCw3ND
+M2MTU5MzQsMjEyMTU0MTEzNSwxMzMwNTE0NTM5LDQ1MjAwMDY5
+OV19
 -->
