@@ -14,7 +14,7 @@ Details of each approach along with its benefits and drawbacks are discussed.
 Two distinct decision trees are presented to guide researchers for selecting a suitable TGS de novo and genome-based sequencing analysis tools.
 ## De novo assembly using TGS technologies
 De novo long-read genome assembly involves in several steps:
-- raw read mapping
+- raw read preassembly
 - read error correction
 	- align long reads against themselves
 	- use short reads to correct long reads 
@@ -39,9 +39,10 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjA0NzU3LC0xNTU1NTE1MzYsMTU2Mj
-A0NzU3LDg4MTI1MDM3NCwtMzYwMzYzNjUyLC0xOTgwMTQ0MTQ1
-LDk0NTkxNzg5OSwtMTc5MjE3MTk3NCw1NjU5MjYzNjIsMTQyNT
-Y3ODQ1MCw3NDM2MTU5MzQsMjEyMTU0MTEzNSwxMzMwNTE0NTM5
-LDQ1MjAwMDY5OSwyMjQyMDU1MzcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1NTU1MTUzNiwxNTYyMDQ3NTcsLTE1NT
+U1MTUzNiwxNTYyMDQ3NTcsODgxMjUwMzc0LC0zNjAzNjM2NTIs
+LTE5ODAxNDQxNDUsOTQ1OTE3ODk5LC0xNzkyMTcxOTc0LDU2NT
+kyNjM2MiwxNDI1Njc4NDUwLDc0MzYxNTkzNCwyMTIxNTQxMTM1
+LDEzMzA1MTQ1MzksNDUyMDAwNjk5LDIyNDIwNTUzNyw3MzA5OT
+gxMTZdfQ==
 -->
