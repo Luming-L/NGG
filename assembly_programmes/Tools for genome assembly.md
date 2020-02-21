@@ -30,7 +30,9 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 
 ### Tools for SMRT
 - MinHash Alignment Process (MHAP)
-	- identify all overlaps 
+	- identify all overlaps among noisy long reads
+	- use a probabilistic Hashing algorithm
+	- The algorithm works by 
 - PBJelly,Hierarchical Genome-Assembly Process (HGAP)
 - FALCON
 - HINGE 
@@ -47,11 +49,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MTM0NjM0LC0xNzI5NTE0NjgwLC0xMD
-AyMDkxNjY0LDE2ODg2MTY3NzMsLTE1NTU1MTUzNiwxNTYyMDQ3
-NTcsMTU2MjA0NzU3LDg4MTI1MDM3NCwtMzYwMzYzNjUyLC0xOT
-gwMTQ0MTQ1LDk0NTkxNzg5OSwtMTc5MjE3MTk3NCw1NjU5MjYz
-NjIsMTQyNTY3ODQ1MCw3NDM2MTU5MzQsMjEyMTU0MTEzNSwxMz
-MwNTE0NTM5LDQ1MjAwMDY5OSwyMjQyMDU1MzcsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTE3NTcyNDM5MzAsMzU3MTM0NjM0LC0xNz
+I5NTE0NjgwLC0xMDAyMDkxNjY0LDE2ODg2MTY3NzMsLTE1NTU1
+MTUzNiwxNTYyMDQ3NTcsMTU2MjA0NzU3LDg4MTI1MDM3NCwtMz
+YwMzYzNjUyLC0xOTgwMTQ0MTQ1LDk0NTkxNzg5OSwtMTc5MjE3
+MTk3NCw1NjU5MjYzNjIsMTQyNTY3ODQ1MCw3NDM2MTU5MzQsMj
+EyMTU0MTEzNSwxMzMwNTE0NTM5LDQ1MjAwMDY5OSwyMjQyMDU1
+MzddfQ==
 -->
