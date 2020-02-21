@@ -30,6 +30,7 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 
 ### Tools for SMRT
 - MinHash Alignment Process (MHAP)
+	- identify all overlaps 
 - PBJelly,Hierarchical Genome-Assembly Process (HGAP)
 - FALCON
 - HINGE 
@@ -46,11 +47,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTI5MTg2NCwtMTcyOTUxNDY4MCwtMT
-AwMjA5MTY2NCwxNjg4NjE2NzczLC0xNTU1NTE1MzYsMTU2MjA0
-NzU3LDE1NjIwNDc1Nyw4ODEyNTAzNzQsLTM2MDM2MzY1MiwtMT
-k4MDE0NDE0NSw5NDU5MTc4OTksLTE3OTIxNzE5NzQsNTY1OTI2
-MzYyLDE0MjU2Nzg0NTAsNzQzNjE1OTM0LDIxMjE1NDExMzUsMT
-MzMDUxNDUzOSw0NTIwMDA2OTksMjI0MjA1NTM3LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbMzU3MTM0NjM0LC0xNzI5NTE0NjgwLC0xMD
+AyMDkxNjY0LDE2ODg2MTY3NzMsLTE1NTU1MTUzNiwxNTYyMDQ3
+NTcsMTU2MjA0NzU3LDg4MTI1MDM3NCwtMzYwMzYzNjUyLC0xOT
+gwMTQ0MTQ1LDk0NTkxNzg5OSwtMTc5MjE3MTk3NCw1NjU5MjYz
+NjIsMTQyNTY3ODQ1MCw3NDM2MTU5MzQsMjEyMTU0MTEzNSwxMz
+MwNTE0NTM5LDQ1MjAwMDY5OSwyMjQyMDU1MzcsNzMwOTk4MTE2
+XX0=
 -->
