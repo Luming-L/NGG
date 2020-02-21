@@ -41,6 +41,8 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 - FALCON
 - HINGE 
 
+Both HGAP and PBJelly are applicable for bacterial-sized genomes and MHAP is used in eukaryotic-sized genomes. 
+
 for all overlap
 overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 - generate alignments between long reads
@@ -53,11 +55,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA1MjMzNDIsMTQ3NzA5MTIzMCw4Nz
-k2MjY4OTUsMjEwODgwNTI5OSwzNTcxMzQ2MzQsLTE3Mjk1MTQ2
-ODAsLTEwMDIwOTE2NjQsMTY4ODYxNjc3MywtMTU1NTUxNTM2LD
-E1NjIwNDc1NywxNTYyMDQ3NTcsODgxMjUwMzc0LC0zNjAzNjM2
-NTIsLTE5ODAxNDQxNDUsOTQ1OTE3ODk5LC0xNzkyMTcxOTc0LD
-U2NTkyNjM2MiwxNDI1Njc4NDUwLDc0MzYxNTkzNCwyMTIxNTQx
-MTM1XX0=
+eyJoaXN0b3J5IjpbLTIxNDEwMTMzODgsLTE1MDA1MjMzNDIsMT
+Q3NzA5MTIzMCw4Nzk2MjY4OTUsMjEwODgwNTI5OSwzNTcxMzQ2
+MzQsLTE3Mjk1MTQ2ODAsLTEwMDIwOTE2NjQsMTY4ODYxNjc3My
+wtMTU1NTUxNTM2LDE1NjIwNDc1NywxNTYyMDQ3NTcsODgxMjUw
+Mzc0LC0zNjAzNjM2NTIsLTE5ODAxNDQxNDUsOTQ1OTE3ODk5LC
+0xNzkyMTcxOTc0LDU2NTkyNjM2MiwxNDI1Njc4NDUwLDc0MzYx
+NTkzNF19
 -->
