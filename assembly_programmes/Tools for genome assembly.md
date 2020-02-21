@@ -26,6 +26,7 @@ De novo long-read genome assembly involves in several steps:
 		- string graphs
 - assembly polishing
 	- use short or long reads
+	- solve indels and substitutions
 
 
 for all overlap
@@ -40,10 +41,10 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIwOTE2NjQsMTY4ODYxNjc3MywtMT
-U1NTUxNTM2LDE1NjIwNDc1NywxNTYyMDQ3NTcsODgxMjUwMzc0
-LC0zNjAzNjM2NTIsLTE5ODAxNDQxNDUsOTQ1OTE3ODk5LC0xNz
-kyMTcxOTc0LDU2NTkyNjM2MiwxNDI1Njc4NDUwLDc0MzYxNTkz
-NCwyMTIxNTQxMTM1LDEzMzA1MTQ1MzksNDUyMDAwNjk5LDIyND
-IwNTUzNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjk1MTQ2ODAsLTEwMDIwOTE2NjQsMT
+Y4ODYxNjc3MywtMTU1NTUxNTM2LDE1NjIwNDc1NywxNTYyMDQ3
+NTcsODgxMjUwMzc0LC0zNjAzNjM2NTIsLTE5ODAxNDQxNDUsOT
+Q1OTE3ODk5LC0xNzkyMTcxOTc0LDU2NTkyNjM2MiwxNDI1Njc4
+NDUwLDc0MzYxNTkzNCwyMTIxNTQxMTM1LDEzMzA1MTQ1MzksND
+UyMDAwNjk5LDIyNDIwNTUzNyw3MzA5OTgxMTZdfQ==
 -->
