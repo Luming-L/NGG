@@ -15,12 +15,9 @@ algorithms for de novo assembly
 - Overlap layout consensus (OLC) approach 
 - de Bruijn graphs 
 - string graphs 
-SMS data has the high error rates. Hence, de Bruijn graphs was unfeasible, OLC approach along with the string
-
-graphs to higher prominence. 
-
+SMS data has the high error rates. Hence, de Bruijn graphs was unfeasible, OLC approach and the string graphs are more suitable.
 > [assembler evaluation](https://academic.oup.com/bib/article/20/3/866/4590140)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzYyODc3Myw0MjE3MDg0MjYsLTE4Nj
-E0NjQwNF19
+eyJoaXN0b3J5IjpbNzU0ODQzMjgxLDQyMTcwODQyNiwtMTg2MT
+Q2NDA0XX0=
 -->
