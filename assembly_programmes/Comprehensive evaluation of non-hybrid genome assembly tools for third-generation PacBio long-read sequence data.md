@@ -8,13 +8,16 @@ non-hybrid genome assembly tools
 different taxonomic categories 
 different genome size
 
+
+
+## Long-read assembly pipelines
+algorithms for de novo assembly 
 - Overlap layout consensus (OLC) approach 
 - de Bruijn graphs 
-- string graphs algorithms for de novoassembly 
-## Long-read assembly pipelines
+- string graphs 
 
 > [assembler evaluation](https://academic.oup.com/bib/article/20/3/866/4590140)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzkzNTE2LDQyMTcwODQyNiwtMTg2MT
-Q2NDA0XX0=
+eyJoaXN0b3J5IjpbMTIzNDIwMDM4MCw0MjE3MDg0MjYsLTE4Nj
+E0NjQwNF19
 -->
