@@ -40,7 +40,7 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 	- apply the longest reads for assembling a sequence genome
 - FALCON
 	- hierarchical haplotype genome assembly
-	- 
+	- utilize more computationally optimized elements
 - HINGE 
 
 Both HGAP and PBJelly are applicable for bacterial-sized genomes and MHAP is used in eukaryotic-sized genomes. 
@@ -57,11 +57,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjIxNDkzMCwzMTQ2ODcxMTUsLTIxND
-EwMTMzODgsLTE1MDA1MjMzNDIsMTQ3NzA5MTIzMCw4Nzk2MjY4
-OTUsMjEwODgwNTI5OSwzNTcxMzQ2MzQsLTE3Mjk1MTQ2ODAsLT
-EwMDIwOTE2NjQsMTY4ODYxNjc3MywtMTU1NTUxNTM2LDE1NjIw
-NDc1NywxNTYyMDQ3NTcsODgxMjUwMzc0LC0zNjAzNjM2NTIsLT
-E5ODAxNDQxNDUsOTQ1OTE3ODk5LC0xNzkyMTcxOTc0LDU2NTky
-NjM2Ml19
+eyJoaXN0b3J5IjpbMTgxNzA2MTE3NCwtNTQ2MjE0OTMwLDMxND
+Y4NzExNSwtMjE0MTAxMzM4OCwtMTUwMDUyMzM0MiwxNDc3MDkx
+MjMwLDg3OTYyNjg5NSwyMTA4ODA1Mjk5LDM1NzEzNDYzNCwtMT
+cyOTUxNDY4MCwtMTAwMjA5MTY2NCwxNjg4NjE2NzczLC0xNTU1
+NTE1MzYsMTU2MjA0NzU3LDE1NjIwNDc1Nyw4ODEyNTAzNzQsLT
+M2MDM2MzY1MiwtMTk4MDE0NDE0NSw5NDU5MTc4OTksLTE3OTIx
+NzE5NzRdfQ==
 -->
