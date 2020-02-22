@@ -16,8 +16,9 @@ algorithms for de novo assembly
 - de Bruijn graphs 
 - string graphs 
 SMS data has the high error rates. Hence, de Bruijn graphs was unfeasible, OLC approach and the string graphs are more suitable.
+
 > [assembler evaluation](https://academic.oup.com/bib/article/20/3/866/4590140)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0ODQzMjgxLDQyMTcwODQyNiwtMTg2MT
-Q2NDA0XX0=
+eyJoaXN0b3J5IjpbMTMyOTkwNzU1LDc1NDg0MzI4MSw0MjE3MD
+g0MjYsLTE4NjE0NjQwNF19
 -->
