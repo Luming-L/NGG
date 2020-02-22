@@ -44,6 +44,9 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 - HINGE 
 	- OLC paradigm
 	- not error correction
+- Minimap/miniasm
+- Circlator
+- Canu
 
 Both HGAP and PBJelly are applicable for bacterial-sized genomes and MHAP is used in eukaryotic-sized genomes. 
 
@@ -59,11 +62,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDExMjI0NDQsMTgxNzA2MTE3NCwtNT
-Q2MjE0OTMwLDMxNDY4NzExNSwtMjE0MTAxMzM4OCwtMTUwMDUy
-MzM0MiwxNDc3MDkxMjMwLDg3OTYyNjg5NSwyMTA4ODA1Mjk5LD
-M1NzEzNDYzNCwtMTcyOTUxNDY4MCwtMTAwMjA5MTY2NCwxNjg4
-NjE2NzczLC0xNTU1NTE1MzYsMTU2MjA0NzU3LDE1NjIwNDc1Ny
-w4ODEyNTAzNzQsLTM2MDM2MzY1MiwtMTk4MDE0NDE0NSw5NDU5
-MTc4OTldfQ==
+eyJoaXN0b3J5IjpbLTEyNDAxNzA3MjcsLTEzMDExMjI0NDQsMT
+gxNzA2MTE3NCwtNTQ2MjE0OTMwLDMxNDY4NzExNSwtMjE0MTAx
+MzM4OCwtMTUwMDUyMzM0MiwxNDc3MDkxMjMwLDg3OTYyNjg5NS
+wyMTA4ODA1Mjk5LDM1NzEzNDYzNCwtMTcyOTUxNDY4MCwtMTAw
+MjA5MTY2NCwxNjg4NjE2NzczLC0xNTU1NTE1MzYsMTU2MjA0Nz
+U3LDE1NjIwNDc1Nyw4ODEyNTAzNzQsLTM2MDM2MzY1MiwtMTk4
+MDE0NDE0NV19
 -->
