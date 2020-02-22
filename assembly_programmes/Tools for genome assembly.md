@@ -50,7 +50,7 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 	- discovers long noisy reads that can be assembled without an error correction stage 
 - Circlator
 	- automate the assembly 
-	- produce accurate linear representation of si'r'cu'la'r 
+	- produce accurate linear representation of circular sequences 
 - Canu
 
 Both HGAP and PBJelly are applicable for bacterial-sized genomes and MHAP is used in eukaryotic-sized genomes. 
@@ -67,11 +67,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY1NjQzNDksMTA2ODQ4ODI1Miw3Nj
-A0MjIyNzUsLTEyNDAxNzA3MjcsLTEzMDExMjI0NDQsMTgxNzA2
-MTE3NCwtNTQ2MjE0OTMwLDMxNDY4NzExNSwtMjE0MTAxMzM4OC
-wtMTUwMDUyMzM0MiwxNDc3MDkxMjMwLDg3OTYyNjg5NSwyMTA4
-ODA1Mjk5LDM1NzEzNDYzNCwtMTcyOTUxNDY4MCwtMTAwMjA5MT
-Y2NCwxNjg4NjE2NzczLC0xNTU1NTE1MzYsMTU2MjA0NzU3LDE1
-NjIwNDc1N119
+eyJoaXN0b3J5IjpbMTI4NjAyNDE5NywxMDY4NDg4MjUyLDc2MD
+QyMjI3NSwtMTI0MDE3MDcyNywtMTMwMTEyMjQ0NCwxODE3MDYx
+MTc0LC01NDYyMTQ5MzAsMzE0Njg3MTE1LC0yMTQxMDEzMzg4LC
+0xNTAwNTIzMzQyLDE0NzcwOTEyMzAsODc5NjI2ODk1LDIxMDg4
+MDUyOTksMzU3MTM0NjM0LC0xNzI5NTE0NjgwLC0xMDAyMDkxNj
+Y0LDE2ODg2MTY3NzMsLTE1NTU1MTUzNiwxNTYyMDQ3NTcsMTU2
+MjA0NzU3XX0=
 -->
