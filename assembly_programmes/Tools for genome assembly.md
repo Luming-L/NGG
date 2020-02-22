@@ -46,7 +46,8 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 	- not error correction
 - Minimap/miniasm
 	- function as a mapper
-	- assemble SMRT and ONT reads with high accuracy 
+	- assemble SMRT and ONT reads with high accuracy
+	- discovers long noisy reads that can be assembled without an error correction stage 
 - Circlator
 - Canu
 
@@ -64,11 +65,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNDIyMjc1LC0xMjQwMTcwNzI3LC0xMz
-AxMTIyNDQ0LDE4MTcwNjExNzQsLTU0NjIxNDkzMCwzMTQ2ODcx
-MTUsLTIxNDEwMTMzODgsLTE1MDA1MjMzNDIsMTQ3NzA5MTIzMC
-w4Nzk2MjY4OTUsMjEwODgwNTI5OSwzNTcxMzQ2MzQsLTE3Mjk1
-MTQ2ODAsLTEwMDIwOTE2NjQsMTY4ODYxNjc3MywtMTU1NTUxNT
-M2LDE1NjIwNDc1NywxNTYyMDQ3NTcsODgxMjUwMzc0LC0zNjAz
-NjM2NTJdfQ==
+eyJoaXN0b3J5IjpbMTA2ODQ4ODI1Miw3NjA0MjIyNzUsLTEyND
+AxNzA3MjcsLTEzMDExMjI0NDQsMTgxNzA2MTE3NCwtNTQ2MjE0
+OTMwLDMxNDY4NzExNSwtMjE0MTAxMzM4OCwtMTUwMDUyMzM0Mi
+wxNDc3MDkxMjMwLDg3OTYyNjg5NSwyMTA4ODA1Mjk5LDM1NzEz
+NDYzNCwtMTcyOTUxNDY4MCwtMTAwMjA5MTY2NCwxNjg4NjE2Nz
+czLC0xNTU1NTE1MzYsMTU2MjA0NzU3LDE1NjIwNDc1Nyw4ODEy
+NTAzNzRdfQ==
 -->
