@@ -61,17 +61,17 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 - calculate the best overlap graph
 - generate the consensus sequence of the contigs from the graph
 ### Genome alignment and assembly tools for TGS platform
-### Sequencing tools for hybrid technologies of both NGS and TGS
+### Sequencing tools for hybrid technologies of Comprehensive evaluation of non-hybrid genome assembly tools for third-generation PacBio l both NGS and TGS
 
 ## Tools for genome-based sequence analysis
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjAyNDE5NywxMDY4NDg4MjUyLDc2MD
-QyMjI3NSwtMTI0MDE3MDcyNywtMTMwMTEyMjQ0NCwxODE3MDYx
-MTc0LC01NDYyMTQ5MzAsMzE0Njg3MTE1LC0yMTQxMDEzMzg4LC
-0xNTAwNTIzMzQyLDE0NzcwOTEyMzAsODc5NjI2ODk1LDIxMDg4
-MDUyOTksMzU3MTM0NjM0LC0xNzI5NTE0NjgwLC0xMDAyMDkxNj
-Y0LDE2ODg2MTY3NzMsLTE1NTU1MTUzNiwxNTYyMDQ3NTcsMTU2
-MjA0NzU3XX0=
+eyJoaXN0b3J5IjpbLTEzODU0NzkxNzEsMTI4NjAyNDE5NywxMD
+Y4NDg4MjUyLDc2MDQyMjI3NSwtMTI0MDE3MDcyNywtMTMwMTEy
+MjQ0NCwxODE3MDYxMTc0LC01NDYyMTQ5MzAsMzE0Njg3MTE1LC
+0yMTQxMDEzMzg4LC0xNTAwNTIzMzQyLDE0NzcwOTEyMzAsODc5
+NjI2ODk1LDIxMDg4MDUyOTksMzU3MTM0NjM0LC0xNzI5NTE0Nj
+gwLC0xMDAyMDkxNjY0LDE2ODg2MTY3NzMsLTE1NTU1MTUzNiwx
+NTYyMDQ3NTddfQ==
 -->
