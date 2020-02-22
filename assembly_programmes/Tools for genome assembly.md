@@ -45,6 +45,8 @@ Two distinct decision trees are presented to guide researchers for selecting a s
 	- OLC paradigm
 	- not error correction
 - Minimap/miniasm
+	- function as a mapper
+	- assemble SMRT and ONT reads with high accuracy 
 - Circlator
 - Canu
 
@@ -62,11 +64,11 @@ overlap-based procedures such as overlap-layout-consensus (OLC) algorithms
 platform
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAxNzA3MjcsLTEzMDExMjI0NDQsMT
-gxNzA2MTE3NCwtNTQ2MjE0OTMwLDMxNDY4NzExNSwtMjE0MTAx
-MzM4OCwtMTUwMDUyMzM0MiwxNDc3MDkxMjMwLDg3OTYyNjg5NS
-wyMTA4ODA1Mjk5LDM1NzEzNDYzNCwtMTcyOTUxNDY4MCwtMTAw
-MjA5MTY2NCwxNjg4NjE2NzczLC0xNTU1NTE1MzYsMTU2MjA0Nz
-U3LDE1NjIwNDc1Nyw4ODEyNTAzNzQsLTM2MDM2MzY1MiwtMTk4
-MDE0NDE0NV19
+eyJoaXN0b3J5IjpbNzYwNDIyMjc1LC0xMjQwMTcwNzI3LC0xMz
+AxMTIyNDQ0LDE4MTcwNjExNzQsLTU0NjIxNDkzMCwzMTQ2ODcx
+MTUsLTIxNDEwMTMzODgsLTE1MDA1MjMzNDIsMTQ3NzA5MTIzMC
+w4Nzk2MjY4OTUsMjEwODgwNTI5OSwzNTcxMzQ2MzQsLTE3Mjk1
+MTQ2ODAsLTEwMDIwOTE2NjQsMTY4ODYxNjc3MywtMTU1NTUxNT
+M2LDE1NjIwNDc1NywxNTYyMDQ3NTcsODgxMjUwMzc0LC0zNjAz
+NjM2NTJdfQ==
 -->
