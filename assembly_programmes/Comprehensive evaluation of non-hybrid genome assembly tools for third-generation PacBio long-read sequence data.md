@@ -22,10 +22,10 @@ Currently, most long-read OLC pipelines follow a hierarchical approach: use sing
 - use error-corrected reads for a draft assembly 
 - obtain a polished consensus of the draft assembly
 
-identify overla
+identify overlaps
 > [assembler evaluation](https://academic.oup.com/bib/article/20/3/866/4590140)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjE5OTYxMCwtODk2NjY1NzgyLDYzMT
-k0NTQ2MSw3NTQ4NDMyODEsNDIxNzA4NDI2LC0xODYxNDY0MDRd
-fQ==
+eyJoaXN0b3J5IjpbLTExNTU0MTgyOTUsLTg5NjY2NTc4Miw2Mz
+E5NDU0NjEsNzU0ODQzMjgxLDQyMTcwODQyNiwtMTg2MTQ2NDA0
+XX0=
 -->
