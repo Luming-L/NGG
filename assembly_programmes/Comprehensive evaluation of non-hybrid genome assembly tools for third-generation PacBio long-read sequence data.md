@@ -20,10 +20,10 @@ Currently, most long-read OLC pipelines follow a hierarchical approach: use sing
 - select a subset of longer reads as seed data
 - use shorter reads to align against the longer seed data as references, and correct sequencing errors by consensus of the aligned reads
 - use error-corrected reads for a draft assembly 
-- 
+- obtain a polished c
 > [assembler evaluation](https://academic.oup.com/bib/article/20/3/866/4590140)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxMzU4MTIzLC04OTY2NjU3ODIsNjMxOT
-Q1NDYxLDc1NDg0MzI4MSw0MjE3MDg0MjYsLTE4NjE0NjQwNF19
-
+eyJoaXN0b3J5IjpbLTE5NzI0ODQwNDAsLTg5NjY2NTc4Miw2Mz
+E5NDU0NjEsNzU0ODQzMjgxLDQyMTcwODQyNiwtMTg2MTQ2NDA0
+XX0=
 -->
