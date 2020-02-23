@@ -19,9 +19,9 @@ SMS data has the high error rates. Hence, de Bruijn graphs was unfeasible, OLC a
 Currently, most long-read OLC pipelines follow a hierarchical approach: use single-molecule sequencing data for long reads correction. 
 - select a subset of longer reads as seed data
 - use shorter reads to align against the longer seed data as references, and correct sequencing errors by consensus of the aligned reads
-- 
+- use error-corrected reads for a draft 
 > [assembler evaluation](https://academic.oup.com/bib/article/20/3/866/4590140)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTczODk5ODcsNjMxOTQ1NDYxLDc1ND
-g0MzI4MSw0MjE3MDg0MjYsLTE4NjE0NjQwNF19
+eyJoaXN0b3J5IjpbLTg5NjY2NTc4Miw2MzE5NDU0NjEsNzU0OD
+QzMjgxLDQyMTcwODQyNiwtMTg2MTQ2NDA0XX0=
 -->
