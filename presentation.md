@@ -160,15 +160,16 @@ C --> D
 
 ### Read patching
 #### sequencing jump
-a small region cannot be matched by 
+a small region cannot be matched by any reads
 #### Alignment breaks
-a 
+a larger region cannot be matched by any reads
 #### Noisy regions
+a region cannot be covered by a read, but there are some reads cover part of it
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MDAyOTk3LC0xNzY1OTMyNDg4LC0xMT
-Q4NTg2OTkyLC05NzcyNDYwNywyMDcxMjAzMDIsLTE5NDU1NjIz
-MjQsLTEzNTU4MTYxNzgsLTExMjI5NTcyMjQsMTU5MTM2MjkyMF
-19
+eyJoaXN0b3J5IjpbLTE2MzMyOTkxMDYsLTE3NjU5MzI0ODgsLT
+ExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEyMDMwMiwtMTk0NTU2
+MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1NzIyNCwxNTkxMzYyOT
+IwXX0=
 -->
