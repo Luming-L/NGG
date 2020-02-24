@@ -161,7 +161,7 @@ C --> D
 ### Read patching
 not correct reads
 repairs large-scale errors
-#### Broken alignment 
+#### Broken alignment - low quality
 In this region of the long read, the quality is quite low.
 As a result, the sequence in this region of th long read is not consistent with any reads. All the alignments to this long reads break here. 
 We look at the length of gaps in all alignments. If they are roughly identical, the fragment of one of the B reads can be extract to patch A.
@@ -169,19 +169,19 @@ We look at the length of gaps in all alignments. If they are roughly identical, 
 Another picture discribes a similar scenario.
 Here, we look at B1 and B2 from the perspective of A, so there are gaps in B1 and B2.
 Here, we look at A from the perspective of B1 and B2, respectively, so there is a gap in A.
-#### Noisy regions
+#### Noisy regions - not 
 The sequence is bad, but not bad enough to break all alignments. 
 We replace the low-quality region with B read spanning it.
 
 The alignment can continue at the native error rate.
 The longer the read, the more likely it encounter errors.
-
+Long reads are very valuable and we should preserve them.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM0NTIxOTMsLTU0MjI3NjcxMCwtMT
-YwNjA4ODY3NCwtMTI3MDc4MjU2NiwtMTU0MTUzMjE4OCwtMTYz
-MzI5OTEwNiwtMTc2NTkzMjQ4OCwtMTE0ODU4Njk5MiwtOTc3Mj
-Q2MDcsMjA3MTIwMzAyLC0xOTQ1NTYyMzI0LC0xMzU1ODE2MTc4
-LC0xMTIyOTU3MjI0LDE1OTEzNjI5MjBdfQ==
+eyJoaXN0b3J5IjpbMzgxODMyNzU2LC01NDIyNzY3MTAsLTE2MD
+YwODg2NzQsLTEyNzA3ODI1NjYsLTE1NDE1MzIxODgsLTE2MzMy
+OTkxMDYsLTE3NjU5MzI0ODgsLTExNDg1ODY5OTIsLTk3NzI0Nj
+A3LDIwNzEyMDMwMiwtMTk0NTU2MjMyNCwtMTM1NTgxNjE3OCwt
+MTEyMjk1NzIyNCwxNTkxMzYyOTIwXX0=
 -->
