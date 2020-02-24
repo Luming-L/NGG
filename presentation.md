@@ -161,14 +161,15 @@ C --> D
 ### Read patching
 #### Broken alignment 
 In this region of the long read, the quality is quite low.
-As a result, 
+As a result, all the alignments 
 #### Noisy regions
 a region cannot be covered by a read, but there are some reads cover part of it
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzA3ODI1NjYsLTE1NDE1MzIxODgsLT
-E2MzMyOTkxMDYsLTE3NjU5MzI0ODgsLTExNDg1ODY5OTIsLTk3
-NzI0NjA3LDIwNzEyMDMwMiwtMTk0NTU2MjMyNCwtMTM1NTgxNj
-E3OCwtMTEyMjk1NzIyNCwxNTkxMzYyOTIwXX0=
+eyJoaXN0b3J5IjpbLTg0NTM5OTY1MiwtMTI3MDc4MjU2NiwtMT
+U0MTUzMjE4OCwtMTYzMzI5OTEwNiwtMTc2NTkzMjQ4OCwtMTE0
+ODU4Njk5MiwtOTc3MjQ2MDcsMjA3MTIwMzAyLC0xOTQ1NTYyMz
+I0LC0xMzU1ODE2MTc4LC0xMTIyOTU3MjI0LDE1OTEzNjI5MjBd
+fQ==
 -->
