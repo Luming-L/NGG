@@ -168,13 +168,13 @@ Another picture discribes a similar scenario.
 Here, we look at B1 and B2 from the perspective of A, so there are gaps in B1 and B2.
 Here, we look at A from the perspective of B1 and B2, respectively, so there is a gap in A.
 #### Noisy regions
-a region cannot be covered by a read, but there are some reads cover part of it
-
+The sequence is bad, but not bad enough to break all alignments. 
+We replac
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYwODg2NzQsLTEyNzA3ODI1NjYsLT
-E1NDE1MzIxODgsLTE2MzMyOTkxMDYsLTE3NjU5MzI0ODgsLTEx
-NDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEyMDMwMiwtMTk0NTU2Mj
-MyNCwtMTM1NTgxNjE3OCwtMTEyMjk1NzIyNCwxNTkxMzYyOTIw
-XX0=
+eyJoaXN0b3J5IjpbMTc4NzQzNTk3MSwtMTYwNjA4ODY3NCwtMT
+I3MDc4MjU2NiwtMTU0MTUzMjE4OCwtMTYzMzI5OTEwNiwtMTc2
+NTkzMjQ4OCwtMTE0ODU4Njk5MiwtOTc3MjQ2MDcsMjA3MTIwMz
+AyLC0xOTQ1NTYyMzI0LC0xMzU1ODE2MTc4LC0xMTIyOTU3MjI0
+LDE1OTEzNjI5MjBdfQ==
 -->
