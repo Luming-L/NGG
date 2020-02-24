@@ -163,7 +163,7 @@ C --> D
 a small region cannot be matched with any reads
 A is a long read. B1 and B2 are reads aligned to A.
 Alignments are both broken here. "Broken" doesn't mean this read is broken into two parts. Just means A and B1/B2 are not consistant in this region.
-If the region where B1 cannot align t 
+If the region where B1 cannot align to A and the region where B2 cannot align to A have the same length, we can take the region in B1/B2 to 
 
 
 #### Alignment breaks
@@ -173,8 +173,8 @@ a region cannot be covered by a read, but there are some reads cover part of it
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODUzNTEyMDksLTE2MzMyOTkxMDYsLT
-E3NjU5MzI0ODgsLTExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEy
-MDMwMiwtMTk0NTU2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1Nz
-IyNCwxNTkxMzYyOTIwXX0=
+eyJoaXN0b3J5IjpbLTg5NDcwNDk1NywtMTYzMzI5OTEwNiwtMT
+c2NTkzMjQ4OCwtMTE0ODU4Njk5MiwtOTc3MjQ2MDcsMjA3MTIw
+MzAyLC0xOTQ1NTYyMzI0LC0xMzU1ODE2MTc4LC0xMTIyOTU3Mj
+I0LDE1OTEzNjI5MjBdfQ==
 -->
