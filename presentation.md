@@ -174,9 +174,10 @@ The sequence is bad, but not bad enough to break all alignments.
 We replace the low-quality region with B read spanning it.
 
 The alignment can continue at the native error rate.
+the longer the read, the more likely it has a larg
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Nzg1NjUxNSwtNTQyMjc2NzEwLC0xNj
+eyJoaXN0b3J5IjpbLTY1NjIzNTA2NCwtNTQyMjc2NzEwLC0xNj
 A2MDg4Njc0LC0xMjcwNzgyNTY2LC0xNTQxNTMyMTg4LC0xNjMz
 Mjk5MTA2LC0xNzY1OTMyNDg4LC0xMTQ4NTg2OTkyLC05NzcyND
 YwNywyMDcxMjAzMDIsLTE5NDU1NjIzMjQsLTEzNTU4MTYxNzgs
