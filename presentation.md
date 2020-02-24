@@ -159,6 +159,7 @@ C --> D
 ```
 
 ### Read patching
+
 #### Broken alignment 
 In this region of the long read, the quality is quite low.
 As a result, the sequence in this region of th long read is not consistent with any reads. All the alignments to this long reads break here. 
@@ -172,9 +173,9 @@ The sequence is bad, but not bad enough to break all alignments.
 We replace the low-quality region with B read spanning it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczMzIzODI2LC0xNjA2MDg4Njc0LC0xMj
-cwNzgyNTY2LC0xNTQxNTMyMTg4LC0xNjMzMjk5MTA2LC0xNzY1
-OTMyNDg4LC0xMTQ4NTg2OTkyLC05NzcyNDYwNywyMDcxMjAzMD
-IsLTE5NDU1NjIzMjQsLTEzNTU4MTYxNzgsLTExMjI5NTcyMjQs
-MTU5MTM2MjkyMF19
+eyJoaXN0b3J5IjpbLTE2OTc0MTY0MTYsLTE2MDYwODg2NzQsLT
+EyNzA3ODI1NjYsLTE1NDE1MzIxODgsLTE2MzMyOTkxMDYsLTE3
+NjU5MzI0ODgsLTExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEyMD
+MwMiwtMTk0NTU2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1NzIy
+NCwxNTkxMzYyOTIwXX0=
 -->
