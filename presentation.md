@@ -162,15 +162,18 @@ C --> D
 #### Broken alignment 
 In this region of the long read, the quality is quite low.
 As a result, the sequence in this region of th long read is not consistent with any reads. All the alignments to this long reads break here. 
-We look at the length of gaps in all alignments. If they are roughly identical, the fragment of B c
+We look at the length of gaps in all alignments. If they are roughly identical, the fragment of one of the B reads can be extract to patch A.
+
+Another picture discribes a similar scenario.
+
 #### Noisy regions
 a region cannot be covered by a read, but there are some reads cover part of it
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY5MjA0MSwtMTI3MDc4MjU2NiwtMT
-U0MTUzMjE4OCwtMTYzMzI5OTEwNiwtMTc2NTkzMjQ4OCwtMTE0
-ODU4Njk5MiwtOTc3MjQ2MDcsMjA3MTIwMzAyLC0xOTQ1NTYyMz
-I0LC0xMzU1ODE2MTc4LC0xMTIyOTU3MjI0LDE1OTEzNjI5MjBd
-fQ==
+eyJoaXN0b3J5IjpbODE0MDc1NTg2LC0xMjcwNzgyNTY2LC0xNT
+QxNTMyMTg4LC0xNjMzMjk5MTA2LC0xNzY1OTMyNDg4LC0xMTQ4
+NTg2OTkyLC05NzcyNDYwNywyMDcxMjAzMDIsLTE5NDU1NjIzMj
+QsLTEzNTU4MTYxNzgsLTExMjI5NTcyMjQsMTU5MTM2MjkyMF19
+
 -->
