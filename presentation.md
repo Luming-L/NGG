@@ -162,6 +162,7 @@ C --> D
 #### sequencing jump
 a small region cannot be matched with any reads
 A is a long read. B1 and B2 are reads aligned to A.
+But alignments are both broken here, because both A-B1 a
 #### Alignment breaks
 a larger region cannot be matched by any reads
 #### Noisy regions
@@ -169,8 +170,8 @@ a region cannot be covered by a read, but there are some reads cover part of it
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDYwMDM0OTQsLTE2MzMyOTkxMDYsLT
-E3NjU5MzI0ODgsLTExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEy
-MDMwMiwtMTk0NTU2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1Nz
-IyNCwxNTkxMzYyOTIwXX0=
+eyJoaXN0b3J5IjpbNTc1MTU4MDA0LC0xNjMzMjk5MTA2LC0xNz
+Y1OTMyNDg4LC0xMTQ4NTg2OTkyLC05NzcyNDYwNywyMDcxMjAz
+MDIsLTE5NDU1NjIzMjQsLTEzNTU4MTYxNzgsLTExMjI5NTcyMj
+QsMTU5MTM2MjkyMF19
 -->
