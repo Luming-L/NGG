@@ -169,12 +169,12 @@ Here, we look at B1 and B2 from the perspective of A, so there are gaps in B1 an
 Here, we look at A from the perspective of B1 and B2, respectively, so there is a gap in A.
 #### Noisy regions
 The sequence is bad, but not bad enough to break all alignments. 
-We replac
+We replace the low-quality region with B read spanning it.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzQzNTk3MSwtMTYwNjA4ODY3NCwtMT
-I3MDc4MjU2NiwtMTU0MTUzMjE4OCwtMTYzMzI5OTEwNiwtMTc2
-NTkzMjQ4OCwtMTE0ODU4Njk5MiwtOTc3MjQ2MDcsMjA3MTIwMz
-AyLC0xOTQ1NTYyMzI0LC0xMzU1ODE2MTc4LC0xMTIyOTU3MjI0
-LDE1OTEzNjI5MjBdfQ==
+eyJoaXN0b3J5IjpbNzczMzIzODI2LC0xNjA2MDg4Njc0LC0xMj
+cwNzgyNTY2LC0xNTQxNTMyMTg4LC0xNjMzMjk5MTA2LC0xNzY1
+OTMyNDg4LC0xMTQ4NTg2OTkyLC05NzcyNDYwNywyMDcxMjAzMD
+IsLTE5NDU1NjIzMjQsLTEzNTU4MTYxNzgsLTExMjI5NTcyMjQs
+MTU5MTM2MjkyMF19
 -->
