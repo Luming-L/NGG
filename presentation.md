@@ -161,15 +161,16 @@ C --> D
 ### Read patching
 #### Broken alignment 
 In this region of the long read, the quality is quite low.
-As a result, all the alignments to this long reads break here. The sequence in long read is not consistent 
+As a result, the sequence in this region of th long read is not consistent with any reads. All the alignments to this long reads break here. 
+We look at the length of 
 #### Noisy regions
 a region cannot be covered by a read, but there are some reads cover part of it
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzIxMTg1LC0xMjcwNzgyNTY2LC0xNT
-QxNTMyMTg4LC0xNjMzMjk5MTA2LC0xNzY1OTMyNDg4LC0xMTQ4
-NTg2OTkyLC05NzcyNDYwNywyMDcxMjAzMDIsLTE5NDU1NjIzMj
-QsLTEzNTU4MTYxNzgsLTExMjI5NTcyMjQsMTU5MTM2MjkyMF19
-
+eyJoaXN0b3J5IjpbLTE0MDYzMDQxMTMsLTEyNzA3ODI1NjYsLT
+E1NDE1MzIxODgsLTE2MzMyOTkxMDYsLTE3NjU5MzI0ODgsLTEx
+NDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEyMDMwMiwtMTk0NTU2Mj
+MyNCwtMTM1NTgxNjE3OCwtMTEyMjk1NzIyNCwxNTkxMzYyOTIw
+XX0=
 -->
