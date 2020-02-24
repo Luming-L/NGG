@@ -176,12 +176,11 @@ We replace the low-quality region with B read spanning it.
 The alignment can continue at the native error rate.
 The longer the read, the more likely it encounter errors.
 Long reads are very valuable and we should preserve them.
-
-
+fi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzQzODczMywtNTQyMjc2NzEwLC0xNj
-A2MDg4Njc0LC0xMjcwNzgyNTY2LC0xNTQxNTMyMTg4LC0xNjMz
-Mjk5MTA2LC0xNzY1OTMyNDg4LC0xMTQ4NTg2OTkyLC05NzcyND
-YwNywyMDcxMjAzMDIsLTE5NDU1NjIzMjQsLTEzNTU4MTYxNzgs
-LTExMjI5NTcyMjQsMTU5MTM2MjkyMF19
+eyJoaXN0b3J5IjpbLTEzMzg0Mzg3ODgsMTc5MzQzODczMywtNT
+QyMjc2NzEwLC0xNjA2MDg4Njc0LC0xMjcwNzgyNTY2LC0xNTQx
+NTMyMTg4LC0xNjMzMjk5MTA2LC0xNzY1OTMyNDg4LC0xMTQ4NT
+g2OTkyLC05NzcyNDYwNywyMDcxMjAzMDIsLTE5NDU1NjIzMjQs
+LTEzNTU4MTYxNzgsLTExMjI5NTcyMjQsMTU5MTM2MjkyMF19
 -->
