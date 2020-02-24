@@ -159,22 +159,16 @@ C --> D
 ```
 
 ### Read patching
-#### sequencing jump
-a small region cannot be matched with any reads
-A is a long read. B1 and B2 are reads aligned to A.
-Alignments are both broken here. "Broken" doesn't mean this read is broken into two parts. Just means A and B1/B2 are not consistant in this region.
-If the region where B1 cannot align to A and the region where B2 cannot align to A have roughly the same length, we can take the region in B1/B2 to patch A.
-
-
-#### Alignment breaks
+#### Broken alignment 
 a larger region cannot be matched by any reads
+In this region of the long read, the noisy 
 #### Noisy regions
 a region cannot be covered by a read, but there are some reads cover part of it
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE1MzIxODgsLTE2MzMyOTkxMDYsLT
-E3NjU5MzI0ODgsLTExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEy
-MDMwMiwtMTk0NTU2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1Nz
-IyNCwxNTkxMzYyOTIwXX0=
+eyJoaXN0b3J5IjpbODU5MjU5NTkzLC0xNTQxNTMyMTg4LC0xNj
+MzMjk5MTA2LC0xNzY1OTMyNDg4LC0xMTQ4NTg2OTkyLC05Nzcy
+NDYwNywyMDcxMjAzMDIsLTE5NDU1NjIzMjQsLTEzNTU4MTYxNz
+gsLTExMjI5NTcyMjQsMTU5MTM2MjkyMF19
 -->
