@@ -158,11 +158,15 @@ B --> D{Rhombus}
 C --> D
 ```
 
-Read patching
+### Read patching
+#### sequencing jump
+#### Alignment breaks
+#### Noisy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU5MzI0ODgsLTExNDg1ODY5OTIsLT
-k3NzI0NjA3LDIwNzEyMDMwMiwtMTk0NTU2MjMyNCwtMTM1NTgx
-NjE3OCwtMTEyMjk1NzIyNCwxNTkxMzYyOTIwXX0=
+eyJoaXN0b3J5IjpbLTg1NjUyMTE1OCwtMTc2NTkzMjQ4OCwtMT
+E0ODU4Njk5MiwtOTc3MjQ2MDcsMjA3MTIwMzAyLC0xOTQ1NTYy
+MzI0LC0xMzU1ODE2MTc4LC0xMTIyOTU3MjI0LDE1OTEzNjI5Mj
+BdfQ==
 -->
