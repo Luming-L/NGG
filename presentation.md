@@ -173,12 +173,12 @@ Here, we look at A from the perspective of B1 and B2, respectively, so there is 
 The sequence is bad, but not bad enough to break all alignments. 
 We replace the low-quality region with B read spanning it.
 
-The alignment can 
+The alignment can continue at the native error rate.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzOTg0MTMsLTU0MjI3NjcxMCwtMTYwNj
-A4ODY3NCwtMTI3MDc4MjU2NiwtMTU0MTUzMjE4OCwtMTYzMzI5
-OTEwNiwtMTc2NTkzMjQ4OCwtMTE0ODU4Njk5MiwtOTc3MjQ2MD
-csMjA3MTIwMzAyLC0xOTQ1NTYyMzI0LC0xMzU1ODE2MTc4LC0x
-MTIyOTU3MjI0LDE1OTEzNjI5MjBdfQ==
+eyJoaXN0b3J5IjpbLTg0Nzg1NjUxNSwtNTQyMjc2NzEwLC0xNj
+A2MDg4Njc0LC0xMjcwNzgyNTY2LC0xNTQxNTMyMTg4LC0xNjMz
+Mjk5MTA2LC0xNzY1OTMyNDg4LC0xMTQ4NTg2OTkyLC05NzcyND
+YwNywyMDcxMjAzMDIsLTE5NDU1NjIzMjQsLTEzNTU4MTYxNzgs
+LTExMjI5NTcyMjQsMTU5MTM2MjkyMF19
 -->
