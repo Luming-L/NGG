@@ -158,6 +158,10 @@ B --> D{Rhombus}
 C --> D
 ```
 
+MARVEL assembly pipeline
+To 
+
+
 ### Read patching
 not correct reads
 repairs large-scale errors
@@ -194,11 +198,11 @@ graph LR
 A[multiple millions of CPU hours/>2PB storage/one Daligner run] -- use dynamic repeat masking server --> B[150,000 CPU hours/120Tb storage space/the complete pipeline]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTY2ODU4MSwtMTYxMjY5NDg5MSwtMT
-E5NzYxMDUzNywtMTc5MTU3NTUyNCwxMzcxOTg1MzUzLC0xMzM5
-MTg2MDc4LDE3OTM0Mzg3MzMsLTU0MjI3NjcxMCwtMTYwNjA4OD
-Y3NCwtMTI3MDc4MjU2NiwtMTU0MTUzMjE4OCwtMTYzMzI5OTEw
-NiwtMTc2NTkzMjQ4OCwtMTE0ODU4Njk5MiwtOTc3MjQ2MDcsMj
-A3MTIwMzAyLC0xOTQ1NTYyMzI0LC0xMzU1ODE2MTc4LC0xMTIy
-OTU3MjI0LDE1OTEzNjI5MjBdfQ==
+eyJoaXN0b3J5IjpbLTg1NDE4MjE4MywtMzgxNjY4NTgxLC0xNj
+EyNjk0ODkxLC0xMTk3NjEwNTM3LC0xNzkxNTc1NTI0LDEzNzE5
+ODUzNTMsLTEzMzkxODYwNzgsMTc5MzQzODczMywtNTQyMjc2Nz
+EwLC0xNjA2MDg4Njc0LC0xMjcwNzgyNTY2LC0xNTQxNTMyMTg4
+LC0xNjMzMjk5MTA2LC0xNzY1OTMyNDg4LC0xMTQ4NTg2OTkyLC
+05NzcyNDYwNywyMDcxMjAzMDIsLTE5NDU1NjIzMjQsLTEzNTU4
+MTYxNzgsLTExMjI5NTcyMjRdfQ==
 -->
