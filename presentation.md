@@ -168,7 +168,7 @@ To reduce both computational time and storage space
 		- untrimmed adapters
 		- polymerase strand jumps
 		- ligation chimeras 
-not all-against-all alignment but a block-wise alignment
+not all-against-all alignment but a block-against-block alignment
 - assembly phase
 	- stitch phase short alignment artifacts
 	- annotate repeat
@@ -211,11 +211,11 @@ graph LR
 A[multiple millions of CPU hours/>2PB storage/one Daligner run] -- use dynamic repeat masking server --> B[150,000 CPU hours/120Tb storage space/the complete pipeline]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1MjM5NTk5LC0xOTYwNzYwNTg1LC04NT
-QxODIxODMsLTM4MTY2ODU4MSwtMTYxMjY5NDg5MSwtMTE5NzYx
-MDUzNywtMTc5MTU3NTUyNCwxMzcxOTg1MzUzLC0xMzM5MTg2MD
-c4LDE3OTM0Mzg3MzMsLTU0MjI3NjcxMCwtMTYwNjA4ODY3NCwt
-MTI3MDc4MjU2NiwtMTU0MTUzMjE4OCwtMTYzMzI5OTEwNiwtMT
-c2NTkzMjQ4OCwtMTE0ODU4Njk5MiwtOTc3MjQ2MDcsMjA3MTIw
-MzAyLC0xOTQ1NTYyMzI0XX0=
+eyJoaXN0b3J5IjpbLTE0MDkyNDk4OTIsNTY1MjM5NTk5LC0xOT
+YwNzYwNTg1LC04NTQxODIxODMsLTM4MTY2ODU4MSwtMTYxMjY5
+NDg5MSwtMTE5NzYxMDUzNywtMTc5MTU3NTUyNCwxMzcxOTg1Mz
+UzLC0xMzM5MTg2MDc4LDE3OTM0Mzg3MzMsLTU0MjI3NjcxMCwt
+MTYwNjA4ODY3NCwtMTI3MDc4MjU2NiwtMTU0MTUzMjE4OCwtMT
+YzMzI5OTEwNiwtMTc2NTkzMjQ4OCwtMTE0ODU4Njk5MiwtOTc3
+MjQ2MDcsMjA3MTIwMzAyXX0=
 -->
