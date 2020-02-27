@@ -161,8 +161,11 @@ C --> D
 MARVEL assembly pipeline
 To reduce both computational time and storage space
 - setup phase
-	- 
+	- extract PacBio reads from raw data
+	- save reads in an internal database 
 - patch phase
+	- detect and correct reads artifacts
+		- untrimmed  
 - assembly phase
 
 
@@ -202,11 +205,11 @@ graph LR
 A[multiple millions of CPU hours/>2PB storage/one Daligner run] -- use dynamic repeat masking server --> B[150,000 CPU hours/120Tb storage space/the complete pipeline]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4OTM1OTE3LC04NTQxODIxODMsLTM4MT
-Y2ODU4MSwtMTYxMjY5NDg5MSwtMTE5NzYxMDUzNywtMTc5MTU3
-NTUyNCwxMzcxOTg1MzUzLC0xMzM5MTg2MDc4LDE3OTM0Mzg3Mz
-MsLTU0MjI3NjcxMCwtMTYwNjA4ODY3NCwtMTI3MDc4MjU2Niwt
-MTU0MTUzMjE4OCwtMTYzMzI5OTEwNiwtMTc2NTkzMjQ4OCwtMT
-E0ODU4Njk5MiwtOTc3MjQ2MDcsMjA3MTIwMzAyLC0xOTQ1NTYy
-MzI0LC0xMzU1ODE2MTc4XX0=
+eyJoaXN0b3J5IjpbMTkyMzU2Mjc3MSwtODU0MTgyMTgzLC0zOD
+E2Njg1ODEsLTE2MTI2OTQ4OTEsLTExOTc2MTA1MzcsLTE3OTE1
+NzU1MjQsMTM3MTk4NTM1MywtMTMzOTE4NjA3OCwxNzkzNDM4Nz
+MzLC01NDIyNzY3MTAsLTE2MDYwODg2NzQsLTEyNzA3ODI1NjYs
+LTE1NDE1MzIxODgsLTE2MzMyOTkxMDYsLTE3NjU5MzI0ODgsLT
+ExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEyMDMwMiwtMTk0NTU2
+MjMyNCwtMTM1NTgxNjE3OF19
 -->
