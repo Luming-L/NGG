@@ -179,12 +179,16 @@ Long reads are very valuable and we should preserve them.
 figure7
 
 ### Repeat masking during overlapping phase
+masking server
+analyse alignments computed by overlapper jobs
+collect coverage statistics
+(significant deviation)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTg5MjEyNSwtMTMzOTE4NjA3OCwxNz
-kzNDM4NzMzLC01NDIyNzY3MTAsLTE2MDYwODg2NzQsLTEyNzA3
-ODI1NjYsLTE1NDE1MzIxODgsLTE2MzMyOTkxMDYsLTE3NjU5Mz
-I0ODgsLTExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEyMDMwMiwt
-MTk0NTU2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1NzIyNCwxNT
-kxMzYyOTIwXX0=
+eyJoaXN0b3J5IjpbLTIwNzgzNTQ2NzUsLTEzMzkxODYwNzgsMT
+c5MzQzODczMywtNTQyMjc2NzEwLC0xNjA2MDg4Njc0LC0xMjcw
+NzgyNTY2LC0xNTQxNTMyMTg4LC0xNjMzMjk5MTA2LC0xNzY1OT
+MyNDg4LC0xMTQ4NTg2OTkyLC05NzcyNDYwNywyMDcxMjAzMDIs
+LTE5NDU1NjIzMjQsLTEzNTU4MTYxNzgsLTExMjI5NTcyMjQsMT
+U5MTM2MjkyMF19
 -->
