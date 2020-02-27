@@ -189,13 +189,16 @@ masking server
 save compute time and storage requirements up to one order of magnitude
 - repeat-induced alignments is removed and will not be used to assembly
 - disambiguate junctions in the assembly graph
-
+```mermaid
+graph LR
+A[1] -- Link text --> B[2]
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI2OTQ4OTEsLTExOTc2MTA1MzcsLT
-E3OTE1NzU1MjQsMTM3MTk4NTM1MywtMTMzOTE4NjA3OCwxNzkz
-NDM4NzMzLC01NDIyNzY3MTAsLTE2MDYwODg2NzQsLTEyNzA3OD
-I1NjYsLTE1NDE1MzIxODgsLTE2MzMyOTkxMDYsLTE3NjU5MzI0
-ODgsLTExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEyMDMwMiwtMT
-k0NTU2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1NzIyNCwxNTkx
-MzYyOTIwXX0=
+eyJoaXN0b3J5IjpbLTcyNzY5MTAyNSwtMTYxMjY5NDg5MSwtMT
+E5NzYxMDUzNywtMTc5MTU3NTUyNCwxMzcxOTg1MzUzLC0xMzM5
+MTg2MDc4LDE3OTM0Mzg3MzMsLTU0MjI3NjcxMCwtMTYwNjA4OD
+Y3NCwtMTI3MDc4MjU2NiwtMTU0MTUzMjE4OCwtMTYzMzI5OTEw
+NiwtMTc2NTkzMjQ4OCwtMTE0ODU4Njk5MiwtOTc3MjQ2MDcsMj
+A3MTIwMzAyLC0xOTQ1NTYyMzI0LC0xMzU1ODE2MTc4LC0xMTIy
+OTU3MjI0LDE1OTEzNjI5MjBdfQ==
 -->
