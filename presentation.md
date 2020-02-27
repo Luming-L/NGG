@@ -188,14 +188,14 @@ masking server
 - exclude them from k-mer seeding
 save compute time and storage requirements up to one order of magnitude
 - repeat-induced alignments is removed and will not be used to assembly
-- disambiguate 
+- disambiguate junctions in the assembly graph
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODE0NzM5MCwtMTE5NzYxMDUzNywtMT
-c5MTU3NTUyNCwxMzcxOTg1MzUzLC0xMzM5MTg2MDc4LDE3OTM0
-Mzg3MzMsLTU0MjI3NjcxMCwtMTYwNjA4ODY3NCwtMTI3MDc4Mj
-U2NiwtMTU0MTUzMjE4OCwtMTYzMzI5OTEwNiwtMTc2NTkzMjQ4
-OCwtMTE0ODU4Njk5MiwtOTc3MjQ2MDcsMjA3MTIwMzAyLC0xOT
-Q1NTYyMzI0LC0xMzU1ODE2MTc4LC0xMTIyOTU3MjI0LDE1OTEz
-NjI5MjBdfQ==
+eyJoaXN0b3J5IjpbLTE2MTI2OTQ4OTEsLTExOTc2MTA1MzcsLT
+E3OTE1NzU1MjQsMTM3MTk4NTM1MywtMTMzOTE4NjA3OCwxNzkz
+NDM4NzMzLC01NDIyNzY3MTAsLTE2MDYwODg2NzQsLTEyNzA3OD
+I1NjYsLTE1NDE1MzIxODgsLTE2MzMyOTkxMDYsLTE3NjU5MzI0
+ODgsLTExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEyMDMwMiwtMT
+k0NTU2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1NzIyNCwxNTkx
+MzYyOTIwXX0=
 -->
