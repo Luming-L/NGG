@@ -191,14 +191,14 @@ save compute time and storage requirements up to one order of magnitude
 - disambiguate junctions in the assembly graph
 ```mermaid
 graph LR
-A[1] -- Link text --> B[2]
+A[multiple millions of CPU hours/>2PB storage/one Daligner] -- Link text --> B[2]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzY5MTAyNSwtMTYxMjY5NDg5MSwtMT
-E5NzYxMDUzNywtMTc5MTU3NTUyNCwxMzcxOTg1MzUzLC0xMzM5
-MTg2MDc4LDE3OTM0Mzg3MzMsLTU0MjI3NjcxMCwtMTYwNjA4OD
-Y3NCwtMTI3MDc4MjU2NiwtMTU0MTUzMjE4OCwtMTYzMzI5OTEw
-NiwtMTc2NTkzMjQ4OCwtMTE0ODU4Njk5MiwtOTc3MjQ2MDcsMj
-A3MTIwMzAyLC0xOTQ1NTYyMzI0LC0xMzU1ODE2MTc4LC0xMTIy
-OTU3MjI0LDE1OTEzNjI5MjBdfQ==
+eyJoaXN0b3J5IjpbMjc2MjY5MDgyLC0xNjEyNjk0ODkxLC0xMT
+k3NjEwNTM3LC0xNzkxNTc1NTI0LDEzNzE5ODUzNTMsLTEzMzkx
+ODYwNzgsMTc5MzQzODczMywtNTQyMjc2NzEwLC0xNjA2MDg4Nj
+c0LC0xMjcwNzgyNTY2LC0xNTQxNTMyMTg4LC0xNjMzMjk5MTA2
+LC0xNzY1OTMyNDg4LC0xMTQ4NTg2OTkyLC05NzcyNDYwNywyMD
+cxMjAzMDIsLTE5NDU1NjIzMjQsLTEzNTU4MTYxNzgsLTExMjI5
+NTcyMjQsMTU5MTM2MjkyMF19
 -->
