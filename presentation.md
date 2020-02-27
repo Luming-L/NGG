@@ -172,7 +172,7 @@ To reduce both computational time and storage space
 not all-against-all alignment but a block-against-block alignment
 - assembly phase
 	- stitch phase short alignment artifacts
-	- overlap with patched reads
+	- overlap with patched reads (mask repeats)
 	- annotate repeat
 	- generate overlap graph
 	- tour overlap graph and generate final contigs 
@@ -213,11 +213,11 @@ graph LR
 A[multiple millions of CPU hours/>2PB storage/one Daligner run] -- use dynamic repeat masking server --> B[150,000 CPU hours/120Tb storage space/the complete pipeline]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQwNTE4NzMsLTIwOTQwMTg5MTMsLT
-E0MDkyNDk4OTIsNTY1MjM5NTk5LC0xOTYwNzYwNTg1LC04NTQx
-ODIxODMsLTM4MTY2ODU4MSwtMTYxMjY5NDg5MSwtMTE5NzYxMD
-UzNywtMTc5MTU3NTUyNCwxMzcxOTg1MzUzLC0xMzM5MTg2MDc4
-LDE3OTM0Mzg3MzMsLTU0MjI3NjcxMCwtMTYwNjA4ODY3NCwtMT
-I3MDc4MjU2NiwtMTU0MTUzMjE4OCwtMTYzMzI5OTEwNiwtMTc2
-NTkzMjQ4OCwtMTE0ODU4Njk5Ml19
+eyJoaXN0b3J5IjpbMTgxNjYzMTA0LC0yMDk0MDE4OTEzLC0xND
+A5MjQ5ODkyLDU2NTIzOTU5OSwtMTk2MDc2MDU4NSwtODU0MTgy
+MTgzLC0zODE2Njg1ODEsLTE2MTI2OTQ4OTEsLTExOTc2MTA1Mz
+csLTE3OTE1NzU1MjQsMTM3MTk4NTM1MywtMTMzOTE4NjA3OCwx
+NzkzNDM4NzMzLC01NDIyNzY3MTAsLTE2MDYwODg2NzQsLTEyNz
+A3ODI1NjYsLTE1NDE1MzIxODgsLTE2MzMyOTkxMDYsLTE3NjU5
+MzI0ODgsLTExNDg1ODY5OTJdfQ==
 -->
