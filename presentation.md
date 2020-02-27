@@ -182,10 +182,14 @@ figure7
 masking server
 analyse alignments computed by overlapper jobs
 collect coverage statistics
-(significant deviation)
+(significant deviations from average coverage flagged as repeats)
+annotate them as repeat
+soft mask the repeat
+exclude them from k-mer seeding
+save compute time and storage req
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgzNTQ2NzUsLTEzMzkxODYwNzgsMT
+eyJoaXN0b3J5IjpbLTE1NTYxMjI2NDIsLTEzMzkxODYwNzgsMT
 c5MzQzODczMywtNTQyMjc2NzEwLC0xNjA2MDg4Njc0LC0xMjcw
 NzgyNTY2LC0xNTQxNTMyMTg4LC0xNjMzMjk5MTA2LC0xNzY1OT
 MyNDg4LC0xMTQ4NTg2OTkyLC05NzcyNDYwNywyMDcxMjAzMDIs
