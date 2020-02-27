@@ -159,7 +159,11 @@ C --> D
 ```
 
 MARVEL assembly pipeline
-To 
+To reduce both computational time and storage space
+- setup phase
+	- 
+- patch phase
+- assembly phase
 
 
 ### Read patching
@@ -198,11 +202,11 @@ graph LR
 A[multiple millions of CPU hours/>2PB storage/one Daligner run] -- use dynamic repeat masking server --> B[150,000 CPU hours/120Tb storage space/the complete pipeline]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDE4MjE4MywtMzgxNjY4NTgxLC0xNj
-EyNjk0ODkxLC0xMTk3NjEwNTM3LC0xNzkxNTc1NTI0LDEzNzE5
-ODUzNTMsLTEzMzkxODYwNzgsMTc5MzQzODczMywtNTQyMjc2Nz
-EwLC0xNjA2MDg4Njc0LC0xMjcwNzgyNTY2LC0xNTQxNTMyMTg4
-LC0xNjMzMjk5MTA2LC0xNzY1OTMyNDg4LC0xMTQ4NTg2OTkyLC
-05NzcyNDYwNywyMDcxMjAzMDIsLTE5NDU1NjIzMjQsLTEzNTU4
-MTYxNzgsLTExMjI5NTcyMjRdfQ==
+eyJoaXN0b3J5IjpbNjI4OTM1OTE3LC04NTQxODIxODMsLTM4MT
+Y2ODU4MSwtMTYxMjY5NDg5MSwtMTE5NzYxMDUzNywtMTc5MTU3
+NTUyNCwxMzcxOTg1MzUzLC0xMzM5MTg2MDc4LDE3OTM0Mzg3Mz
+MsLTU0MjI3NjcxMCwtMTYwNjA4ODY3NCwtMTI3MDc4MjU2Niwt
+MTU0MTUzMjE4OCwtMTYzMzI5OTEwNiwtMTc2NTkzMjQ4OCwtMT
+E0ODU4Njk5MiwtOTc3MjQ2MDcsMjA3MTIwMzAyLC0xOTQ1NTYy
+MzI0LC0xMzU1ODE2MTc4XX0=
 -->
