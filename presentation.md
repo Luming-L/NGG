@@ -165,8 +165,14 @@ To reduce both computational time and storage space
 	- save reads in an internal database 
 - patch phase
 	- detect and correct reads artifacts
-		- untrimmed  
+		- untrimmed adapters
+		- polymerase strand jumps
+		- ligation chimeras 
 - assembly phase
+	- stitch phase short alignment artifacts
+	- annotate repeat
+	- generate overlap graph
+	- tour overlap graph 
 
 
 ### Read patching
@@ -205,7 +211,7 @@ graph LR
 A[multiple millions of CPU hours/>2PB storage/one Daligner run] -- use dynamic repeat masking server --> B[150,000 CPU hours/120Tb storage space/the complete pipeline]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzU2Mjc3MSwtODU0MTgyMTgzLC0zOD
+eyJoaXN0b3J5IjpbLTQwNTA2MDA4OCwtODU0MTgyMTgzLC0zOD
 E2Njg1ODEsLTE2MTI2OTQ4OTEsLTExOTc2MTA1MzcsLTE3OTE1
 NzU1MjQsMTM3MTk4NTM1MywtMTMzOTE4NjA3OCwxNzkzNDM4Nz
 MzLC01NDIyNzY3MTAsLTE2MDYwODg2NzQsLTEyNzA3ODI1NjYs
