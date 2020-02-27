@@ -186,13 +186,13 @@ collect coverage statistics
 annotate them as repeat
 soft mask the repeat
 exclude them from k-mer seeding
-save compute time and storage req
+save compute time and storage requirements up to one order of magnitude
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYxMjI2NDIsLTEzMzkxODYwNzgsMT
-c5MzQzODczMywtNTQyMjc2NzEwLC0xNjA2MDg4Njc0LC0xMjcw
-NzgyNTY2LC0xNTQxNTMyMTg4LC0xNjMzMjk5MTA2LC0xNzY1OT
-MyNDg4LC0xMTQ4NTg2OTkyLC05NzcyNDYwNywyMDcxMjAzMDIs
-LTE5NDU1NjIzMjQsLTEzNTU4MTYxNzgsLTExMjI5NTcyMjQsMT
-U5MTM2MjkyMF19
+eyJoaXN0b3J5IjpbMTM3MTk4NTM1MywtMTMzOTE4NjA3OCwxNz
+kzNDM4NzMzLC01NDIyNzY3MTAsLTE2MDYwODg2NzQsLTEyNzA3
+ODI1NjYsLTE1NDE1MzIxODgsLTE2MzMyOTkxMDYsLTE3NjU5Mz
+I0ODgsLTExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEyMDMwMiwt
+MTk0NTU2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1NzIyNCwxNT
+kxMzYyOTIwXX0=
 -->
