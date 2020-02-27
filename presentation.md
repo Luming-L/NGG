@@ -177,10 +177,14 @@ The alignment can continue at the native error rate.
 The longer the read, the more likely it encounter errors.
 Long reads are very valuable and we should preserve them.
 figure7
+
+### Repeat masking during overlapping phase
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkxODYwNzgsMTc5MzQzODczMywtNT
-QyMjc2NzEwLC0xNjA2MDg4Njc0LC0xMjcwNzgyNTY2LC0xNTQx
-NTMyMTg4LC0xNjMzMjk5MTA2LC0xNzY1OTMyNDg4LC0xMTQ4NT
-g2OTkyLC05NzcyNDYwNywyMDcxMjAzMDIsLTE5NDU1NjIzMjQs
-LTEzNTU4MTYxNzgsLTExMjI5NTcyMjQsMTU5MTM2MjkyMF19
+eyJoaXN0b3J5IjpbMTQ4MTg5MjEyNSwtMTMzOTE4NjA3OCwxNz
+kzNDM4NzMzLC01NDIyNzY3MTAsLTE2MDYwODg2NzQsLTEyNzA3
+ODI1NjYsLTE1NDE1MzIxODgsLTE2MzMyOTkxMDYsLTE3NjU5Mz
+I0ODgsLTExNDg1ODY5OTIsLTk3NzI0NjA3LDIwNzEyMDMwMiwt
+MTk0NTU2MjMyNCwtMTM1NTgxNjE3OCwtMTEyMjk1NzIyNCwxNT
+kxMzYyOTIwXX0=
 -->
