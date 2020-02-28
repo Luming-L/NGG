@@ -186,8 +186,8 @@ As a result, the sequence in this region of th long read is not consistent with 
 We look at the length of gaps in all alignments. If they are roughly identical, the fragment of one of the B reads can be extract to patch A.
 
 Another picture discribes a similar scenario.
-Here, we look at B1 and B2 from the perspective of A, so there are gs in B1 and B2.
-Here, we look at A from the perspective of B1 and B2, respectively, so there is a gap in A.
+Here, we look at B1 and B2 from the perspective of A, so there are mismatchs in B1 and B2.
+Here, we look at A from the perspective of B1 and B2, respectively, so there are mismatch in A.
 #### Noisy regions - low quality
 The sequence is bad, but not bad enough to break all alignments. 
 We replace the low-quality region with B read spanning it.
@@ -213,7 +213,7 @@ graph LR
 A[multiple millions of CPU hours/>2PB storage/one Daligner run] -- use dynamic repeat masking server --> B[150,000 CPU hours/120Tb storage space/the complete pipeline]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDU4ODE3NywxODE2NjMxMDQsLTIwOT
+eyJoaXN0b3J5IjpbMTQ5NDE5NzQyOSwxODE2NjMxMDQsLTIwOT
 QwMTg5MTMsLTE0MDkyNDk4OTIsNTY1MjM5NTk5LC0xOTYwNzYw
 NTg1LC04NTQxODIxODMsLTM4MTY2ODU4MSwtMTYxMjY5NDg5MS
 wtMTE5NzYxMDUzNywtMTc5MTU3NTUyNCwxMzcxOTg1MzUzLC0x
