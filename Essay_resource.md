@@ -63,6 +63,7 @@ The last technology highlighted here was introduced by 10X Genomics in 2015 who 
 
 
 >[all plant genomes](https://www.plabipd.de/plant_genomes_pa.ep)
+>[E. ferox](https://www.nature.com/articles/s41477-020-0594-6#data-availability)
 
 > [The impact of third generation genomic technologies on plant genome assembly](https://www.sciencedirect.com/science/article/pii/S1369526616301315#!)
 
@@ -70,5 +71,5 @@ The last technology highlighted here was introduced by 10X Genomics in 2015 who 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjA1MDE4OV19
+eyJoaXN0b3J5IjpbMTM1NjM0NTM2NF19
 -->
