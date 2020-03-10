@@ -1,7 +1,8 @@
 | Organism | Size | contig<br>number | contig<br>N50 | Scaffold<br>number | estimated completeness | 
 | :------------: | :------------: |  :------------: | :------------: | :------------: | :------------: | 
 |Nymphaea colorata|409 Mb| 1429 | 2.1 Mb| 804 | 94.4%
-[https://bigd.big.ac.cn/gwh/Assembly/651/show](https://bigd.big.ac.cn/gwh/Assembly/651/show)
+1MB = 1,000,000（106）(https://zh.wikipedia.org/wiki/Byte "Byte")
+[Nymphaea colorata](https://bigd.big.ac.cn/gwh/Assembly/651/show)
 ## sequencing
 Genome sequencing
 PacBio RSII single-molecule real-time (SMRT) sequencing technology
@@ -54,10 +55,10 @@ contig
 scaffold
 N50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4OTM2NzY5LC0xNDgwMjk2MjEwLDIzND
-A0MzIyNywyNTk0MTQ1NzUsLTM0MjgxNDUwMSwxMDM4OTc3Nzcx
-LDIwMzQzMDAxOTQsLTcyNjI4MTEwMSw2MzM1MTUyMTAsMTM1Nj
-E4NDI1MSwtMTUzNDI3MjE4MSwxNDk1MTA1NDIwLC0yMDM3NTI3
-NDIsLTE1MDQzMzQxMTMsLTY0NjQ4NTQzMSw0OTc4MTg4MTBdfQ
-==
+eyJoaXN0b3J5IjpbMTI2MzIyMjM0OSwtMTQ4MDI5NjIxMCwyMz
+QwNDMyMjcsMjU5NDE0NTc1LC0zNDI4MTQ1MDEsMTAzODk3Nzc3
+MSwyMDM0MzAwMTk0LC03MjYyODExMDEsNjMzNTE1MjEwLDEzNT
+YxODQyNTEsLTE1MzQyNzIxODEsMTQ5NTEwNTQyMCwtMjAzNzUy
+NzQyLC0xNTA0MzM0MTEzLC02NDY0ODU0MzEsNDk3ODE4ODEwXX
+0=
 -->
