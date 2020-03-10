@@ -1,7 +1,7 @@
 | Organism | Size | contig<br>number | contig<br>N50 | Scaffold<br>number | estimated completeness | 
 | :------------: | :------------: |  :------------: | :------------: | :------------: | :------------: | 
 |Nymphaea colorata|409 Mb| 1429 | 2.1 Mb| 804 | 94.4%
-1MB = 1,000,000（106）(https://zh.wikipedia.org/wiki/Byte "Byte")
+1MB = 1,000,000（10^6）B
 [Nymphaea colorata](https://bigd.big.ac.cn/gwh/Assembly/651/show)
 ## sequencing
 Genome sequencing
@@ -55,7 +55,7 @@ contig
 scaffold
 N50
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzIyMjM0OSwtMTQ4MDI5NjIxMCwyMz
+eyJoaXN0b3J5IjpbMTc4MzY1MjI0NiwtMTQ4MDI5NjIxMCwyMz
 QwNDMyMjcsMjU5NDE0NTc1LC0zNDI4MTQ1MDEsMTAzODk3Nzc3
 MSwyMDM0MzAwMTk0LC03MjYyODExMDEsNjMzNTE1MjEwLDEzNT
 YxODQyNTEsLTE1MzQyNzIxODEsMTQ5NTEwNTQyMCwtMjAzNzUy
